@@ -1,0 +1,52 @@
+[
+ {
+  "id": 90000000001,
+  "issuer_name": "C=XX, O=CA Gratuita Exemplo, CN=E1",
+  "common_name": "serraazul-pix.example",
+  "name_value": "serraazul-pix.example\nwww.serraazul-pix.example\nserraazul-seguranca.example\npainel.serraazul-pix.example",
+  "entry_timestamp": "2026-10-04T19:12:41.120",
+  "not_before": "2026-10-04T18:12:41",
+  "not_after": "2027-01-02T18:12:40",
+  "serial_number": "0aa1fict0001"
+ },
+ {
+  "id": 90000000002,
+  "issuer_name": "C=XX, O=CA Gratuita Exemplo, CN=E1",
+  "common_name": "mail.serraazul-seguranca.example",
+  "name_value": "mail.serraazul-seguranca.example",
+  "entry_timestamp": "2026-10-08T23:58:03.881",
+  "not_before": "2026-10-08T22:58:03",
+  "not_after": "2027-01-06T22:58:02",
+  "serial_number": "0aa1fict0002"
+ },
+ {
+  "id": 80000000010,
+  "issuer_name": "C=XX, O=CA Comercial Exemplo, CN=OV R3",
+  "common_name": "serraazul.example",
+  "name_value": "serraazul.example\nwww.serraazul.example",
+  "entry_timestamp": "2025-11-20T10:30:00.000",
+  "not_before": "2025-11-20T00:00:00",
+  "not_after": "2026-11-20T23:59:59",
+  "serial_number": "07leg0001"
+ },
+ {
+  "id": 80000000011,
+  "issuer_name": "C=XX, O=CA Comercial Exemplo, CN=OV R3",
+  "common_name": "internet.serraazul.example",
+  "name_value": "internet.serraazul.example\napp.serraazul.example",
+  "entry_timestamp": "2025-11-20T10:31:00.000",
+  "not_before": "2025-11-20T00:00:00",
+  "not_after": "2026-11-20T23:59:59",
+  "serial_number": "07leg0002"
+ },
+ {
+  "id": 70000000005,
+  "issuer_name": "C=XX, O=CA Comercial Exemplo, CN=OV R2",
+  "common_name": "intranet-antiga.serraazul.example",
+  "name_value": "intranet-antiga.serraazul.example",
+  "entry_timestamp": "2021-03-01T09:00:00.000",
+  "not_before": "2021-03-01T00:00:00",
+  "not_after": "2022-03-01T23:59:59",
+  "serial_number": "05leg0099"
+ }
+]

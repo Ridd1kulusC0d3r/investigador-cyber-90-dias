@@ -1,0 +1,7 @@
+dominio,data_snapshot,fonte,registrar,ns,titular
+serraazul.example,2012-05-02,histórico (serviço fictício),Registrar Antigo (fictício),ns1.hospedagem-antiga.example,Cooperativa de Crédito Serra Azul
+serraazul.example,2016-07-19,histórico (serviço fictício),Registrar Tradicional (fictício),ns1.hospedagem-antiga.example,Cooperativa de Crédito Serra Azul
+serraazul.example,2021-02-03,histórico (serviço fictício),Registrar Tradicional (fictício),ns1.provedor-dns.example,REDACTED FOR PRIVACY
+serraazul-pix.example,2026-10-07,histórico (serviço fictício),Registrar Barato (fictício),ns1.dnsbarato.example,REDACTED FOR PRIVACY
+coopserra-azul.example,2019-04-10,histórico (serviço fictício),Registrar Antigo (fictício),ns1.parking.example,"Associação de Feirantes Serra Azul (fictícia, sem relação com o caso)"
+coopserra-azul.example,2024-05-02,histórico (serviço fictício),Registrar Antigo (fictício),ns1.parking.example,status: pendingDelete (expirou sem renovação)

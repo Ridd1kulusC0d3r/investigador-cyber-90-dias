@@ -1,0 +1,40 @@
+; Saídas ilustrativas (fictícias) de dig — Operação Isca, Dia 30 (consulta de 2026-10-09, antes da suspensão da hospedagem)
+; dig serraazul.example A +noall +answer
+serraazul.example.		300	IN	A	192.0.2.10
+; dig serraazul.example MX +short
+10 mx.serraazul.example.
+; dig serraazul.example NS +short
+ns1.provedor-dns.example.
+; dig serraazul.example SOA +short
+ns1.provedor-dns.example. ti.serraazul.example. 2025112001 7200 3600 1209600 300
+; dig serraazul.example TXT +short
+"v=spf1 ip4:192.0.2.0/24 -all"
+"google-site-verification=FICTICIO123"
+; dig _dmarc.serraazul.example TXT +short
+"v=DMARC1; p=none; rua=mailto:dmarc@serraazul.example"
+; dig intranet-antiga.serraazul.example A +short
+192.0.2.44
+; dig serraazul-pix.example A +short
+203.0.113.77
+; dig serraazul-pix.example NS +short
+ns1.dnsbarato.example.
+ns2.dnsbarato.example.
+; dig serraazul-pix.example MX +short
+; (sem resposta)
+; dig serraazul-seguranca.example A +short
+203.0.113.77
+; dig serraazul-seguranca.example NS +short
+ns1.dnsbarato.example.
+; dig serraazul-seguranca.example MX +short
+10 mail.serraazul-seguranca.example.
+; dig coopserra-azul.example A +short
+; (sem resposta: só NS de estacionamento)
+; dig coopserra-azul.example NS +short
+ns1.registrar-parking.example.
+; dig -x 203.0.113.77 +short
+vps-77.hospedagem-compartilhada.example.
+; Team Cymru (formato real, dados fictícios; ASNs da faixa de documentação RFC 5398)
+AS      | IP               | BGP Prefix          | CC | Registry | Allocated  | AS Name
+64501   | 203.0.113.77     | 203.0.113.0/24      | XX | ficticio | 2019-01-01 | HOSPEDAGEM-COMPARTILHADA-EXEMPLO (fictício)
+64500   | 192.0.2.10       | 192.0.2.0/24        | BR | ficticio | 2010-01-01 | CDN-EXEMPLO (fictício)
+64502   | 192.0.2.44       | 192.0.2.0/24        | BR | ficticio | 2010-01-01 | COOPERATIVA-SERRA-AZUL (fictício)

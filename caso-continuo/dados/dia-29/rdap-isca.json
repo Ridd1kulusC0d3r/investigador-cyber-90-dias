@@ -1,0 +1,351 @@
+{
+ "serraazul.example": {
+  "objectClassName": "domain",
+  "ldhName": "serraazul.example",
+  "status": [
+   "client transfer prohibited",
+   "client delete prohibited"
+  ],
+  "events": [
+   {
+    "eventAction": "registration",
+    "eventDate": "2004-03-15T13:00:00Z"
+   },
+   {
+    "eventAction": "expiration",
+    "eventDate": "2027-03-15T13:00:00Z"
+   },
+   {
+    "eventAction": "last changed",
+    "eventDate": "2025-11-20T10:12:00Z"
+   }
+  ],
+  "nameservers": [
+   {
+    "objectClassName": "nameserver",
+    "ldhName": "ns1.provedor-dns.example"
+   }
+  ],
+  "secureDNS": {
+   "delegationSigned": true
+  },
+  "entities": [
+   {
+    "objectClassName": "entity",
+    "roles": [
+     "registrar"
+    ],
+    "vcardArray": [
+     "vcard",
+     [
+      [
+       "version",
+       {},
+       "text",
+       "4.0"
+      ],
+      [
+       "fn",
+       {},
+       "text",
+       "Registrar Tradicional (fictício)"
+      ]
+     ]
+    ]
+   },
+   {
+    "objectClassName": "entity",
+    "roles": [
+     "registrant"
+    ],
+    "vcardArray": [
+     "vcard",
+     [
+      [
+       "version",
+       {},
+       "text",
+       "4.0"
+      ],
+      [
+       "fn",
+       {},
+       "text",
+       "Cooperativa de Crédito Serra Azul (fictícia)"
+      ]
+     ]
+    ]
+   }
+  ],
+  "notices": [
+   {
+    "title": "Dado fictício",
+    "description": [
+     "Operação Isca — material de estudo. Nada aqui é real."
+    ]
+   }
+  ]
+ },
+ "serraazul-pix.example": {
+  "objectClassName": "domain",
+  "ldhName": "serraazul-pix.example",
+  "status": [
+   "client transfer prohibited"
+  ],
+  "events": [
+   {
+    "eventAction": "registration",
+    "eventDate": "2026-10-02T14:22:10Z"
+   },
+   {
+    "eventAction": "expiration",
+    "eventDate": "2027-10-02T14:22:10Z"
+   },
+   {
+    "eventAction": "last changed",
+    "eventDate": "2026-10-02T14:22:10Z"
+   }
+  ],
+  "nameservers": [
+   {
+    "objectClassName": "nameserver",
+    "ldhName": "ns1.dnsbarato.example"
+   },
+   {
+    "objectClassName": "nameserver",
+    "ldhName": "ns2.dnsbarato.example"
+   }
+  ],
+  "secureDNS": {
+   "delegationSigned": false
+  },
+  "entities": [
+   {
+    "objectClassName": "entity",
+    "roles": [
+     "registrar"
+    ],
+    "vcardArray": [
+     "vcard",
+     [
+      [
+       "version",
+       {},
+       "text",
+       "4.0"
+      ],
+      [
+       "fn",
+       {},
+       "text",
+       "Registrar Barato (fictício)"
+      ]
+     ]
+    ]
+   },
+   {
+    "objectClassName": "entity",
+    "roles": [
+     "registrant"
+    ],
+    "vcardArray": [
+     "vcard",
+     [
+      [
+       "version",
+       {},
+       "text",
+       "4.0"
+      ],
+      [
+       "fn",
+       {},
+       "text",
+       "REDACTED FOR PRIVACY"
+      ]
+     ]
+    ]
+   }
+  ],
+  "notices": [
+   {
+    "title": "Dado fictício",
+    "description": [
+     "Operação Isca — material de estudo. Nada aqui é real."
+    ]
+   }
+  ]
+ },
+ "serraazul-seguranca.example": {
+  "objectClassName": "domain",
+  "ldhName": "serraazul-seguranca.example",
+  "status": [
+   "client transfer prohibited"
+  ],
+  "events": [
+   {
+    "eventAction": "registration",
+    "eventDate": "2026-10-02T14:25:47Z"
+   },
+   {
+    "eventAction": "expiration",
+    "eventDate": "2027-10-02T14:25:47Z"
+   },
+   {
+    "eventAction": "last changed",
+    "eventDate": "2026-10-02T14:25:47Z"
+   }
+  ],
+  "nameservers": [
+   {
+    "objectClassName": "nameserver",
+    "ldhName": "ns1.dnsbarato.example"
+   }
+  ],
+  "secureDNS": {
+   "delegationSigned": false
+  },
+  "entities": [
+   {
+    "objectClassName": "entity",
+    "roles": [
+     "registrar"
+    ],
+    "vcardArray": [
+     "vcard",
+     [
+      [
+       "version",
+       {},
+       "text",
+       "4.0"
+      ],
+      [
+       "fn",
+       {},
+       "text",
+       "Registrar Barato (fictício)"
+      ]
+     ]
+    ]
+   },
+   {
+    "objectClassName": "entity",
+    "roles": [
+     "registrant"
+    ],
+    "vcardArray": [
+     "vcard",
+     [
+      [
+       "version",
+       {},
+       "text",
+       "4.0"
+      ],
+      [
+       "fn",
+       {},
+       "text",
+       "REDACTED FOR PRIVACY"
+      ]
+     ]
+    ]
+   }
+  ],
+  "notices": [
+   {
+    "title": "Dado fictício",
+    "description": [
+     "Operação Isca — material de estudo. Nada aqui é real."
+    ]
+   }
+  ]
+ },
+ "coopserra-azul.example": {
+  "objectClassName": "domain",
+  "ldhName": "coopserra-azul.example",
+  "status": [
+   "client transfer prohibited"
+  ],
+  "events": [
+   {
+    "eventAction": "registration",
+    "eventDate": "2026-10-03T02:03:00Z"
+   },
+   {
+    "eventAction": "expiration",
+    "eventDate": "2027-10-03T02:03:00Z"
+   },
+   {
+    "eventAction": "last changed",
+    "eventDate": "2026-10-03T02:03:00Z"
+   }
+  ],
+  "nameservers": [
+   {
+    "objectClassName": "nameserver",
+    "ldhName": "ns1.registrar-parking.example"
+   }
+  ],
+  "secureDNS": {
+   "delegationSigned": false
+  },
+  "entities": [
+   {
+    "objectClassName": "entity",
+    "roles": [
+     "registrar"
+    ],
+    "vcardArray": [
+     "vcard",
+     [
+      [
+       "version",
+       {},
+       "text",
+       "4.0"
+      ],
+      [
+       "fn",
+       {},
+       "text",
+       "Registrar Parking (fictício)"
+      ]
+     ]
+    ]
+   },
+   {
+    "objectClassName": "entity",
+    "roles": [
+     "registrant"
+    ],
+    "vcardArray": [
+     "vcard",
+     [
+      [
+       "version",
+       {},
+       "text",
+       "4.0"
+      ],
+      [
+       "fn",
+       {},
+       "text",
+       "Privacy Proxy Exemplo (fictício)"
+      ]
+     ]
+    ]
+   }
+  ],
+  "notices": [
+   {
+    "title": "Dado fictício",
+    "description": [
+     "Operação Isca — material de estudo. Nada aqui é real."
+    ]
+   }
+  ]
+ }
+}

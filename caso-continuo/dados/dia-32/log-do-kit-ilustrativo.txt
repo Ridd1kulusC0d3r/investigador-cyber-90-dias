@@ -1,0 +1,12 @@
+# Log ilustrativo (fictício) do tipo que o servidor do IscaKit grava. A Vigia NÃO tem este log:
+# ele mostra o que o "Pescador" provavelmente vê de quem visita o site falso.
+# formato: data_utc | ip | asn_dono | user_agent | accept_language | fuso_js | referer | resposta
+2026-10-05T10:31:02Z | 198.51.100.4    | AS64503 OPERADORA-MOVEL-EXEMPLO | Mozilla/5.0 (Linux; Android 14) Mobile | pt-BR | America/Sao_Paulo | lnk.example/sa7 | 200 kit
+2026-10-05T10:31:40Z | 198.51.100.9    | AS64503 OPERADORA-MOVEL-EXEMPLO | Mozilla/5.0 (iPhone; CPU iPhone OS 18_0) | pt-BR | America/Sao_Paulo | lnk.example/sa7 | 200 kit
+2026-10-05T12:14:07Z | 198.51.100.130  | AS64502 COOPERATIVA-SERRA-AZUL  | Mozilla/5.0 (Windows NT 10.0) Chrome | pt-BR | America/Sao_Paulo | (e-mail interno) | 200 kit
+2026-10-05T14:02:55Z | 192.0.2.40      | AS64504 VIGIA-ESCRITORIO        | Mozilla/5.0 (X11; Linux x86_64) Firefox | pt-BR,en | America/Sao_Paulo | (direto) | 200 kit
+2026-10-05T14:03:10Z | 192.0.2.40      | AS64504 VIGIA-ESCRITORIO        | Mozilla/5.0 (X11; Linux x86_64) Firefox | pt-BR,en | America/Sao_Paulo | (direto) | 200 kit
+2026-10-06T09:10:12Z | 198.51.100.130  | AS64502 COOPERATIVA-SERRA-AZUL  | Mozilla/5.0 (Windows NT 10.0) Chrome | pt-BR | America/Sao_Paulo | (direto) | 200 pagina-em-branco
+2026-10-06T09:40:31Z | 192.0.2.40      | AS64504 VIGIA-ESCRITORIO        | Mozilla/5.0 (X11; Linux x86_64) Firefox | pt-BR,en | America/Sao_Paulo | (direto) | 200 pagina-em-branco
+2026-10-06T09:52:44Z | 203.0.113.200   | AS64505 VPN-COMERCIAL-EXEMPLO   | Mozilla/5.0 (X11; Linux x86_64) Firefox | pt-BR | America/Sao_Paulo | (direto) | 200 kit
+2026-10-06T09:55:03Z | 198.51.100.15   | AS64503 OPERADORA-MOVEL-EXEMPLO | Mozilla/5.0 (Linux; Android 13) Mobile | pt-BR | America/Sao_Paulo | lnk.example/sa7 | 200 kit

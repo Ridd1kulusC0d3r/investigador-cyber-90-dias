@@ -357,7 +357,7 @@ Abra o [notebook do Dia 79 no Colab](https://colab.research.google.com/github/Ri
 
 **Segurança desde a concepção.** O art. 46, §2º pede que as medidas de segurança sejam observadas desde a fase de concepção do produto ou serviço até a sua execução. Privilégio mínimo no IAM de um chatbot que consulta cadastro de cooperados é exatamente isso.
 
-**Setor financeiro.** Cooperativas de crédito autorizadas pelo Banco Central seguem a Resolução CMN nº 4.893/2021 na contratação de processamento e armazenamento em nuvem, o que inclui exigir do fornecedor controles de acesso. <!-- TODO jurídico: confirmar se a Res. CMN 4.893/2021 se aplica integralmente a cooperativas de crédito ou se há norma específica (ex.: Res. BCB/CMN para cooperativas). -->
+**Setor financeiro.** Cooperativas de crédito autorizadas pelo Banco Central seguem a Resolução CMN nº 4.893/2021 na contratação de processamento e armazenamento em nuvem, o que inclui exigir do fornecedor controles de acesso. A Res. CMN 4.893/2021 se dirige às instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central, o que inclui as cooperativas de crédito. Ela foi alterada pela Res. CMN 5.274/2025 (publicada em 22/12/2025, com adequação até 1º/3/2026), que acrescentou, entre outros pontos, testes de intrusão ao menos anuais por terceiro independente e controles específicos para os ambientes Pix.
 
 > Este repositório é material de estudo e não constitui orientação jurídica.
 

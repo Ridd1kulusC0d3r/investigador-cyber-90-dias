@@ -6,7 +6,8 @@
 [![Baseado em](https://img.shields.io/badge/baseado%20em-ThiefDroppers-0d4da5)](https://github.com/thiefdroppers/cyber-investigator-skills)
 [![Currículo](https://img.shields.io/badge/curr%C3%ADculo-90%20dias-0d4da5)](curriculo/)
 [![Python](https://img.shields.io/badge/python-s%C3%B3%20stdlib-3776ab)](scripts/)
-[![Progresso](https://img.shields.io/badge/progresso-1%2F90-orange)](curriculo/)
+[![Conteúdo](https://img.shields.io/badge/conte%C3%BAdo-90%2F90%20dias-2ea44f)](curriculo/)
+[![Estudado](https://img.shields.io/badge/estudado-0%2F90-orange)](curriculo/)
 
 ---
 
@@ -47,7 +48,9 @@ O original está incluído como submódulo em [`upstream/`](upstream/), apontand
 | [6. Nuvem e sistemas de IA](curriculo/#fase-6-investiga%C3%A7%C3%A3o-em-nuvem-e-sistemas-de-ia-dias-77-a-82) | 77–82 | A | Logs de auditoria de nuvem, abuso de IAM, abuso de IA e LLM | Grafo de acesso IAM; grafo de caminho de ataque entre recursos mal configurados |
 | [7. Capstone e carreira](curriculo/#fase-7-capstone-e-carreira-dias-83-a-90) | 83–90 | **S** | Uma investigação simulada completa, do recebimento ao relatório | Grafo do caso ligando todas as entidades e evidências, mais o relatório escrito |
 
-Status dia a dia: [`curriculo/README.md`](curriculo/).
+Status dia a dia: [`curriculo/README.md`](curriculo/). Os 90 dias já estão escritos (📝); cada um vira ✅ quando você faz a prática e o artefato existe.
+
+Pontos jurídicos que os autores preferiram não afirmar sem conferir na fonte estão listados em [PENDENCIAS.md](PENDENCIAS.md).
 
 ## Ética e regras do jogo
 
@@ -67,14 +70,15 @@ A regra que atravessa todas as fases é **cace padrões, não pessoas**. Se esti
 ```
 investigador-cyber-90-dias/
 ├── curriculo/                 os 90 dias (pt-BR) + mapa-dos-dias.csv + modelo do dia
-│   └── fase-1-fundamentos/
-│       └── dia-01/            README.md (o dia) + dia-01.ipynb (Colab)
+│   └── fase-N-.../dia-NN/     README.md (o dia) + dia-NN.ipynb (Colab) + _skill-delta.md
 ├── caso-continuo/             🎬 Operação Isca, o caso que atravessa os 90 dias
 ├── skills/
 │   ├── investigador-cyber/    🤖 a skill pt-BR que cresce a cada dia + changelog
 │   └── setores-br/            skills de setor brasileiras (nascem ao longo do roteiro)
 ├── fichas/                    fichas de trabalho traduzidas + campos BR
-├── scripts/                   ferramentas stdlib: novo_dia, gerar_indice, registrar_evidencia
+├── caso-continuo/dados/       dados sintéticos do caso brasileiro, por dia
+├── scripts/                   ferramentas stdlib: novo_dia, gerar_indice, registrar_evidencia,
+│                              testar_notebook, verificar_repo, listar_pendencias
 └── upstream/                  o repositório original da ThiefDroppers (submódulo)
 ```
 

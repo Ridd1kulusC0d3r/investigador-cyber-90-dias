@@ -1,0 +1,8 @@
+DADOS FICTÍCIOS — Operação Isca (investigador-cyber-90-dias). Nenhuma pessoa, conta ou domínio real.
+
+Grafo caso-indicador da Operação Isca, no formato que o Gephi importa (Data Laboratory > Import Spreadsheet).
+Casos: V1-V3 (cooperados da Serra Azul que fizeram Pix no golpe do "Pix bloqueado"),
+E1-E4 (relatos de falso emprego do Dia 67), BEC-B (domínio imitação do Dia 66),
+W1 (WhatsApp clonado, relato da Coopvale).
+Laranjas aparecem só como código (L-01...) dentro do rótulo da chave Pix fictícia.
+Peso: 3 forte, 2 médio, 1 fraco (tabela do Dia 68).

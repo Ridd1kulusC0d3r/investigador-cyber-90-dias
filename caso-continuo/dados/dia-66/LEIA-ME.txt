@@ -1,0 +1,6 @@
+DADOS FICTÍCIOS — Operação Isca (investigador-cyber-90-dias). Nenhuma pessoa, conta ou domínio real.
+
+Três e-mails recebidos pelo financeiro da Cooperativa Serra Azul em nome da
+"Gráfica Jatobá Ltda" (fornecedora FICTÍCIA de talões e material impresso).
+Domínio verdadeiro da fornecedora no histórico de 2 anos de correspondência: graficajatoba.example
+Classifique cada um: remetente falsificado, domínio imitação ou caixa comprometida.

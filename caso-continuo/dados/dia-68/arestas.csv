@@ -1,0 +1,28 @@
+Source,Target,Type,Label,Weight
+V1,D1,Undirected,dominio da isca,3
+V1,T01,Undirected,SMS de,3
+V1,K01,Undirected,Pix para,3
+V2,D1,Undirected,dominio da isca,3
+V2,T02,Undirected,SMS de,3
+V2,K01,Undirected,Pix para,3
+V2,K02,Undirected,Pix para,3
+V3,D1,Undirected,dominio da isca,3
+V3,T04,Undirected,SMS de,3
+V3,K03,Undirected,Pix para,3
+E1,T11,Undirected,telefone do recrutador,3
+E1,K03,Undirected,conta da recrutada usada para repasse,3
+E1,N1,Undirected,empresa alegada,2
+E2,T12,Undirected,mensagem de,3
+E2,K02,Undirected,taxa paga para,3
+E2,D2,Undirected,dominio do app,3
+E2,N1,Undirected,empresa alegada,2
+E2,PH1,Undirected,usou a frase,1
+E3,T13,Undirected,telefone do recrutador,3
+E3,KX9,Undirected,taxa paga para,3
+E3,PH1,Undirected,usou a frase,1
+E4,T11,Undirected,telefone do recrutador,3
+E4,N1,Undirected,empresa alegada,2
+BECB,D3,Undirected,dominio do remetente,3
+BECB,K04,Undirected,nova chave informada,3
+W1,T15,Undirected,mensagem de,3
+W1,K05,Undirected,Pix para,3

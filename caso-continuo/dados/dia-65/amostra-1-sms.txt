@@ -1,0 +1,4 @@
+Remetente: +55 00 00000-0003
+Recebido: 2026-10-05 07:58 (BRT, UTC-3)
+Texto: Serra Azul: sua chave Pix foi bloqueada por seguranca. Regularize em serraazul-pix.example
+Variante: mesmo texto com o link lnk.example/sa7

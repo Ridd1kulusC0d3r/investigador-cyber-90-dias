@@ -1,0 +1,25 @@
+data,servico,sku,uso,unidade
+2026-09-25,Networking,Egress internet (SKU de laboratório),0.021,gibibyte
+2026-09-25,BigQuery,"Análise, bytes lidos (SKU de laboratório)",0.31,gibibyte
+2026-09-25,Lia (métrica do app),chamadas consultar_cooperado,41,chamadas
+2026-09-26,Networking,Egress internet (SKU de laboratório),0.019,gibibyte
+2026-09-26,BigQuery,"Análise, bytes lidos (SKU de laboratório)",0.29,gibibyte
+2026-09-26,Lia (métrica do app),chamadas consultar_cooperado,38,chamadas
+2026-09-27,Networking,Egress internet (SKU de laboratório),0.022,gibibyte
+2026-09-27,BigQuery,"Análise, bytes lidos (SKU de laboratório)",0.33,gibibyte
+2026-09-27,Lia (métrica do app),chamadas consultar_cooperado,44,chamadas
+2026-09-28,Networking,Egress internet (SKU de laboratório),0.020,gibibyte
+2026-09-28,BigQuery,"Análise, bytes lidos (SKU de laboratório)",0.30,gibibyte
+2026-09-28,Lia (métrica do app),chamadas consultar_cooperado,39,chamadas
+2026-09-29,Networking,Egress internet (SKU de laboratório),0.018,gibibyte
+2026-09-29,BigQuery,"Análise, bytes lidos (SKU de laboratório)",0.28,gibibyte
+2026-09-29,Lia (métrica do app),chamadas consultar_cooperado,22,chamadas
+2026-09-30,Networking,Egress internet (SKU de laboratório),0.023,gibibyte
+2026-09-30,BigQuery,"Análise, bytes lidos (SKU de laboratório)",0.32,gibibyte
+2026-09-30,Lia (métrica do app),chamadas consultar_cooperado,19,chamadas
+2026-10-01,Networking,Egress internet (SKU de laboratório),0.021,gibibyte
+2026-10-01,BigQuery,"Análise, bytes lidos (SKU de laboratório)",0.31,gibibyte
+2026-10-01,Lia (métrica do app),chamadas consultar_cooperado,57,chamadas
+2026-10-02,Networking,Egress internet (SKU de laboratório),0.412,gibibyte
+2026-10-02,BigQuery,"Análise, bytes lidos (SKU de laboratório)",2.08,gibibyte
+2026-10-02,Lia (métrica do app),chamadas consultar_cooperado,37,chamadas

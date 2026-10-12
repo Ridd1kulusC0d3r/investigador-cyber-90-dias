@@ -1,0 +1,5 @@
+DADOS FICTÍCIOS — Operação Isca (investigador-cyber-90-dias). Nenhuma pessoa, conta ou domínio real.
+
+Relato R-CRED-09 (fictício), compartilhado pela credminas.example: golpe do amor que vira
+golpe de investimento por relacionamento. A pessoa lesada é identificada só pelo código do relato.
+linha-do-tempo-rcred09.csv segue as colunas do modelo de planilha do TimelineJS.

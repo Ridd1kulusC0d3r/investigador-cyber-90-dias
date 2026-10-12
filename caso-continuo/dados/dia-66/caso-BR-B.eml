@@ -1,0 +1,18 @@
+Received: from mx.serraazul.example (mx.serraazul.example [192.0.2.10])
+        by caixa.serraazul.example; Tue, 20 Oct 2026 10:15:40 -0300
+Received: from mail.graficajatoba-cobranca.example (mail.graficajatoba-cobranca.example [198.51.100.61])
+        by mx.serraazul.example; Tue, 20 Oct 2026 10:15:38 -0300
+Authentication-Results: mx.serraazul.example;
+  spf=pass (sender IP 198.51.100.61 permitted by domain of graficajatoba-cobranca.example)
+  dkim=pass header.d=graficajatoba-cobranca.example;
+  dmarc=pass (p=reject) header.from=graficajatoba-cobranca.example
+From: "Financeiro Grafica Jatoba" <financeiro@graficajatoba-cobranca.example>
+Reply-To: financeiro@graficajatoba-cobranca.example
+Return-Path: <financeiro@graficajatoba-cobranca.example>
+To: contasapagar@serraazul.example
+Subject: Atualizacao de dados bancarios - Grafica Jatoba
+Date: Tue, 20 Oct 2026 10:15:21 -0300
+
+Prezados, por auditoria em nosso banco, os proximos pagamentos devem ser feitos
+pela chave Pix PIXFICT-L04 (ficticia). Pedimos sigilo ate a conclusao da auditoria.
+[Registro do dominio graficajatoba-cobranca.example: criado em 2026-10-14, 6 dias antes]

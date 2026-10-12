@@ -1,0 +1,306 @@
+[
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "lia-bot@serraazul-lia.iam.gserviceaccount.example"
+   },
+   "methodName": "google.cloud.bigquery.v2.JobService.InsertJob",
+   "requestMetadata": {
+    "callerIp": "private",
+    "callerSuppliedUserAgent": "lia-atendimento/1.4"
+   },
+   "resourceName": "projects/serraazul-lia/datasets/cadastro_espelho/tables/cooperados",
+   "status": {}
+  },
+  "timestamp": "2026-09-30T09:12:04.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "lia-bot@serraazul-lia.iam.gserviceaccount.example"
+   },
+   "methodName": "google.cloud.bigquery.v2.JobService.InsertJob",
+   "requestMetadata": {
+    "callerIp": "private",
+    "callerSuppliedUserAgent": "lia-atendimento/1.4"
+   },
+   "resourceName": "projects/serraazul-lia/datasets/cadastro_espelho/tables/cooperados",
+   "status": {}
+  },
+  "timestamp": "2026-09-30T13:40:51.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Factivity",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "deploy-ci@serraazul-lia.iam.gserviceaccount.example"
+   },
+   "methodName": "google.cloud.run.v2.Services.UpdateService",
+   "requestMetadata": {
+    "callerIp": "private",
+    "callerSuppliedUserAgent": "cloud-build"
+   },
+   "resourceName": "projects/serraazul-lia/locations/southamerica-east1/services/lia-atendimento",
+   "status": {}
+  },
+  "timestamp": "2026-09-30T15:10:22.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "dev.externo@atendemais.example"
+   },
+   "methodName": "google.cloud.run.v2.Services.GetService",
+   "requestMetadata": {
+    "callerIp": "192.0.2.80",
+    "callerSuppliedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+   },
+   "resourceName": "projects/serraazul-lia/locations/southamerica-east1/services/lia-atendimento",
+   "status": {}
+  },
+  "timestamp": "2026-09-30T16:02:10.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "dev.externo@atendemais.example"
+   },
+   "methodName": "google.logging.v2.LoggingServiceV2.ListLogEntries",
+   "requestMetadata": {
+    "callerIp": "192.0.2.80",
+    "callerSuppliedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+   },
+   "resourceName": "projects/serraazul-lia/locations/southamerica-east1/services/lia-atendimento",
+   "status": {}
+  },
+  "timestamp": "2026-09-30T16:20:45.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "dev.externo@atendemais.example"
+   },
+   "methodName": "google.cloud.run.v2.Services.GetService",
+   "requestMetadata": {
+    "callerIp": "192.0.2.80",
+    "callerSuppliedUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+   },
+   "resourceName": "projects/serraazul-lia/locations/southamerica-east1/services/lia-atendimento",
+   "status": {}
+  },
+  "timestamp": "2026-09-30T16:41:03.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "lia-bot@serraazul-lia.iam.gserviceaccount.example"
+   },
+   "methodName": "google.cloud.bigquery.v2.JobService.InsertJob",
+   "requestMetadata": {
+    "callerIp": "private",
+    "callerSuppliedUserAgent": "lia-atendimento/1.4"
+   },
+   "resourceName": "projects/serraazul-lia/datasets/cadastro_espelho/tables/cooperados",
+   "status": {}
+  },
+  "timestamp": "2026-09-30T18:05:33.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "lia-bot@serraazul-lia.iam.gserviceaccount.example"
+   },
+   "methodName": "google.cloud.bigquery.v2.JobService.InsertJob",
+   "requestMetadata": {
+    "callerIp": "private",
+    "callerSuppliedUserAgent": "lia-atendimento/1.4"
+   },
+   "resourceName": "projects/serraazul-lia/datasets/cadastro_espelho/tables/cooperados",
+   "status": {}
+  },
+  "timestamp": "2026-10-01T09:12:04.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "lia-bot@serraazul-lia.iam.gserviceaccount.example"
+   },
+   "methodName": "google.cloud.bigquery.v2.JobService.InsertJob",
+   "requestMetadata": {
+    "callerIp": "private",
+    "callerSuppliedUserAgent": "lia-atendimento/1.4"
+   },
+   "resourceName": "projects/serraazul-lia/datasets/cadastro_espelho/tables/cooperados",
+   "status": {}
+  },
+  "timestamp": "2026-10-01T13:40:51.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "lia-bot@serraazul-lia.iam.gserviceaccount.example"
+   },
+   "methodName": "google.cloud.bigquery.v2.JobService.InsertJob",
+   "requestMetadata": {
+    "callerIp": "private",
+    "callerSuppliedUserAgent": "lia-atendimento/1.4"
+   },
+   "resourceName": "projects/serraazul-lia/datasets/cadastro_espelho/tables/cooperados",
+   "status": {}
+  },
+  "timestamp": "2026-10-01T18:05:33.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "dev.externo@atendemais.example"
+   },
+   "methodName": "storage.buckets.list",
+   "requestMetadata": {
+    "callerIp": "198.51.100.66",
+    "callerSuppliedUserAgent": "google-api-python-client/2.143.0 (gzip)"
+   },
+   "resourceName": "projects/serraazul-lia",
+   "status": {
+    "code": 7,
+    "message": "PERMISSION_DENIED"
+   }
+  },
+  "timestamp": "2026-10-02T03:05:12.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "dev.externo@atendemais.example"
+   },
+   "methodName": "GetIamPolicy",
+   "requestMetadata": {
+    "callerIp": "198.51.100.66",
+    "callerSuppliedUserAgent": "google-api-python-client/2.143.0 (gzip)"
+   },
+   "resourceName": "projects/serraazul-lia",
+   "status": {
+    "code": 7,
+    "message": "PERMISSION_DENIED"
+   }
+  },
+  "timestamp": "2026-10-02T03:05:40.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "dev.externo@atendemais.example"
+   },
+   "methodName": "google.iam.admin.v1.ListServiceAccounts",
+   "requestMetadata": {
+    "callerIp": "198.51.100.66",
+    "callerSuppliedUserAgent": "google-api-python-client/2.143.0 (gzip)"
+   },
+   "resourceName": "projects/serraazul-lia",
+   "status": {}
+  },
+  "timestamp": "2026-10-02T03:06:22.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "dev.externo@atendemais.example"
+   },
+   "methodName": "google.iam.admin.v1.ListServiceAccountKeys",
+   "requestMetadata": {
+    "callerIp": "198.51.100.66",
+    "callerSuppliedUserAgent": "google-api-python-client/2.143.0 (gzip)"
+   },
+   "resourceName": "projects/serraazul-lia/serviceAccounts/lia-bot@serraazul-lia.iam.gserviceaccount.example",
+   "status": {}
+  },
+  "timestamp": "2026-10-02T03:07:02.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Factivity",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "dev.externo@atendemais.example"
+   },
+   "methodName": "google.iam.admin.v1.CreateServiceAccountKey",
+   "requestMetadata": {
+    "callerIp": "198.51.100.66",
+    "callerSuppliedUserAgent": "google-api-python-client/2.143.0 (gzip)"
+   },
+   "resourceName": "projects/serraazul-lia/serviceAccounts/lia-bot@serraazul-lia.iam.gserviceaccount.example",
+   "status": {},
+   "response": {
+    "name": "projects/serraazul-lia/serviceAccounts/lia-bot@serraazul-lia.iam.gserviceaccount.example/keys/7c3e91a0d4b25f68e1c0a9b7d3f5e2c4a6b8d0f1",
+    "keyType": "USER_MANAGED"
+   }
+  },
+  "timestamp": "2026-10-02T03:09:31.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "lia-bot@serraazul-lia.iam.gserviceaccount.example",
+    "serviceAccountKeyName": "//iam.googleapis.example/projects/serraazul-lia/serviceAccounts/lia-bot@serraazul-lia.iam.gserviceaccount.example/keys/7c3e91a0d4b25f68e1c0a9b7d3f5e2c4a6b8d0f1"
+   },
+   "methodName": "google.cloud.bigquery.v2.JobService.InsertJob",
+   "requestMetadata": {
+    "callerIp": "198.51.100.66",
+    "callerSuppliedUserAgent": "google-api-python-client/2.143.0 (gzip)"
+   },
+   "resourceName": "projects/serraazul-lia/datasets/cadastro_espelho/tables/cooperados",
+   "status": {}
+  },
+  "timestamp": "2026-10-02T03:12:15.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Fdata_access",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "lia-bot@serraazul-lia.iam.gserviceaccount.example",
+    "serviceAccountKeyName": "//iam.googleapis.example/projects/serraazul-lia/serviceAccounts/lia-bot@serraazul-lia.iam.gserviceaccount.example/keys/7c3e91a0d4b25f68e1c0a9b7d3f5e2c4a6b8d0f1"
+   },
+   "methodName": "google.cloud.bigquery.v2.JobService.InsertJob",
+   "requestMetadata": {
+    "callerIp": "198.51.100.66",
+    "callerSuppliedUserAgent": "google-api-python-client/2.143.0 (gzip)"
+   },
+   "resourceName": "projects/serraazul-lia/jobs/extract-to-gs-lia-tmp-exports",
+   "status": {}
+  },
+  "timestamp": "2026-10-02T03:18:40.000Z"
+ },
+ {
+  "logName": "projects/serraazul-lia/logs/cloudaudit.googleapis.com%2Factivity",
+  "protoPayload": {
+   "authenticationInfo": {
+    "principalEmail": "lia-bot@serraazul-lia.iam.gserviceaccount.example",
+    "serviceAccountKeyName": "//iam.googleapis.example/projects/serraazul-lia/serviceAccounts/lia-bot@serraazul-lia.iam.gserviceaccount.example/keys/7c3e91a0d4b25f68e1c0a9b7d3f5e2c4a6b8d0f1"
+   },
+   "methodName": "google.logging.v2.ConfigServiceV2.DeleteSink",
+   "requestMetadata": {
+    "callerIp": "198.51.100.66",
+    "callerSuppliedUserAgent": "google-api-python-client/2.143.0 (gzip)"
+   },
+   "resourceName": "projects/serraazul-lia/sinks/auditoria-para-bq",
+   "status": {
+    "code": 7,
+    "message": "PERMISSION_DENIED"
+   }
+  },
+  "timestamp": "2026-10-02T03:40:55.000Z"
+ }
+]

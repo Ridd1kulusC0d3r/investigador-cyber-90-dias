@@ -1,0 +1,6 @@
+DADOS FICTÍCIOS — Operação Isca (investigador-cyber-90-dias). Nenhuma pessoa, conta ou domínio real.
+
+Quatro relatos de falso emprego (E1 a E4), já anonimizados, que chegaram à Vigia
+pelo canal da cooperativa com outras instituições. As pessoas recrutadas são
+identificadas só por código. scorecard-br.csv usa o mesmo cabeçalho do Dia 67
+original, para o Dia 68 importar sem conversão.

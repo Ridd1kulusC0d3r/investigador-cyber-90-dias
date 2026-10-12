@@ -1,0 +1,20 @@
+Received: from mx.serraazul.example (mx.serraazul.example [192.0.2.10])
+        by caixa.serraazul.example; Wed, 21 Oct 2026 16:40:02 -0300
+Received: from smtp.graficajatoba.example (smtp.graficajatoba.example [198.51.100.20])
+        by mx.serraazul.example; Wed, 21 Oct 2026 16:40:00 -0300
+Authentication-Results: mx.serraazul.example;
+  spf=pass (sender IP 198.51.100.20 permitted by domain of graficajatoba.example)
+  dkim=pass header.d=graficajatoba.example;
+  dmarc=pass (p=quarantine) header.from=graficajatoba.example
+From: "Financeiro Grafica Jatoba" <financeiro@graficajatoba.example>
+Reply-To: financeiro@graficajatoba.example
+Return-Path: <financeiro@graficajatoba.example>
+To: contasapagar@serraazul.example
+Subject: Re: Re: NF 4471 e pedido de taloes de novembro
+Date: Wed, 21 Oct 2026 16:39:47 -0300
+
+Ola, seguindo nossa conversa: mudamos de banco. O pagamento da NF 4471 deve ir
+para a nova conta informada no PDF anexo. Obrigada!
+> (historico da conversa de 3 semanas citado abaixo)
+[Depois: a Grafica Jatoba confirma por telefone ja cadastrado que alguem entrou na
+caixa financeiro@ a partir de um local desconhecido em 19/out.]

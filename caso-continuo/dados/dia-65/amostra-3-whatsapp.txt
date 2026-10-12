@@ -1,0 +1,5 @@
+Remetente: +55 00 00000-0021 (perfil 'Serra Azul Atendimento', foto com o logotipo)
+Recebido: 2026-10-19 09:12 (BRT)
+Texto: Ola! Aqui e da central de seguranca da Serra Azul. Seu Pix foi suspenso por movimentacao suspeita.
+Para nao perder o acesso, confirme o codigo que chegou por SMS e acesse https://coopserra-azul.example/validar
+Prazo: 30 minutos.

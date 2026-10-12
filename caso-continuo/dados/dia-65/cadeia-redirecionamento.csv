@@ -1,0 +1,4 @@
+salto,url_defangada,status_http,ip,observacao
+1,hxxps://lnk[.]example/sa9,301,198.51.100.14,encurtador; token ?c= removido antes da varredura
+2,hxxps://r[.]trk-cdn[.]example/go?d=sa9,302,198.51.100.90,redirecionador intermediário; é o salto que esconde o destino
+3,hxxps://serraazul-seguranca[.]example/pix/,200,203.0.113.77,formulário falso de login; mesmo IP do serraazul-pix.example

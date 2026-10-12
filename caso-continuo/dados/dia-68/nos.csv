@@ -1,0 +1,28 @@
+Id,Label,Type
+V1,V1 Pix bloqueado (Serra Azul),case
+V2,V2 Pix bloqueado (Serra Azul),case
+V3,V3 Pix bloqueado (Serra Azul),case
+E1,"E1 falso emprego, recrutamento de laranja",case
+E2,E2 golpe das tarefas,case
+E3,E3 taxa de uniforme,case
+E4,E4 vaga no exterior,case
+BECB,BEC-B Grafica Jatoba imitacao,case
+W1,W1 WhatsApp clonado (Coopvale),case
+D1,serraazul-pix.example,domain
+D2,agil-tarefas.example,domain
+D3,graficajatoba-cobranca.example,domain
+T01,+55 00 00000-0001,phone
+T02,+55 00 00000-0002,phone
+T04,+55 00 00000-0004,phone
+T11,+55 00 00000-0011,phone
+T12,+55 00 00000-0012,phone
+T13,+55 00 00000-0013,phone
+T15,+55 00 00000-0015,phone
+K01,"PIXFICT-L01 (laranja L-01, chave ficticia)",pix_key
+K02,"PIXFICT-L02 (laranja L-02, chave ficticia)",pix_key
+K03,"PIXFICT-L03 (laranja L-03, chave ficticia)",pix_key
+K04,"PIXFICT-L04 (laranja L-04, chave ficticia)",pix_key
+K05,"PIXFICT-L05 (laranja L-05, chave ficticia)",pix_key
+KX9,PIXFICT-X9 (chave ficticia),pix_key
+N1,Agil Recebiveis,company_name
+PH1,frase: taxa de liberacao,phrase

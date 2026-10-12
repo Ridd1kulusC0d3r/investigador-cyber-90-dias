@@ -1,0 +1,124 @@
+{
+ "_sobre": "Exportações de IAM do projeto serraazul-lia (fictício). Formato inspirado em get-iam-policy.",
+ "projeto": {
+  "auditConfigs": [
+   {
+    "service": "allServices",
+    "auditLogConfigs": [
+     {
+      "logType": "ADMIN_READ"
+     }
+    ]
+   }
+  ],
+  "bindings": [
+   {
+    "role": "roles/owner",
+    "members": [
+     "group:ti-coop@serraazul.example"
+    ]
+   },
+   {
+    "role": "roles/run.admin",
+    "members": [
+     "serviceAccount:deploy-ci@serraazul-lia.iam.gserviceaccount.example"
+    ]
+   },
+   {
+    "role": "roles/viewer",
+    "members": [
+     "group:lia-devs@atendemais.example"
+    ]
+   },
+   {
+    "role": "roles/bigquery.jobUser",
+    "members": [
+     "serviceAccount:lia-bot@serraazul-lia.iam.gserviceaccount.example"
+    ]
+   }
+  ]
+ },
+ "conta_de_servico_lia_bot": {
+  "bindings": [
+   {
+    "role": "roles/iam.serviceAccountKeyAdmin",
+    "members": [
+     "group:lia-devs@atendemais.example"
+    ]
+   },
+   {
+    "role": "roles/iam.serviceAccountUser",
+    "members": [
+     "serviceAccount:deploy-ci@serraazul-lia.iam.gserviceaccount.example"
+    ]
+   }
+  ]
+ },
+ "dataset_cadastro_espelho": {
+  "bindings": [
+   {
+    "role": "roles/bigquery.dataOwner",
+    "members": [
+     "group:ti-coop@serraazul.example"
+    ]
+   },
+   {
+    "role": "roles/bigquery.dataViewer",
+    "members": [
+     "serviceAccount:lia-bot@serraazul-lia.iam.gserviceaccount.example"
+    ]
+   }
+  ],
+  "colunas": [
+   "id_cooperado",
+   "cpf",
+   "nome",
+   "telefone",
+   "email",
+   "agencia",
+   "situacao"
+  ]
+ },
+ "bucket_lia_tmp_exports": {
+  "bindings": [
+   {
+    "role": "roles/storage.objectAdmin",
+    "members": [
+     "serviceAccount:lia-bot@serraazul-lia.iam.gserviceaccount.example"
+    ]
+   },
+   {
+    "role": "roles/storage.legacyBucketReader",
+    "members": [
+     "projectViewer:serraazul-lia"
+    ]
+   }
+  ]
+ },
+ "grupos": [
+  {
+   "grupo": "lia-devs@atendemais.example",
+   "membro": "dev.externo@atendemais.example"
+  },
+  {
+   "grupo": "lia-devs@atendemais.example",
+   "membro": "ana.lider@atendemais.example"
+  },
+  {
+   "grupo": "ti-coop@serraazul.example",
+   "membro": "joao.ti@serraazul.example"
+  }
+ ],
+ "contas_de_servico": [
+  {
+   "email": "lia-bot@serraazul-lia.iam.gserviceaccount.example",
+   "anexada_a": "Cloud Run lia-atendimento",
+   "chaves_gerenciadas_antes_de_2026_10_02": 0
+  },
+  {
+   "email": "deploy-ci@serraazul-lia.iam.gserviceaccount.example",
+   "anexada_a": "Cloud Build",
+   "chaves_gerenciadas_antes_de_2026_10_02": 0
+  }
+ ]
+}

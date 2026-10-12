@@ -1,0 +1,18 @@
+From: "Serra Azul Seguranca" <aviso@serraazul-seguranca.example>
+Reply-To: atendimento.serraazul@webmail.example
+Return-Path: <bounce-77@mailer-rapido.example>
+To: cooperado17452@correio.example
+Subject: Cadastro Pix suspenso: atualize em ate 2 horas
+Date: Mon, 19 Oct 2026 07:41:09 -0300
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Prezado(a) cooperado(a),</p>
+<p>Identificamos uma tentativa de acesso ao seu cadastro Pix a partir de um novo aparelho.
+Para evitar o bloqueio definitivo da sua chave, atualize seus dados em
+<a href="https://lnk.example/sa9?c=Y29vcC0xNzQ1Mg==">https://www.serraazul.example/pix/atualizar</a>
+ate as 10h de hoje.</p>
+<p>Comprovante do bloqueio em anexo (comprovante-bloqueio.html).</p>
+<p>Equipe de Seguranca</p>
+</body></html>

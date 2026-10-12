@@ -1,0 +1,17 @@
+Received: from mx.serraazul.example (mx.serraazul.example [192.0.2.10])
+        by caixa.serraazul.example; Tue, 20 Oct 2026 09:02:11 -0300
+Received: from smtp-out.envio-barato.example (unknown [203.0.113.55])
+        by mx.serraazul.example; Tue, 20 Oct 2026 09:02:09 -0300
+Authentication-Results: mx.serraazul.example;
+  spf=fail (sender IP 203.0.113.55 not permitted by domain of graficajatoba.example)
+  dkim=none;
+  dmarc=fail (p=none) header.from=graficajatoba.example
+From: "Financeiro Grafica Jatoba" <financeiro@graficajatoba.example>
+Reply-To: financeiro.graficajatoba@webmail.example
+Return-Path: <financeiro@graficajatoba.example>
+To: contasapagar@serraazul.example
+Subject: URGENTE boleto atualizado - pagar hoje
+Date: Tue, 20 Oct 2026 09:01:58 -0300
+
+Bom dia. O boleto da NF 4471 venceu e foi reemitido. Favor pagar o anexo ainda hoje,
+antes das 14h, para nao suspendermos a entrega dos taloes. Estou em viagem, sem telefone.

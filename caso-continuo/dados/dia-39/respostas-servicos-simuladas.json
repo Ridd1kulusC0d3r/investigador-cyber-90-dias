@@ -1,0 +1,321 @@
+{
+ "_aviso": "Respostas SIMULADAS e FICTÍCIAS de serviços de consulta passiva (Operação Isca, Dia 39). Formatos inspirados nas APIs reais citadas no dia (Team Cymru, Shodan InternetDB, GreyNoise Community, AbuseIPDB, ThreatFox, RDAP, VirusTotal, urlscan.io), mas nenhum valor veio dessas APIs. ASNs de documentação (RFC 5398). Hora da 'consulta': 2026-10-12.",
+ "consultado_em": "2026-10-12T13:10:00Z",
+ "ip": {
+  "203.0.113.77": {
+   "team_cymru": "AS      | IP           | BGP Prefix       | CC | Registry | Allocated  | AS Name\n64501   | 203.0.113.77 | 203.0.113.64/26  | BR | lacnic   | 2021-08-10 | HOSTBARATO-EXEMPLO, BR",
+   "internetdb": {
+    "cpes": [],
+    "hostnames": [
+     "serraazul-pix.example",
+     "coopvale-pix.example"
+    ],
+    "ip": "203.0.113.77",
+    "ports": [
+     22,
+     80,
+     443
+    ],
+    "tags": [
+     "shared-hosting"
+    ],
+    "vulns": []
+   },
+   "greynoise": {
+    "ip": "203.0.113.77",
+    "noise": false,
+    "riot": false,
+    "classification": "unknown",
+    "message": "IP not observed scanning the internet or contained in RIOT data set.",
+    "last_seen": null
+   },
+   "abuseipdb": {
+    "abuseConfidenceScore": 34,
+    "countryCode": "BR",
+    "isp": "Hostbarato Exemplo",
+    "usageType": "Data Center/Web Hosting/Transit",
+    "totalReports": 6,
+    "lastReportedAt": "2026-10-09T21:40:12Z"
+   },
+   "threatfox": [
+    {
+     "ioc": "203.0.113.77",
+     "threat_type": "payload_delivery",
+     "malware_printable": "Unknown malware",
+     "first_seen": "2026-10-06 11:02:00 UTC",
+     "last_seen": null,
+     "confidence_level": 50
+    }
+   ],
+   "passive_dns_contagem": 41,
+   "nota": "41 domínios resolvem para este IP em passive DNS (hospedagem compartilhada)."
+  },
+  "198.51.100.40": {
+   "team_cymru": "AS      | IP            | BGP Prefix       | CC | Registry | Allocated  | AS Name\n64502   | 198.51.100.40 | 198.51.100.0/26  | BR | lacnic   | 2023-02-14 | DNSBARATO-EXEMPLO, BR",
+   "internetdb": {
+    "cpes": [],
+    "hostnames": [
+     "credminas-seguranca.example",
+     "unicoop-sul-pix.example"
+    ],
+    "ip": "198.51.100.40",
+    "ports": [
+     443
+    ],
+    "tags": [],
+    "vulns": []
+   },
+   "greynoise": {
+    "ip": "198.51.100.40",
+    "noise": false,
+    "riot": false,
+    "classification": "unknown",
+    "message": "IP not observed scanning the internet or contained in RIOT data set.",
+    "last_seen": null
+   },
+   "abuseipdb": {
+    "abuseConfidenceScore": 0,
+    "countryCode": "BR",
+    "isp": "DNSbarato Exemplo",
+    "usageType": "Data Center/Web Hosting/Transit",
+    "totalReports": 0,
+    "lastReportedAt": null
+   },
+   "threatfox": [],
+   "passive_dns_contagem": 2,
+   "nota": "Só 2 domínios em passive DNS: os dois do kit."
+  },
+  "203.0.113.78": {
+   "team_cymru": "AS      | IP           | BGP Prefix       | CC | Registry | Allocated  | AS Name\n64501   | 203.0.113.78 | 203.0.113.64/26  | BR | lacnic   | 2021-08-10 | HOSTBARATO-EXEMPLO, BR",
+   "internetdb": {
+    "cpes": [],
+    "hostnames": [
+     "serraazul-seguranca.example",
+     "mail.serraazul-seguranca.example"
+    ],
+    "ip": "203.0.113.78",
+    "ports": [
+     25,
+     443
+    ],
+    "tags": [],
+    "vulns": []
+   },
+   "greynoise": {
+    "ip": "203.0.113.78",
+    "noise": false,
+    "riot": false,
+    "classification": "unknown",
+    "message": "IP not observed scanning the internet or contained in RIOT data set.",
+    "last_seen": null
+   },
+   "abuseipdb": {
+    "abuseConfidenceScore": 0,
+    "countryCode": "BR",
+    "isp": "Hostbarato Exemplo",
+    "usageType": "Data Center/Web Hosting/Transit",
+    "totalReports": 0,
+    "lastReportedAt": null
+   },
+   "threatfox": [],
+   "passive_dns_contagem": 2,
+   "nota": "Surgiu na resolução passiva de serraazul-seguranca.example. NÃO estava no anexo do alerta."
+  }
+ },
+ "dominio": {
+  "serraazul-pix.example": {
+   "rdap": {
+    "handle": "FICT-0001",
+    "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2026-10-02T14:22:10Z"
+     },
+     {
+      "eventAction": "expiration",
+      "eventDate": "2027-10-02T14:22:10Z"
+     }
+    ],
+    "nameservers": [
+     "ns1.dnsbarato.example",
+     "ns2.dnsbarato.example"
+    ]
+   },
+   "vt": {
+    "creation_date": "2026-10-02",
+    "registrar": "Registrar Barato (fictício)",
+    "last_analysis_stats": {
+     "malicious": 9,
+     "suspicious": 2,
+     "harmless": 58,
+     "undetected": 22
+    },
+    "categories": {
+     "Fornecedor A": "phishing"
+    }
+   },
+   "vt_resolutions": [
+    [
+     "2026-10-04T19:30:11Z",
+     "203.0.113.77"
+    ]
+   ],
+   "urlscan": [
+    [
+     "2026-10-05T10:42:18Z",
+     "203.0.113.77",
+     "HOSTBARATO-EXEMPLO",
+     "Serra Azul - Regularização Pix"
+    ]
+   ]
+  },
+  "serraazul-seguranca.example": {
+   "rdap": {
+    "handle": "FICT-0002",
+    "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2026-10-02T14:25:47Z"
+     }
+    ],
+    "nameservers": [
+     "ns1.dnsbarato.example"
+    ]
+   },
+   "vt": {
+    "creation_date": "2026-10-02",
+    "registrar": "Registrar Barato (fictício)",
+    "last_analysis_stats": {
+     "malicious": 4,
+     "suspicious": 1,
+     "harmless": 61,
+     "undetected": 25
+    },
+    "categories": {}
+   },
+   "vt_resolutions": [
+    [
+     "2026-10-05T08:01:44Z",
+     "203.0.113.78"
+    ]
+   ],
+   "urlscan": []
+  },
+  "coopvale-pix.example": {
+   "rdap": {
+    "handle": "FICT-0005",
+    "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2026-10-07T03:11:09Z"
+     }
+    ],
+    "nameservers": [
+     "ns1.dnsbarato.example",
+     "ns2.dnsbarato.example"
+    ]
+   },
+   "vt": {
+    "creation_date": "2026-10-07",
+    "registrar": "Registrar Barato (fictício)",
+    "last_analysis_stats": {
+     "malicious": 6,
+     "suspicious": 1,
+     "harmless": 60,
+     "undetected": 24
+    },
+    "categories": {
+     "Fornecedor A": "phishing"
+    }
+   },
+   "vt_resolutions": [
+    [
+     "2026-10-07T22:15:00Z",
+     "203.0.113.77"
+    ]
+   ],
+   "urlscan": [
+    [
+     "2026-10-08T09:03:51Z",
+     "203.0.113.77",
+     "HOSTBARATO-EXEMPLO",
+     "CoopVale - Regularização Pix"
+    ]
+   ]
+  },
+  "unicoop-sul-pix.example": {
+   "rdap": {
+    "handle": "FICT-0008",
+    "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2026-10-09T17:40:02Z"
+     }
+    ],
+    "nameservers": [
+     "ns1.dnsbarato.example"
+    ]
+   },
+   "vt": {
+    "creation_date": "2026-10-09",
+    "registrar": "Registrar Barato (fictício)",
+    "last_analysis_stats": {
+     "malicious": 2,
+     "suspicious": 0,
+     "harmless": 63,
+     "undetected": 26
+    },
+    "categories": {}
+   },
+   "vt_resolutions": [
+    [
+     "2026-10-10T06:20:33Z",
+     "198.51.100.40"
+    ]
+   ],
+   "urlscan": [
+    [
+     "2026-10-10T12:44:09Z",
+     "198.51.100.40",
+     "DNSBARATO-EXEMPLO",
+     "Unicoop Sul - Regularização Pix"
+    ]
+   ]
+  },
+  "lnk.example": {
+   "rdap": {
+    "handle": "FICT-0099",
+    "events": [
+     {
+      "eventAction": "registration",
+      "eventDate": "2015-06-01T00:00:00Z"
+     }
+    ],
+    "nameservers": [
+     "ns1.encurtador.example"
+    ]
+   },
+   "vt": {
+    "creation_date": "2015-06-01",
+    "registrar": "Registrar Tradicional (fictício)",
+    "last_analysis_stats": {
+     "malicious": 0,
+     "suspicious": 0,
+     "harmless": 80,
+     "undetected": 11
+    },
+    "categories": {
+     "Fornecedor A": "url shortener"
+    }
+   },
+   "vt_resolutions": [
+    [
+     "2026-10-01T00:00:00Z",
+     "192.0.2.200"
+    ]
+   ],
+   "urlscan": [],
+   "nota": "Encurtador público usado por milhares de sites legítimos."
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+  "_aviso": "Dados 100% fictícios da Operação Isca (Investigador Cyber 90 Dias, Dia 37). Organizações, nomes de cluster e relatórios são inventados. Domínios .example (RFC 2606). Nenhuma pessoa real. O cluster CA-ISCA-01 é um agrupamento de atividade, não uma pessoa.",
+  "cluster": "CA-ISCA-01",
+  "fontes": [
+    {"id": "F1", "titulo": "Relatório interno VIGIA-2026-001 (triagem do SMS 'Pix bloqueado')", "autor": "Vigia", "tipo": "análise própria com evidência primária (SMS, capturas com hash, crt.sh)", "publicado": "2026-10-06"},
+    {"id": "F2", "titulo": "Alerta conjunto ALR-2026-01", "autor": "Vigia + grupo de segurança das cooperativas mineiras", "tipo": "alerta conjunto de várias organizações", "publicado": "2026-10-12"},
+    {"id": "F3", "titulo": "Nota interna do SOC da CoopVale sobre 'PixLure'", "autor": "SOC CoopVale (fictício)", "tipo": "nota de outro time, telemetria própria", "publicado": "2026-10-09"},
+    {"id": "F4", "titulo": "Post de blog 'Garça Azul: o kit que pesca cooperativas'", "autor": "Fornecedor de threat intel fictício 'Radar Sul'", "tipo": "blog de fornecedor, sem IOCs publicados", "publicado": "2026-10-10"},
+    {"id": "F5", "titulo": "Anúncio do IscaKit num grupo de mensagens (print recebido por um cooperado)", "autor": "desconhecido", "tipo": "print de terceiro, sem cadeia de custódia", "publicado": "2026-10-08"},
+    {"id": "F6", "titulo": "Reportagem 'Golpe do Pix bloqueado volta a assustar' em portal de notícias fictício", "autor": "Portal fictício", "tipo": "imprensa, fala do golpe em geral", "publicado": "2026-10-07"}
+  ],
+  "nomes": [
+    {"nome": "CA-ISCA-01", "organizacao": "Vigia", "afirmado_equivalente_por": "—", "nota": "Nome de trabalho do cluster (Dia 43)."},
+    {"nome": "Pescador", "organizacao": "Vigia (apelido interno)", "afirmado_equivalente_por": "F1", "nota": "Vem da string '// pescador' no JS do kit. É apelido de artefato, NÃO de pessoa."},
+    {"nome": "PixLure", "organizacao": "SOC CoopVale", "afirmado_equivalente_por": "F3", "nota": "Telemetria da CoopVale; cobre só os SMS que chegaram aos cooperados dela."},
+    {"nome": "Garça Azul", "organizacao": "Radar Sul (fornecedor fictício)", "afirmado_equivalente_por": "F4", "nota": "O post junta o IscaKit com uma campanha de 2025 contra bancos digitais. Escopo maior que o nosso."},
+    {"nome": "IscaKit", "organizacao": "Vigia", "afirmado_equivalente_por": "F1", "nota": "É o nome do KIT (ferramenta), não do cluster. Ferramenta vendida: outros operadores podem usar."},
+    {"nome": "Golpe do Pix bloqueado", "organizacao": "imprensa (F6)", "afirmado_equivalente_por": "F6", "nota": "Nome de um TIPO de golpe usado por muitos grupos sem relação. Não é alias do cluster."}
+  ],
+  "afirmacoes": [
+    {"id": "A1", "campo": "targeting", "texto": "Cooperativas de crédito de Minas Gerais, via SMS a cooperados", "fonte": "F2", "data_atividade": "2026-10-05/2026-10-11"},
+    {"id": "A2", "campo": "ttp", "texto": "Registro de domínios imitação 1 a 10 dias antes do disparo (T1583.001)", "fonte": "F1", "data_atividade": "2026-10-02/2026-10-10"},
+    {"id": "A3", "campo": "ttp", "texto": "Certificado TLS gratuito obtido na véspera do disparo (T1588.004)", "fonte": "F1", "data_atividade": "2026-10-04"},
+    {"id": "A4", "campo": "ttp", "texto": "SMS com link encurtado para o domínio imitação (T1660 Mobile; T1566.002 Enterprise)", "fonte": "F2", "data_atividade": "2026-10-05"},
+    {"id": "A5", "campo": "ttp", "texto": "Captura da senha na página falsa (T1056.003) e Pix com credenciais válidas (T1078, T1657)", "fonte": "F2", "data_atividade": "2026-10-05"},
+    {"id": "A6", "campo": "tooling", "texto": "IscaKit, kit de phishing anunciado à venda em grupo de mensagens", "fonte": "F5", "data_atividade": "2026-10-08"},
+    {"id": "A7", "campo": "tooling", "texto": "Encurtador público lnk.example", "fonte": "F1", "data_atividade": "2026-10-05"},
+    {"id": "A8", "campo": "infra", "texto": "Hospedagem em 203.0.113.77; NS ns1/ns2.dnsbarato.example; certificados com vários nomes no SAN", "fonte": "F1", "data_atividade": "2026-10-04/2026-10-09"},
+    {"id": "A9", "campo": "motivacao", "texto": "Financeira (transferências Pix não reconhecidas)", "fonte": "F2", "data_atividade": "2026-10-05"},
+    {"id": "A10", "campo": "sponsor", "texto": "Grupo criminoso do Sudeste com ligação a facção", "fonte": "F4", "data_atividade": "não informada"}
+  ]
+}

@@ -1,0 +1,21 @@
+# Observações datadas do cluster CA-ISCA-01 — 100% FICTÍCIO (Operação Isca, Investigador Cyber 90 Dias, Dia 38).
+# Domínios .example (RFC 2606), IPs de documentação (RFC 5737). Fontes F1-F6: ver caso-continuo/dados/dia-37/fontes-ca-isca-01.json
+data_atividade,cooperativa_alvo,indicador_ou_comportamento,tipo,nivel_piramide,fonte
+2026-10-02,Serra Azul,serraazul-pix.example registrado (Registrar Barato),dominio,Domínio,F1
+2026-10-04,Serra Azul,certificado gratuito com SAN serraazul-pix + serraazul-seguranca,certificado,Artefato de rede/host,F1
+2026-10-05,Serra Azul,SMS 'chave Pix bloqueada' com lnk.example/sa7,comportamento,TTP,F2
+2026-10-05,Serra Azul,serraazul-pix.example em 203.0.113.77,ip,IP,F1
+2026-10-05,Serra Azul,isca.js com comentário '// pescador' (SHA-256 c6a500d4...),hash,Hash,F1
+2026-10-05,Serra Azul,favicon customizado do IscaKit (hash Shodan -1029384756),artefato,Artefato de rede/host,F1
+2026-10-05,Serra Azul,IscaKit (kit vendido em grupo de mensagens),ferramenta,Ferramenta,F5
+2026-10-06,Serra Azul,kit passa a servir página em branco a IPs da cooperativa e da Vigia (cloaking por origem),comportamento,TTP,F1
+2026-10-07,CoopVale,coopvale-pix.example registrado,dominio,Domínio,F3
+2026-10-08,CoopVale,SMS 'chave Pix bloqueada' com link para coopvale-pix.example,comportamento,TTP,F3
+2026-10-08,CoopVale,coopvale-pix.example em 203.0.113.77 (mesmo IP da Serra Azul),ip,IP,F3
+2026-10-09,CredMinas,credminas-seguranca.example em 198.51.100.40,ip,IP,F2
+2026-10-09,CredMinas,mesmo favicon customizado (hash -1029384756),artefato,Artefato de rede/host,F2
+2026-10-09,CredMinas,isca.js com novo SHA-256 (comentário '// pescador' mantido),hash,Hash,F2
+2026-10-10,Unicoop Sul,unicoop-sul-pix.example com SAN compartilhado com credminas-seguranca,certificado,Artefato de rede/host,F2
+2026-10-10,Unicoop Sul,SMS 'chave Pix bloqueada',comportamento,TTP,F2
+2026-10-11,Cooperouro,cooperouro-regulariza.example só com o mesmo título genérico,dominio,Domínio,F2
+2026-10-11,todas,perfis falsos em rede social respondendo reclamações com o link,comportamento,TTP,F2

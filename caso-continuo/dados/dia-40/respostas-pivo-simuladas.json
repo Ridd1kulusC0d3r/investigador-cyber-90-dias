@@ -1,0 +1,231 @@
+{
+ "_aviso": "Respostas SIMULADAS e FICTÍCIAS de serviços de pivô (crt.sh, Shodan, urlscan.io) da Operação Isca (Investigador Cyber 90 Dias, Dia 40). Formatos inspirados nos reais; nenhum valor veio desses serviços. Domínios .example (RFC 2606), IPs de documentação (RFC 5737). Coerente com caso-continuo/dados/dia-30 e dia-43.",
+ "consultado_em": "2026-10-13T15:00:00Z",
+ "crtsh": [
+  {
+   "id": 90000000001,
+   "issuer_name": "C=XX, O=CA Gratuita Exemplo, CN=E1",
+   "common_name": "serraazul-pix.example",
+   "name_value": "serraazul-pix.example\nwww.serraazul-pix.example\nserraazul-seguranca.example\npainel.serraazul-pix.example",
+   "entry_timestamp": "2026-10-04T19:12:41.120",
+   "not_before": "2026-10-04T18:12:41",
+   "not_after": "2027-01-02T18:12:40",
+   "serial_number": "0aa1fict0001"
+  },
+  {
+   "id": 90000000002,
+   "issuer_name": "C=XX, O=CA Gratuita Exemplo, CN=E1",
+   "common_name": "mail.serraazul-seguranca.example",
+   "name_value": "mail.serraazul-seguranca.example",
+   "entry_timestamp": "2026-10-08T23:58:03.881",
+   "not_before": "2026-10-08T22:58:03",
+   "not_after": "2027-01-06T22:58:02",
+   "serial_number": "0aa1fict0002"
+  },
+  {
+   "id": 90000000003,
+   "issuer_name": "C=XX, O=CA Gratuita Exemplo, CN=E1",
+   "common_name": "coopvale-pix.example",
+   "name_value": "coopvale-pix.example\nwww.coopvale-pix.example",
+   "entry_timestamp": "2026-10-07T22:40:10.004",
+   "not_before": "2026-10-07T21:40:10",
+   "not_after": "2027-01-05T21:40:09",
+   "serial_number": "0aa1fict0003"
+  },
+  {
+   "id": 90000000004,
+   "issuer_name": "C=XX, O=CA Gratuita Exemplo, CN=E1",
+   "common_name": "credminas-seguranca.example",
+   "name_value": "credminas-seguranca.example\nunicoop-sul-pix.example\nwww.credminas-seguranca.example",
+   "entry_timestamp": "2026-10-08T20:05:51.310",
+   "not_before": "2026-10-08T19:05:51",
+   "not_after": "2027-01-06T19:05:50",
+   "serial_number": "0aa1fict0004"
+  },
+  {
+   "id": 90000000005,
+   "issuer_name": "C=XX, O=CA Gratuita Exemplo, CN=E1",
+   "common_name": "parking-lote-17.registrar-parking.example",
+   "name_value": "parking-lote-17.registrar-parking.example\ncoopserra-azul.example\ndominio-estacionado-001.example\ndominio-estacionado-002.example\ndominio-estacionado-003.example\ndominio-estacionado-004.example\ndominio-estacionado-005.example\ndominio-estacionado-006.example\ndominio-estacionado-007.example\ndominio-estacionado-008.example\ndominio-estacionado-009.example\ndominio-estacionado-010.example\ndominio-estacionado-011.example\ndominio-estacionado-012.example\ndominio-estacionado-013.example\ndominio-estacionado-014.example\ndominio-estacionado-015.example\ndominio-estacionado-016.example\ndominio-estacionado-017.example\ndominio-estacionado-018.example\ndominio-estacionado-019.example\ndominio-estacionado-020.example\ndominio-estacionado-021.example\ndominio-estacionado-022.example\ndominio-estacionado-023.example\ndominio-estacionado-024.example\ndominio-estacionado-025.example\ndominio-estacionado-026.example\ndominio-estacionado-027.example\ndominio-estacionado-028.example\ndominio-estacionado-029.example\ndominio-estacionado-030.example\ndominio-estacionado-031.example\ndominio-estacionado-032.example\ndominio-estacionado-033.example\ndominio-estacionado-034.example\ndominio-estacionado-035.example\ndominio-estacionado-036.example\ndominio-estacionado-037.example\ndominio-estacionado-038.example\ndominio-estacionado-039.example\ndominio-estacionado-040.example\ndominio-estacionado-041.example\ndominio-estacionado-042.example\ndominio-estacionado-043.example\ndominio-estacionado-044.example\ndominio-estacionado-045.example\ndominio-estacionado-046.example\ndominio-estacionado-047.example\ndominio-estacionado-048.example\ndominio-estacionado-049.example\ndominio-estacionado-050.example\ndominio-estacionado-051.example\ndominio-estacionado-052.example\ndominio-estacionado-053.example\ndominio-estacionado-054.example\ndominio-estacionado-055.example\ndominio-estacionado-056.example\ndominio-estacionado-057.example\ndominio-estacionado-058.example\ndominio-estacionado-059.example\ndominio-estacionado-060.example\ndominio-estacionado-061.example\ndominio-estacionado-062.example\ndominio-estacionado-063.example\ndominio-estacionado-064.example\ndominio-estacionado-065.example\ndominio-estacionado-066.example\ndominio-estacionado-067.example\ndominio-estacionado-068.example\ndominio-estacionado-069.example\ndominio-estacionado-070.example\ndominio-estacionado-071.example\ndominio-estacionado-072.example\ndominio-estacionado-073.example\ndominio-estacionado-074.example\ndominio-estacionado-075.example\ndominio-estacionado-076.example\ndominio-estacionado-077.example\ndominio-estacionado-078.example\ndominio-estacionado-079.example\ndominio-estacionado-080.example\ndominio-estacionado-081.example\ndominio-estacionado-082.example\ndominio-estacionado-083.example\ndominio-estacionado-084.example\ndominio-estacionado-085.example\ndominio-estacionado-086.example\ndominio-estacionado-087.example\ndominio-estacionado-088.example\ndominio-estacionado-089.example\ndominio-estacionado-090.example\ndominio-estacionado-091.example\ndominio-estacionado-092.example\ndominio-estacionado-093.example\ndominio-estacionado-094.example\ndominio-estacionado-095.example\ndominio-estacionado-096.example",
+   "entry_timestamp": "2026-10-03T03:00:00.000",
+   "not_before": "2026-10-03T02:00:00",
+   "not_after": "2027-01-01T01:59:59",
+   "serial_number": "0aa1fict0005"
+  }
+ ],
+ "crtsh_padrao_nome": {
+  "consulta": "%pix%.example",
+  "resultados": 1287,
+  "nota": "padrão de nome: pista fraca, não conta para convergência"
+ },
+ "shodan_host": {
+  "203.0.113.77": [
+   {
+    "port": 443,
+    "http.favicon.hash": -1029384756,
+    "http.title": "Serra Azul - Regularização Pix",
+    "http.html_hash": 1474329905,
+    "ssl.cert.fingerprint.sha256": "9f2cfict00000000000000000000000000000000000000000000000000e41a",
+    "ssl.jarm": "2ad2ad16d2ad2ad22c42d42d00000069fict"
+   }
+  ],
+  "198.51.100.40": [
+   {
+    "port": 443,
+    "http.favicon.hash": -1029384756,
+    "http.title": "CredMinas - Regularização Pix",
+    "http.html_hash": -88231407,
+    "ssl.cert.fingerprint.sha256": "4b7dfict00000000000000000000000000000000000000000000000000c09e",
+    "ssl.jarm": "2ad2ad16d2ad2ad22c42d42d00000069fict"
+   }
+  ]
+ },
+ "shodan_count": {
+  "http.favicon.hash:-1029384756": 9,
+  "http.html_hash:1474329905": 3,
+  "ssl.cert.fingerprint:9f2cfict00000000000000000000000000000000000000000000000000e41a": 1,
+  "ssl.jarm:2ad2ad16d2ad2ad22c42d42d00000069fict": 18544,
+  "http.title:\"Regularização de Chave Pix\"": 214,
+  "http.favicon.hash:116323821": 412907
+ },
+ "shodan_search": {
+  "http.favicon.hash:-1029384756": [
+   [
+    "203.0.113.77",
+    443,
+    [
+     "serraazul-pix.example",
+     "coopvale-pix.example"
+    ],
+    "Serra Azul - Regularização Pix"
+   ],
+   [
+    "198.51.100.40",
+    443,
+    [
+     "credminas-seguranca.example",
+     "unicoop-sul-pix.example"
+    ],
+    "CredMinas - Regularização Pix"
+   ],
+   [
+    "192.0.2.150",
+    443,
+    [],
+    "Painel de teste"
+   ]
+  ],
+  "http.html_hash:1474329905": [
+   [
+    "203.0.113.77",
+    443,
+    [
+     "serraazul-pix.example",
+     "coopvale-pix.example"
+    ],
+    "Serra Azul - Regularização Pix"
+   ]
+  ]
+ },
+ "urlscan": {
+  "page.ip:\"203.0.113.77\"": {
+   "total": 41,
+   "amostra": [
+    [
+     "2026-10-05T10:42:18Z",
+     "serraazul-pix.example",
+     "Serra Azul - Regularização Pix"
+    ],
+    [
+     "2026-10-08T09:03:51Z",
+     "coopvale-pix.example",
+     "CoopVale - Regularização Pix"
+    ],
+    [
+     "2026-09-12T08:00:00Z",
+     "padaria-do-bairro.example",
+     "Padaria do Bairro"
+    ],
+    [
+     "2026-08-30T14:00:00Z",
+     "escola-de-musica.example",
+     "Escola de Música"
+    ]
+   ]
+  },
+  "hash:c6a500d420b2dd0197d73e8fa5ebe43f81ebfa3e86e56b91a9e909a4beae08b6": {
+   "total": 2,
+   "amostra": [
+    [
+     "2026-10-05T10:42:18Z",
+     "serraazul-pix.example",
+     "203.0.113.77"
+    ],
+    [
+     "2026-10-08T09:03:51Z",
+     "coopvale-pix.example",
+     "203.0.113.77"
+    ]
+   ]
+  },
+  "hash:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855": {
+   "total": 10000,
+   "amostra": [],
+   "nota": "SHA-256 do arquivo vazio"
+  },
+  "page.domain:credminas-seguranca.example": {
+   "total": 1,
+   "amostra": [
+    [
+     "2026-10-09T15:20:00Z",
+     "credminas-seguranca.example",
+     "198.51.100.40"
+    ]
+   ],
+   "nota": "a varredura pública guardou um isca.js com novo SHA-256 e o comentário '// pescador'"
+  },
+  "page.domain:cooperouro-regulariza.example": {
+   "total": 1,
+   "amostra": [
+    [
+     "2026-10-11T18:02:00Z",
+     "cooperouro-regulariza.example",
+     "192.0.2.77"
+    ]
+   ],
+   "nota": "título igual, nenhum recurso em comum com o kit"
+  }
+ },
+ "vt_resolutions": {
+  "serraazul-pix.example": [
+   [
+    "2026-10-04T19:30:11Z",
+    "203.0.113.77"
+   ]
+  ],
+  "serraazul-seguranca.example": [
+   [
+    "2026-10-05T08:01:44Z",
+    "203.0.113.78"
+   ]
+  ],
+  "coopvale-pix.example": [
+   [
+    "2026-10-07T22:15:00Z",
+    "203.0.113.77"
+   ]
+  ],
+  "credminas-seguranca.example": [
+   [
+    "2026-10-09T06:02:10Z",
+    "198.51.100.40"
+   ]
+  ],
+  "unicoop-sul-pix.example": [
+   [
+    "2026-10-10T06:20:33Z",
+    "198.51.100.40"
+   ]
+  ]
+ }
+}

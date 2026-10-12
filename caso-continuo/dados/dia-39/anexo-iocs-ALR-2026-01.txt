@@ -1,0 +1,21 @@
+# Anexo de IOCs do alerta ALR-2026-01 — 100% FICTÍCIO (Operação Isca, Investigador Cyber 90 Dias, Dia 39)
+# Domínios .example (RFC 2606), IPs de documentação (RFC 5737). TLP:AMBER.
+# Datas de atividade: 2026-10-05 a 2026-10-11 (BRT). Indicadores já defangados, como manda o Dia 39.
+
+Domínios imitação observados nos SMS e nas capturas:
+  hxxps://serraazul-pix[.]example/
+  serraazul-seguranca[.]example
+  coopvale-pix[.]example
+  coopvale-pix[.]example  (repetido no relatório da CoopVale)
+  unicoop-sul-pix[.]example
+
+Encurtador usado no SMS da Serra Azul:
+  hxxps://lnk[.]example/sa7
+
+Hospedagem observada:
+  203.0.113[.]77   (serraazul-pix e coopvale-pix)
+  198.51.100[.]40  (credminas-seguranca e unicoop-sul-pix)
+
+Artefatos:
+  SHA-256 do isca.js (Serra Azul): c6a500d420b2dd0197d73e8fa5ebe43f81ebfa3e86e56b91a9e909a4beae08b6
+  SHA-256 do arquivo vazio que aparece na lista de recursos da página: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855

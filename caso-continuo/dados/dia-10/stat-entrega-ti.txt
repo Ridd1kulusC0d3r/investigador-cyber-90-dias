@@ -1,0 +1,12 @@
+# DADOS FICTÍCIOS — Operação Isca (investigador-cyber-90-dias). Nenhuma pessoa, empresa ou IP real.
+# Saída de `stat` que o TI da Serra Azul (Juliano Prates) colou no e-mail de entrega,
+# rodada por ele no servidor sa-web01, a pedido da Vigia, logo antes do envio (16h05 BRT de 5/out).
+# O servidor grava logs em -03:00, mas a Vigia pediu `TZ=UTC stat`, por isso aqui tudo sai em +0000.
+# Formato: stat -c '%n|%U:%G|%a|%A|mtime=%y|ctime=%z|birth=%w'
+/var/log/nginx/access.log|www-data:adm|640|-rw-r-----|mtime=2026-10-05 18:58:41.120 +0000|ctime=2026-10-05 18:58:41.120 +0000|birth=2026-10-05 03:00:02.410 +0000
+/var/log/nginx/access.log.1|www-data:adm|640|-rw-r-----|mtime=2026-10-05 02:59:58.907 +0000|ctime=2026-10-05 03:00:02.399 +0000|birth=2026-10-04 03:00:01.882 +0000
+/var/log/auth.log|syslog:adm|640|-rw-r-----|mtime=2026-10-05 18:55:10.004 +0000|ctime=2026-10-05 18:55:10.004 +0000|birth=2026-10-04 03:00:01.311 +0000
+/srv/entrega-vigia/access.log.1|juliano:juliano|664|-rw-rw-r--|mtime=2026-10-05 19:02:17.551 +0000|ctime=2026-10-05 19:02:17.551 +0000|birth=2026-10-05 19:02:17.549 +0000
+/srv/entrega-vigia/auth.log|juliano:juliano|664|-rw-rw-r--|mtime=2026-10-05 19:02:17.560 +0000|ctime=2026-10-05 19:02:17.560 +0000|birth=2026-10-05 19:02:17.558 +0000
+/srv/entrega-vigia/LEIA-ME.txt|juliano:juliano|664|-rw-rw-r--|mtime=2026-09-14 12:00:00.000 +0000|ctime=2026-10-05 19:05:40.212 +0000|birth=2026-10-05 19:04:11.020 +0000
+/srv/entrega-vigia|juliano:www-data|777|drwxrwxrwx|mtime=2026-10-05 19:05:40.212 +0000|ctime=2026-10-05 19:05:40.212 +0000|birth=2026-10-05 19:01:55.300 +0000

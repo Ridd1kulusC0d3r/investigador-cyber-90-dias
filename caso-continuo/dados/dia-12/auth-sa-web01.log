@@ -1,0 +1,18 @@
+2026-10-03T03:12:07.118204-03:00 sa-web01 sshd[1811]: Invalid user admin from 203.0.113.9 port 50122
+2026-10-03T03:12:09.401121-03:00 sa-web01 sshd[1811]: Failed password for invalid user admin from 203.0.113.9 port 50122 ssh2
+2026-10-03T03:12:14.552310-03:00 sa-web01 sshd[1815]: Invalid user ubuntu from 203.0.113.9 port 50188
+2026-10-03T03:12:16.020934-03:00 sa-web01 sshd[1815]: Failed password for invalid user ubuntu from 203.0.113.9 port 50188 ssh2
+2026-10-03T03:12:20.700012-03:00 sa-web01 sshd[1819]: Failed password for root from 203.0.113.9 port 50240 ssh2
+2026-10-03T22:51:07.300455-03:00 sa-web01 sshd[2077]: Invalid user serraazul from 203.0.113.77 port 40112
+2026-10-03T22:51:09.881203-03:00 sa-web01 sshd[2077]: Failed password for invalid user serraazul from 203.0.113.77 port 40112 ssh2
+2026-10-04T22:47:10.114092-03:00 sa-web01 sshd[3120]: Failed password for juliano from 198.51.100.200 port 51522 ssh2
+2026-10-04T22:47:16.902331-03:00 sa-web01 sshd[3120]: Failed password for juliano from 198.51.100.200 port 51522 ssh2
+2026-10-04T22:47:25.330871-03:00 sa-web01 sshd[3120]: Accepted password for juliano from 198.51.100.200 port 51522 ssh2
+2026-10-04T22:47:25.401116-03:00 sa-web01 sshd[3120]: pam_unix(sshd:session): session opened for user juliano(uid=1002) by (uid=0)
+2026-10-04T22:49:02.775510-03:00 sa-web01 sudo:  juliano : TTY=pts/0 ; PWD=/home/juliano ; USER=root ; COMMAND=/usr/sbin/nginx -t
+2026-10-04T22:49:05.120998-03:00 sa-web01 sudo:  juliano : TTY=pts/0 ; PWD=/home/juliano ; USER=root ; COMMAND=/usr/bin/systemctl reload nginx
+2026-10-04T22:58:40.003214-03:00 sa-web01 sshd[3120]: pam_unix(sshd:session): session closed for user juliano
+2026-10-05T08:02:13.550021-03:00 sa-web01 sshd[3388]: Accepted publickey for juliano from 198.51.100.130 port 55012 ssh2: ED25519 SHA256:sAzUlExampleFingerprintOnlyForLab00000000
+2026-10-05T08:02:13.611904-03:00 sa-web01 sshd[3388]: pam_unix(sshd:session): session opened for user juliano(uid=1002) by (uid=0)
+2026-10-05T09:31:44.901223-03:00 sa-web01 sshd[3502]: Failed password for root from 203.0.113.9 port 61002 ssh2
+2026-10-05T09:31:49.004512-03:00 sa-web01 sshd[3502]: Failed password for root from 203.0.113.9 port 61002 ssh2

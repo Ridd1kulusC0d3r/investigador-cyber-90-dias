@@ -1,0 +1,14 @@
+collected_utc,domain,rtype,ttl,value,resolver
+2026-10-05T21:00:05Z,serraazul.example,A,300,"198.51.100.20",1.1.1.1
+2026-10-05T21:00:05Z,serraazul.example,MX,3600,"10 mx1.provedor-email.example.",1.1.1.1
+2026-10-05T21:00:05Z,serraazul.example,NS,86400,"ns1.provedor-dns.example.",1.1.1.1
+2026-10-05T21:00:05Z,serraazul.example,NS,86400,"ns2.provedor-dns.example.",1.1.1.1
+2026-10-05T21:00:05Z,serraazul.example,TXT,3600,"""v=spf1 include:_spf.provedor-email.example include:envios.boletim.example ~all""",1.1.1.1
+2026-10-05T21:00:05Z,serraazul-pix.example,A,300,"203.0.113.77",1.1.1.1
+2026-10-05T21:00:05Z,serraazul-pix.example,NS,3600,"ns1.dnsbarato.example.",1.1.1.1
+2026-10-05T21:00:05Z,serraazul-pix.example,NS,3600,"ns2.dnsbarato.example.",1.1.1.1
+2026-10-05T21:00:05Z,serraazul-seguranca.example,A,300,"203.0.113.78",1.1.1.1
+2026-10-05T21:00:05Z,serraazul-seguranca.example,NS,3600,"ns1.dnsbarato.example.",1.1.1.1
+2026-10-05T21:00:05Z,serraazul-seguranca.example,NS,3600,"ns2.dnsbarato.example.",1.1.1.1
+2026-10-05T21:00:05Z,coopserra-azul.example,NS,3600,"ns1.dnsbarato.example.",1.1.1.1
+2026-10-05T21:00:05Z,coopserra-azul.example,NS,3600,"ns2.dnsbarato.example.",1.1.1.1

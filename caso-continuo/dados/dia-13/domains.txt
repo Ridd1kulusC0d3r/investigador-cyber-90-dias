@@ -1,0 +1,4 @@
+serraazul.example            # site real do cliente (autorizado pelo contrato)
+serraazul-pix.example        # domínio imitação do caso
+serraazul-seguranca.example  # domínio imitação, no mesmo certificado do site falso (Dia 8)
+coopserra-azul.example       # domínio imitação ligado ao caso pelo ID de analytics G-ISCA7K2Q9P

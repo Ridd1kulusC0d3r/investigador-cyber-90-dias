@@ -1,0 +1,13 @@
+coopserra-azul.example	NS	ns1.dnsbarato.example.
+coopserra-azul.example	NS	ns2.dnsbarato.example.
+serraazul-pix.example	A	203.0.113.77
+serraazul-pix.example	NS	ns1.dnsbarato.example.
+serraazul-pix.example	NS	ns2.dnsbarato.example.
+serraazul-seguranca.example	A	203.0.113.78
+serraazul-seguranca.example	NS	ns1.dnsbarato.example.
+serraazul-seguranca.example	NS	ns2.dnsbarato.example.
+serraazul.example	A	198.51.100.20
+serraazul.example	MX	10 mx1.provedor-email.example.
+serraazul.example	NS	ns1.provedor-dns.example.
+serraazul.example	NS	ns2.provedor-dns.example.
+serraazul.example	TXT	"v=spf1 include:_spf.provedor-email.example include:envios.boletim.example ~all"

@@ -1,0 +1,29 @@
+Source,Target,Type,Label,evidence,confidence,day
+sms_1,d_pix,Directed,link no texto,I2 linhas 07:12 e 07:58,confirmed,83
+tel_1,sms_1,Directed,remetentes,I2 todas as linhas,confirmed,83
+d_pix,ip_077,Directed,registro A,V2 DNS passivo,confirmed,84
+d_seg,ip_077,Directed,registro A,V2 DNS passivo,confirmed,84
+d_pix,cert_1,Directed,nome no certificado,V1 CT 2026-10-04,confirmed,84
+d_seg,cert_1,Directed,nome no certificado,V1 CT 2026-10-04,confirmed,84
+d_pix,art_ik,Directed,carrega o script,I3 RECURSO; V3,confirmed,84
+d_coop,art_ik,Directed,carrega o script,V3 varredura de URL,likely,84
+d_vale,art_ik,Directed,carrega o script,V4 varredura publica de terceiro,likely,84
+d_vale,org_vale,Directed,imita a marca,V4 texto da pagina,likely,84
+d_pix,org_sa,Directed,imita a marca,I3 TITULO,confirmed,83
+d_real,org_sa,Directed,site oficial,I1 contrato,confirmed,83
+wa_1,org_sa,Directed,imita a marca,S3 do Dia 87,likely,87
+v1,d_pix,Directed,digitou a senha,OUV-0004; IB 11:03:40Z dispositivo novo,confirmed,86
+v2,d_pix,Directed,digitou a senha,OUV-0011; IB 11:12:30Z dispositivo novo,confirmed,86
+ip_150,v1,Directed,login com credencial roubada,IB 2026-10-05T11:03:40Z,confirmed,86
+ip_150,v2,Directed,login com credencial roubada,IB 2026-10-05T11:12:30Z,confirmed,86
+ip_150,v3,Directed,login com credencial roubada,IB 2026-10-05T11:41:19Z,confirmed,86
+v1,l01,Directed,Pix nao reconhecido,IB 11:05:12Z; contestacao PIXFICT-E2E-0001,confirmed,86
+v2,l01,Directed,Pix nao reconhecido,IB 11:14:05Z; contestacao PIXFICT-E2E-0002,confirmed,86
+v2,l02,Directed,Pix nao reconhecido,IB 11:15:44Z; contestacao PIXFICT-E2E-0003,confirmed,86
+v3,l03,Directed,Pix nao reconhecido,IB 11:43:02Z; contestacao PIXFICT-E2E-0004,confirmed,86
+v3,d_pix,Directed,digitou a senha,IB 11:41:19Z dispositivo novo (sem relato de clique na ouvidoria),likely,86
+h_lia,sms_1,Directed,explicaria quem recebeu,ACH E3 E6 do Dia 85,likely,85
+h_forn,sms_1,Directed,explicaria quem recebeu,ACH E2 E6 do Dia 85,possible,85
+x_lnk,sms_1,Directed,encurtador publico usado por milhoes; rejeitado,V6,excluded,84
+x_pous,d_coop,Directed,hospedagem compartilhada com 2.300 dominios; rejeitado,V7,excluded,84
+x_fav,d_real,Directed,clone copiou o favicon da vitima; rejeitado,V9,excluded,84

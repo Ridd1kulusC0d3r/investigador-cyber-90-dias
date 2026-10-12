@@ -1,0 +1,12 @@
+# FICTÍCIO — Operação Isca (investigador-cyber-90-dias). Nenhuma pessoa, conta, número ou domínio real.
+# H1 = base de cooperados vazou de um fornecedor da cooperativa (ex.: empresa de disparo de SMS)
+# H2 = o operador comprou uma base genérica vazada (telefones de MG) e disparou para todos
+# H3 = disparo aleatório em faixas de números, sem base nenhuma
+# H4 = o operador usou o chatbot Lia para validar celulares e CPFs antes do disparo
+id,evidencia,H1,H2,H3,H4,fonte,motivo
+E1,O texto do SMS cita 'Serra Azul' pelo nome,C,C,C,C,I2,qualquer hipotese explica citar a marca
+E2,"Das 37 reclamacoes, 37 vieram de cooperados (nenhuma de nao cooperado)",C,I,I,C,ouvidoria,base generica ou disparo aleatorio atingiriam muitos nao cooperados e parte deles ligaria para a cooperativa
+E3,Registros da Lia mostram perguntas que confirmam se um celular e de cooperado antes dos disparos,N,C,I,C,arco da Fase 6,disparo aleatorio nao precisaria validar nada
+E4,Os disparos duraram 1h28 (07h12 a 08h40) e vieram de 4 remetentes,C,C,C,C,I2,volume e janela cabem em todas as hipoteses
+E5,O fornecedor de SMS da cooperativa nao relatou incidente,C,C,C,C,relato da Marta (nao verificado),ausencia de relato nao e ausencia de incidente; e hearsay
+E6,Cooperados que nunca deram celular a cooperativa nao receberam SMS (amostra de 12 ligacoes da ouvidoria),C,I,I,C,ouvidoria,base generica e disparo aleatorio teriam atingido esses numeros

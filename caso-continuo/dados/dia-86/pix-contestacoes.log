@@ -1,0 +1,9 @@
+# FICTÍCIO — Operação Isca (investigador-cyber-90-dias). Nenhuma pessoa, conta, número ou domínio real.
+# Sistema de contestacao de Pix. Horario local do appliance. Nenhum fuso anotado.
+2026-10-05 09:31:15 V1 contestacao_aberta pix_ref=PIXFICT-E2E-0001 motivo=fraude
+2026-10-05 09:31:16 V1 med_solicitado pix_ref=PIXFICT-E2E-0001
+2026-10-05 09:47:10 V2 contestacao_aberta pix_ref=PIXFICT-E2E-0002 motivo=fraude
+2026-10-05 09:47:12 V2 contestacao_aberta pix_ref=PIXFICT-E2E-0003 motivo=fraude
+2026-10-05 10:12:05 V3 contestacao_aberta pix_ref=PIXFICT-E2E-0004 motivo=fraude
+2026-10-05 11:20:01 SISTEMA regra_recebida origem=internet_banking regra=bloqueio_preventivo
+2026-10-06 09:00:02 SISTEMA teste_integracao origem=internet_banking id=TI-0610

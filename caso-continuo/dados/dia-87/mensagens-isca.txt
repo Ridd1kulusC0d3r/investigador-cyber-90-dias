@@ -1,0 +1,13 @@
+# FICTÍCIO — Operação Isca (investigador-cyber-90-dias). Nenhuma pessoa, conta, número ou domínio real.
+=== S1 · SMS · 2026-10-05 07:12 BRT · remetente +55 00 00000-0001
+Serra Azul: sua chave Pix foi bloqueada por seguranca. Regularize em serraazul-pix.example
+
+=== S2 · pagina https://serraazul-pix.example/ · capturada 2026-10-05 14:02 UTC
+Sua chave Pix foi bloqueada preventivamente. Para desbloquear, confirme seus dados de acesso.
+Campos: CPF, senha do internet banking, celular.
+Rodape: (c) Cooperativa Serra Azul. Atendimento exclusivo por este portal ate a regularizacao.
+
+=== S3 · WhatsApp Business "Serra Azul Atendimento" · +55 00 00000-0009 · 2026-10-05 09:31 BRT
+Ola! Aqui e da Central de Seguranca da Serra Azul. Identificamos que voce ainda nao regularizou sua chave Pix.
+Se nao regularizar em 30 minutos, sua conta sera encerrada. Nao ligue para a agencia: as linhas estao
+congestionadas por causa do bloqueio. Regularize pelo link: lnk.example/sa7

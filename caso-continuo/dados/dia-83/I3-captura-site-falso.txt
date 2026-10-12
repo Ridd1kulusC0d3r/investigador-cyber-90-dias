@@ -1,0 +1,6 @@
+# FICTÍCIO — Operação Isca (investigador-cyber-90-dias). Nenhuma pessoa, conta, número ou domínio real.
+# Captura de texto de https://serraazul-pix.example/ feita em navegador isolado da Vigia, 2026-10-05 14:02 UTC.
+TITULO: Serra Azul | Regularizacao de Chave Pix
+TEXTO: Sua chave Pix foi bloqueada preventivamente. Para desbloquear, confirme seus dados de acesso.
+FORMULARIO: POST /validar  campos: cpf, senha_ib, celular
+RECURSO: /static/ik.js   (comentario no codigo: "// isca v2 - pescador")

@@ -1,0 +1,11 @@
+# FICTÍCIO — Operação Isca (investigador-cyber-90-dias). Nenhuma pessoa, conta, número ou domínio real.
+id,entidade_a,entidade_b,valor_compartilhado,tipo_pivo,fonte,explicacao_inocente
+V1,serraazul-pix.example,serraazul-seguranca.example,mesmo certificado TLS (SAN com os dois nomes),certificado,CT 2026-10-04,nenhuma: um certificado so com os dois nomes foi pedido por quem controla os dois
+V2,serraazul-pix.example,serraazul-seguranca.example,A 203.0.113.77,IP,DNS passivo,203.0.113.77 e VPS de inquilino unico (3 nomes)
+V3,serraazul-pix.example,coopserra-azul.example,script /static/ik.js com o mesmo SHA-256,recurso da pagina,varredura de URL,o arquivo nao e biblioteca publica conhecida
+V4,serraazul-pix.example,coopvale-pix.example,script /static/ik.js com o mesmo SHA-256,recurso da pagina,varredura de URL publica (relato de outra cooperativa),o arquivo nao e biblioteca publica conhecida
+V5,serraazul-pix.example,coopvale-pix.example,comentario 'isca v2 - pescador' no codigo,texto no codigo,varredura de URL publica,comentario pode ser copiado por quem compra o kit
+V6,serraazul-pix.example,lojinha-doces.example,encurtador lnk.example,encurtador,SMS da ouvidoria,lnk.example e encurtador publico com milhoes de links
+V7,coopserra-azul.example,pousada-ipe.example,IP 198.51.100.200,IP,DNS passivo,198.51.100.200 e hospedagem compartilhada com 2.300 dominios
+V8,serraazul-pix.example,coopserra-azul.example,mesmo registrador barato e DNS gratuito,registro,WHOIS,registrador com milhoes de dominios e DNS gratuito com dezenas de milhares de zonas
+V9,serraazul-pix.example,serraazul.example,favicon com o mesmo hash,favicon,busca de favicon,o clone copiou o favicon da cooperativa real

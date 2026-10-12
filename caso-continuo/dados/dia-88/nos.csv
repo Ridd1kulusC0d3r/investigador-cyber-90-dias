@@ -1,0 +1,26 @@
+Id,Label,type,cluster
+org_sa,Cooperativa Serra Azul (alvo),organization,vitima
+d_real,serraazul[.]example (site real),domain,vitima
+d_pix,serraazul-pix[.]example,domain,isca
+d_seg,serraazul-seguranca[.]example,domain,isca
+d_coop,coopserra-azul[.]example,domain,isca
+d_vale,coopvale-pix[.]example,domain,outras-coops
+org_vale,Coopvale (alvo em outra campanha),organization,outras-coops
+ip_077,203.0.113[.]77,ip,isca
+ip_150,203.0.113[.]150,ip,ponte
+art_ik,ik.js (mesmo SHA-256),artifact,ponte
+cert_1,certificado TLS 2026-10-04,artifact,isca
+sms_1,SMS 'Pix bloqueado' (4 remetentes),message,isca
+tel_1,+55 00 00000-0001 a -0004,phone,isca
+wa_1,WhatsApp 'Serra Azul Atendimento',account,isca
+v1,cooperado V1,account,vitima
+v2,cooperado V2,account,vitima
+v3,cooperado V3,account,vitima
+l01,PIXFICT-L01 (laranja L-01),financial,laranjas
+l02,PIXFICT-L02 (laranja L-02),financial,laranjas
+l03,PIXFICT-L03 (laranja L-03),financial,laranjas
+h_lia,H4 Lia usada para validar celulares,hypothesis,pergunta-aberta
+h_forn,H1 base vazou de fornecedor,hypothesis,pergunta-aberta
+x_lnk,lnk[.]example (encurtador publico),domain,excluded
+x_pous,pousada-ipe[.]example (vizinho de hospedagem),domain,excluded
+x_fav,favicon igual ao do site real,artifact,excluded

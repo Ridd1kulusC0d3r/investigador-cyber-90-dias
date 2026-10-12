@@ -1,0 +1,13 @@
+# FICTÍCIO — Operação Isca (investigador-cyber-90-dias). Nenhuma pessoa, conta, número ou domínio real.
+# Internet banking da Serra Azul. Horario em UTC (NTP).
+ts_utc,cooperado,ip,dispositivo,evento,detalhe
+2026-10-05T10:49:02Z,V1,198.51.100.4,Android,login,celular habitual do cooperado
+2026-10-05T11:03:40Z,V1,203.0.113.150,Linux Firefox,login,dispositivo novo
+2026-10-05T11:05:12Z,V1,203.0.113.150,Linux Firefox,pix_enviado,PIXFICT-L01 (chave ficticia) R$ 1.950
+2026-10-05T11:12:30Z,V2,203.0.113.150,Linux Firefox,login,dispositivo novo
+2026-10-05T11:14:05Z,V2,203.0.113.150,Linux Firefox,pix_enviado,PIXFICT-L01 (chave ficticia) R$ 2.400
+2026-10-05T11:15:44Z,V2,203.0.113.150,Linux Firefox,pix_enviado,PIXFICT-L02 (chave ficticia) R$ 1.100
+2026-10-05T11:41:19Z,V3,203.0.113.150,Linux Firefox,login,dispositivo novo
+2026-10-05T11:43:02Z,V3,203.0.113.150,Linux Firefox,pix_enviado,PIXFICT-L03 (chave ficticia) R$ 3.300
+2026-10-05T14:20:00Z,SISTEMA,10.20.0.5,servidor,bloqueio_preventivo,login de dispositivo novo exige confirmacao na agencia
+2026-10-06T12:00:01Z,SISTEMA,10.20.0.5,servidor,teste_integracao,id=TI-0610 enviado ao sistema de contestacao

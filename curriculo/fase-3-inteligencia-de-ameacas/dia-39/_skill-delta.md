@@ -1,6 +1,6 @@
 # Delta da skill — Dia 39
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Dia 39 — novo procedimento "Enriquecimento passivo de IOCs" (nada contata o indicador; IOCs neutralizados; hora de observação e de coleta; "ainda útil para detecção?").
 
 ## Texto a inserir

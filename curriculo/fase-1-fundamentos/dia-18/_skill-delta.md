@@ -1,6 +1,6 @@
 # Delta da skill — Dia 18
 
-Tipo: acréscimo a "Procedimento: portão de autorização (4 checagens)"
+Tipo: acréscimo a "Procedimento: portão de autorização (4 checagens)" — **integrado**
 Linha do changelog: | 18 | Acréscimo ao **portão de autorização**: material suspeito do caso só é aberto em laboratório com isolamento demonstrado, hash antes e depois, sem saída para a internet; varredura só contra máquinas próprias | Portão de autorização |
 
 ## Texto a inserir

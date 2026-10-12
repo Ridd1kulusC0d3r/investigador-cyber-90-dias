@@ -1,6 +1,6 @@
 # Delta da skill — Dia 05
 
-Tipo: procedimento novo — "Seguir uma cadeia de resolução DNS"
+Tipo: procedimento novo — "Seguir uma cadeia de resolução DNS" — **integrado**
 Linha do changelog: Procedimento **cadeia de resolução DNS**: proveniência (resolvedor + hora), CNAME até o A, TTL e respostas divergentes, onde ficam os logs, arquivo hosts
 
 ## Texto a inserir

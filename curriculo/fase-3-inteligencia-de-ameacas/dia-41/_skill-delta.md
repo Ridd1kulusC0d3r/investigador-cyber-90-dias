@@ -1,6 +1,6 @@
 # Delta da skill — Dia 41
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Dia 41 — novo procedimento "Pedido de coleta na dark web" (fontes que já responderam primeiro; nada de registrar, comprar, conversar ou baixar vazamento; plano escrito; paradas de CSAM e dados pessoais com canais BR).
 
 ## Texto a inserir

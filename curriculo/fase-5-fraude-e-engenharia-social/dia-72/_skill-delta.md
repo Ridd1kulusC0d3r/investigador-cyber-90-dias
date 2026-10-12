@@ -1,6 +1,6 @@
 # Delta da skill — Dia 72
 
-Tipo: acréscimo a "Procedimento: verificação de texto gerado por máquina"
+Tipo: acréscimo a "Procedimento: verificação de texto gerado por máquina" — **integrado**
 Linha do changelog: | 72 | Verificação de texto gerado por máquina ganha marcadores de resíduo em pt-BR, a regra da persona incompatível/mudança de voz como observação, e o peso médio da aresta de redação idêntica | Verificação de texto gerado por máquina |
 
 ## Texto a inserir

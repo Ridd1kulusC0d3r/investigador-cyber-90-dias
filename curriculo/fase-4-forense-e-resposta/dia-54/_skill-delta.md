@@ -1,6 +1,6 @@
 # Delta da skill — Dia 54
 
-Tipo: acréscimo a "Triagem de memória: árvore de processos" (procedimento proposto no Dia 53)
+Tipo: acréscimo a "Triagem de memória: árvore de processos" (procedimento proposto no Dia 53) — **integrado**
 Linha do changelog: | 54 | Memória e rede: o que uma linha do netscan prova, veredito do malfind com JIT como explicação inocente, intervalo × padrão. |
 
 ## Texto a inserir

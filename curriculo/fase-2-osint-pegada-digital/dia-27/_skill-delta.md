@@ -1,6 +1,6 @@
 # Delta da skill — Dia 27
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 27 | Procedimento novo "Metadados de arquivo" (imagens): hash antes, Software + miniatura, hora local × GPS UTC, sinal × Ref, número de série como artefato | 
 
 ## Texto a inserir

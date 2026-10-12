@@ -1,6 +1,6 @@
 # Delta da skill — Dia 32
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 32 | Procedimento novo "OPSEC antes de tocar a infraestrutura do alvo": configuração por tipo de tarefa, regras permanentes (urlscan Private, .eml offline, hash e não arquivo, sem conta pessoal) e a pergunta "o que esta linha vai parecer no log deles?" |
 
 ## Texto a inserir

@@ -1,6 +1,6 @@
 # Delta da skill — Dia 86
 
-Tipo: procedimento novo — "Linha do tempo multifonte e atribuição de sessões"
+Tipo: procedimento novo — "Linha do tempo multifonte e atribuição de sessões" — **integrado**
 Linha do changelog: Procedimento **linha do tempo multifonte**: duas âncoras em dias diferentes para todo relógio sem fuso, conversão com horário de verão, atribuição por sessão com motivo além do IP, evidência negativa e rivais testadas
 
 ## Texto a inserir

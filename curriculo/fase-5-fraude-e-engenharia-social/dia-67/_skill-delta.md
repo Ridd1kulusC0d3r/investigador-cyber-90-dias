@@ -1,6 +1,6 @@
 # Delta da skill — Dia 67
 
-Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe"
+Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe" — **integrado**
 Linha do changelog: | 67 | Três respostas por mecanismo (presente com citação literal / ausente / informação insuficiente), mecanismos BR do falso emprego (taxa de liberação, conta para repasse) e encaminhamento de vaga no exterior ao fluxo de tráfico | Triagem de padrão de fraude e golpe |
 
 ## Texto a inserir

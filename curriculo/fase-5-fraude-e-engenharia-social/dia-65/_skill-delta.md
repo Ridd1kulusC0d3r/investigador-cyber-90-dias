@@ -1,6 +1,6 @@
 # Delta da skill — Dia 65
 
-Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe"
+Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe" — **integrado**
 Linha do changelog: | 65 | Inspeção segura de link na triagem de fraude: preservar com hash, desarmar, remover token do destinatário, só sandbox privada; zero detecções não é "seguro"; "não se aplica" ≠ "ausente" por canal | Triagem de padrão de fraude e golpe |
 
 ## Texto a inserir

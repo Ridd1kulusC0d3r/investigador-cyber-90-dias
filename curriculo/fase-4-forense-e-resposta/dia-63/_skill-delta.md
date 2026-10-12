@@ -1,6 +1,6 @@
 # Delta da skill — Dia 63
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Dia 63 — novo procedimento "Correlação no SIEM: ingestão primeiro, entidade antes da hipótese" (conferência de ingestão, consulta por entidade, sequência com aperto contra falsos positivos, mapeamento de tipos).
 
 ## Texto a inserir

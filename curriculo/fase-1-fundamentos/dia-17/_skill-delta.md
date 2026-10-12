@@ -1,6 +1,6 @@
 # Delta da skill — Dia 17
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 17 | Procedimento **mapa de prontidão de evidência** (fonte e registro, retenção verificada, fora do host, custodiante; plano de até 5 ações, a primeira fecha o repúdio) | Prontidão de evidência |
 
 ## Texto a inserir

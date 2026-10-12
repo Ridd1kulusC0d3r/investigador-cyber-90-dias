@@ -1,6 +1,6 @@
 # Delta da skill — Dia 51
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 51 | Procedimento novo "Leitura de sistema de arquivos e linha do tempo MACB": camadas do TSK, apagado com ressalva, assinatura × extensão, fuso declarado por horário. |
 
 ## Texto a inserir

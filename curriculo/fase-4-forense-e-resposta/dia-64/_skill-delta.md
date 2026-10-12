@@ -1,6 +1,6 @@
 # Delta da skill — Dia 64
 
-Tipo: acréscimo a "Procedimento: informe de inteligência ou relatório de caso"
+Tipo: acréscimo a "Procedimento: informe de inteligência ou relatório de caso" — **integrado**
 Linha do changelog: Dia 64 — relatório ganha escala de confiança de 5 termos definida no próprio documento, achado em 4 partes, verificação de citações arquivo:linha e lista de palavras que superafirmam (pt-BR e inglês); estrutura de laudo com quesitos como opção para leitores brasileiros.
 
 ## Texto a inserir

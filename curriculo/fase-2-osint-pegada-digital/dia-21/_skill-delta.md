@@ -1,6 +1,6 @@
 # Delta da skill — Dia 21
 
-Tipo: acréscimo a "Procedimento: grafo de vínculos (link analysis)"
+Tipo: acréscimo a "Procedimento: grafo de vínculos (link analysis)" — **integrado**
 Linha do changelog: | 21 | Proveniência por entidade, leitura do AS como operador da rede (não do site) e nota "pelo menos N" para resultados truncados | Grafo de vínculos |
 
 ## Texto a inserir

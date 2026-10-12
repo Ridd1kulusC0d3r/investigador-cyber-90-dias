@@ -1,6 +1,6 @@
 # Delta da skill — Dia 23
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 23 | Procedimento **busca com operadores e exposição indexada**: laço `site:`/`-site:`, contagens observadas (nunca estimativas), testar operador antes de confiar e o fluxograma registra / pare aí / achado defensivo | Busca com operadores |
 
 ## Texto a inserir

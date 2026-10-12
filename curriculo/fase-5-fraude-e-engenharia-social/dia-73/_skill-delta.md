@@ -1,6 +1,6 @@
 # Delta da skill — Dia 73
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 73 | Procedimento **triagem automatizada guiada por taxonomia**: checagens determinísticas antes do modelo, citação literal verificada, abstenção contada, dados de vítima locais, teste de injeção obrigatório, decisão com consequência sempre humana (LGPD art. 20) | Triagem automatizada guiada por taxonomia |
 
 ## Texto a inserir

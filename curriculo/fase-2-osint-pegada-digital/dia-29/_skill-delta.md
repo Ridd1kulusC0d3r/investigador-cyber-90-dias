@@ -1,6 +1,6 @@
 # Delta da skill — Dia 29
 
-Tipo: acréscimo a "Ciclo de reconhecimento OSINT"
+Tipo: acréscimo a "Ciclo de reconhecimento OSINT" — **integrado**
 Linha do changelog: | 29 | "Ciclo de reconhecimento OSINT" ganha registro de domínio: RDAP como fonte autoritativa (caminho .br), data em todo retrato histórico, distância registro→campanha separada da inferência |
 
 ## Texto a inserir

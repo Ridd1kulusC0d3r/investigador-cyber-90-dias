@@ -1,6 +1,6 @@
 # Delta da skill — Dia 50
 
-Tipo: acréscimo a "Recebimento de evidência e cadeia de custódia" (procedimento proposto no Dia 49)
+Tipo: acréscimo a "Recebimento de evidência e cadeia de custódia" (procedimento proposto no Dia 49) — **integrado**
 Linha do changelog: | 50 | Aquisição de dispositivo: bloqueador de escrita, hash da imagem contra a origem, divergência registrada e nova aquisição (SSD, BitLocker). |
 
 ## Texto a inserir

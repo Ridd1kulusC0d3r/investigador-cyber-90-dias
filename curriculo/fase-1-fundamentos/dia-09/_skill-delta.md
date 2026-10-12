@@ -1,6 +1,6 @@
 # Delta da skill — Dia 09
 
-Tipo: procedimento novo — "Ler um log de firewall por segmento"
+Tipo: procedimento novo — "Ler um log de firewall por segmento" — **integrado**
 Linha do changelog: Procedimento **log de firewall por segmento**: plano de endereços, CIDR com RFC 1918 explícita (não `is_private`), fuso do log, prioridade por direção e segmento, IP é ponto de rede num horário e não pessoa
 
 ## Texto a inserir

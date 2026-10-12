@@ -1,6 +1,6 @@
 # Delta da skill — Dia 24
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 24 | Procedimento **enumeração de username**: só sobre handles do próprio usuário ou de organização que autorizou por escrito; verificação manual com segundo atributo; "mesmo handle, não oficial" vira encaminhamento ao titular, nunca alvo | Enumeração de username |
 
 ## Texto a inserir

@@ -1,6 +1,6 @@
 # Delta da skill — Dia 55
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 55 | Procedimento novo "Leitura de logs de autenticação": eventos e tipos de logon, linha de base antes da exceção, spray × força bruta × conta válida. |
 
 ## Texto a inserir

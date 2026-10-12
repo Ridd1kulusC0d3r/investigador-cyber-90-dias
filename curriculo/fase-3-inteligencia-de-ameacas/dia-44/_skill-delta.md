@@ -1,6 +1,6 @@
 # Delta da skill — Dia 44
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Procedimento **decisão de compartilhamento (TLP 2.0)**: registro escrito por destinatário, marcação e expiração em todo objeto, checagem de vazamento lida item a item
 
 ## Texto a inserir

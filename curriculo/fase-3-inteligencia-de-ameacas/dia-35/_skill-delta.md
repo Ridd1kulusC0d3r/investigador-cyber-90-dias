@@ -1,6 +1,6 @@
 # Delta da skill — Dia 35
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Dia 35 — novo procedimento "Consulta e conferência de IDs do ATT&CK" (nada de memória; domínio + versão; resolver revogados; Mobile para smishing).
 
 ## Texto a inserir

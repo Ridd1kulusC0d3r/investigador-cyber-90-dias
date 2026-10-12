@@ -1,6 +1,6 @@
 # Delta da skill — Dia 82
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 82 | Procedimento novo "Exfiltração em nuvem e fechamento do caso": egress por destino, segunda fonte independente, achado só com duas fontes, relatório em oito partes numa linha do tempo; rascunho do art. 48 da LGPD com confiança calibrada. |
 
 ## Texto a inserir

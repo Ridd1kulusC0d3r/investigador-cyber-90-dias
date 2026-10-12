@@ -1,6 +1,6 @@
 # Delta da skill — Dia 26
 
-Tipo: acréscimo a "Procedimento: ciclo de reconhecimento OSINT"
+Tipo: acréscimo a "Procedimento: ciclo de reconhecimento OSINT" — **integrado**
 Linha do changelog: | 26 | Versões de páginas pela API CDX (filter=statuscode:200, collapse=digest, cópia `id_` com hash) e regra de datar mudanças como janela entre capturas, nunca como um dia | Ciclo de reconhecimento OSINT |
 
 ## Texto a inserir

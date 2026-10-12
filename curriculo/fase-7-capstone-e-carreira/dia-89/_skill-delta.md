@@ -1,6 +1,6 @@
 # Delta da skill — Dia 89
 
-Tipo: acréscimo a "Informe de inteligência ou relatório de caso"
+Tipo: acréscimo a "Informe de inteligência ou relatório de caso" — **integrado**
 Linha do changelog: Relatório ganha a **escala ICD 203**, a separação **fato observado × julgamento**, a coerência com o **grafo**, a **varredura de exageros** e a seção de **limites**
 
 ## Texto a inserir

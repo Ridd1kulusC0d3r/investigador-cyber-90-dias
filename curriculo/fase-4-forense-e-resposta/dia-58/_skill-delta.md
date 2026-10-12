@@ -1,6 +1,6 @@
 # Delta da skill — Dia 58
 
-Tipo: acréscimo a "Procedimento: grafo de vínculos (link analysis)"
+Tipo: acréscimo a "Procedimento: grafo de vínculos (link analysis)" — **integrado**
 Linha do changelog: Dia 58 — grafo de vínculos ganha regras de linha do tempo: campo compartilhado nomeado em toda ligação entre fontes, ligações por tamanho/horário/nome de conta marcadas como inferidas, correções de tempo registradas ao lado do dado e nunca sobre ele.
 
 ## Texto a inserir

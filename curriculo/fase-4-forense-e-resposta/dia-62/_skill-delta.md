@@ -1,6 +1,6 @@
 # Delta da skill — Dia 62
 
-Tipo: acréscimo a "Procedimento: cartão de triagem estática (sem executar, sem enviar)" (proposto no Dia 61)
+Tipo: acréscimo a "Procedimento: cartão de triagem estática (sem executar, sem enviar)" (proposto no Dia 61) — **integrado**
 Linha do changelog: Dia 62 — triagem ganha a leitura de relatório de sandbox: visibilidade antes do envio, observado × pontuado, amostra × ambiente, rótulo ATT&CK só com o comportamento que o disparou, relatório silencioso ≠ benigno.
 
 ## Texto a inserir

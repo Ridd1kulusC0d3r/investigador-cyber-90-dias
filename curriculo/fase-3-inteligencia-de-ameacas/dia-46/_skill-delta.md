@@ -1,6 +1,6 @@
 # Delta da skill — Dia 46
 
-Tipo: acréscimo a "informe de inteligência ou relatório de caso"
+Tipo: acréscimo a "informe de inteligência ou relatório de caso" — **integrado**
 Linha do changelog: **Linguagem calibrada** no informe: escala declarada (ICD 203 ou PHIA), probabilidade e confiança em frases separadas, sem palavras evasivas, com julgamento sobre o que não se sabe
 
 ## Texto a inserir

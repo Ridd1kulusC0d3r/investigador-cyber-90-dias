@@ -1,6 +1,6 @@
 # Delta da skill — Dia 48
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Procedimento **declaração de atribuição (cinco propriedades)**: fluxo "quem afirma o quê", ramo de falsa bandeira, alegação de governo mantida como alegação, nenhum indivíduo nomeado
 
 ## Texto a inserir

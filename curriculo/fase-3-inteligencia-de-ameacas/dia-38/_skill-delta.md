@@ -1,6 +1,6 @@
 # Delta da skill — Dia 38
 
-Tipo: acréscimo a "Perfil de cluster de atividade" (procedimento proposto no Dia 37)
+Tipo: acréscimo a "Perfil de cluster de atividade" (procedimento proposto no Dia 37) — **integrado**
 Linha do changelog: Dia 38 — "Perfil de cluster de atividade" ganha taxa de base, nível da Pirâmide da Dor e datas de comportamento.
 
 ## Texto a inserir

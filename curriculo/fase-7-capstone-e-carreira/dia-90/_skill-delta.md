@@ -1,6 +1,6 @@
 # Delta da skill — Dia 90
 
-Tipo: procedimento novo — "Publicação de artefato de investigação (portfólio)"
+Tipo: procedimento novo — "Publicação de artefato de investigação (portfólio)" — **integrado**
 Linha do changelog: Procedimento **publicação de artefato**: só dado sintético, público ou de laboratório próprio; rótulo de sintético; indicadores desarmados; nenhum indivíduo privado; metadados limpos (incluindo revisões antigas de PDF)
 
 ## Texto a inserir

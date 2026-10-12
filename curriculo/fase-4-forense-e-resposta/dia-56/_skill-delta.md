@@ -1,6 +1,6 @@
 # Delta da skill — Dia 56
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 56 | Procedimento novo "Normalização de tempo e correlação entre fontes": três perguntas por fonte, correção medida por pares, evidence_ref, arestas rotuladas e inferidas. |
 
 ## Texto a inserir

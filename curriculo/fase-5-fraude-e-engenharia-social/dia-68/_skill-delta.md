@@ -1,6 +1,6 @@
 # Delta da skill — Dia 68
 
-Tipo: acréscimo a "Procedimento: grafo de vínculos (link analysis)"
+Tipo: acréscimo a "Procedimento: grafo de vínculos (link analysis)" — **integrado**
 Linha do changelog: | 68 | Grafo caso-indicador com tabela de força (forte/médio/fraco/não é vínculo), achado a partir só das arestas fortes, teste de remoção do nó-ponte e registro do que não foi ligado | Grafo de vínculos |
 
 ## Texto a inserir

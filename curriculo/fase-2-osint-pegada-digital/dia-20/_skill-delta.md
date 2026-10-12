@@ -1,6 +1,6 @@
 # Delta da skill — Dia 20
 
-Tipo: acréscimo a "Procedimento: ciclo de reconhecimento OSINT"
+Tipo: acréscimo a "Procedimento: ciclo de reconhecimento OSINT" — **integrado**
 Linha do changelog: | 20 | Coleta automatizada só no modo passivo, com checagem do log; passada de falsos positivos com contagem e motivo, sendo o ruído definido pela pergunta | Ciclo de reconhecimento OSINT |
 
 ## Texto a inserir

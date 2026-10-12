@@ -1,6 +1,6 @@
 # Delta da skill — Dia 74
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 74 | Procedimento **apoio a entrevista de vítima de fraude**: planejar e auditar com PEACE e escada de perguntas, aviso anti-golpe de recuperação, cuidados com pessoa idosa, sem prometer devolução; o agente não conduz a entrevista e para diante de relato com criança | Apoio a entrevista de vítima de fraude |
 
 ## Texto a inserir

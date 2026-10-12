@@ -1,6 +1,6 @@
 # Delta da skill — Dia 53
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 53 | Procedimento novo "Triagem de memória: árvore de processos": árvore normal do Windows, pslist × psscan, decodificar sem executar, redação sem culpar o usuário. |
 
 ## Texto a inserir

@@ -1,6 +1,6 @@
 # Delta da skill — Dia 07
 
-Tipo: procedimento novo — "Mapear uma cadeia de redirecionamento"
+Tipo: procedimento novo — "Mapear uma cadeia de redirecionamento" — **integrado**
 Linha do changelog: Procedimento **cadeia de redirecionamento**: salto a salto (URL, status, mecanismo, IP), coleta também no contexto da vítima, meta refresh/JavaScript, camuflagem, nunca enviar dados
 
 ## Texto a inserir

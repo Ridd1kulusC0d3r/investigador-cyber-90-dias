@@ -1,6 +1,6 @@
 # Delta da skill — Dia 28
 
-Tipo: acréscimo a "Metadados de arquivo" (procedimento criado no Dia 27)
+Tipo: acréscimo a "Metadados de arquivo" (procedimento criado no Dia 27) — **integrado**
 Linha do changelog: | 28 | "Metadados de arquivo" ganha documentos: revisões `%%EOF` e Info de cada uma, nomes fora do agregado, comparação com a linha de base de software da organização |
 
 ## Texto a inserir

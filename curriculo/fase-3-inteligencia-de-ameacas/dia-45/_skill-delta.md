@@ -1,6 +1,6 @@
 # Delta da skill — Dia 45
 
-Tipo: acréscimo a "informe de inteligência ou relatório de caso"
+Tipo: acréscimo a "informe de inteligência ou relatório de caso" — **integrado**
 Linha do changelog: Passo de **ACH antes do veredito**: hipóteses concorrentes, retirada de evidência não diagnóstica, placar por inconsistência e sensibilidade
 
 ## Texto a inserir

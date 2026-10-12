@@ -1,6 +1,6 @@
 # Delta da skill — Dia 06
 
-Tipo: procedimento novo — "Pegada DNS de um domínio" + acréscimo de 1 item a "Procedimento: grafo de vínculos (link analysis)"
+Tipo: procedimento novo — "Pegada DNS de um domínio" + acréscimo de 1 item a "Procedimento: grafo de vínculos (link analysis)" — **integrado**
 Linha do changelog: Procedimento **pegada DNS de um domínio** (todos os tipos, sem ANY, SOA/SPF/DMARC/CAA, grafo com hora e resolvedor) e, no grafo de vínculos, a distinção entre vínculo forte e infraestrutura comum
 
 ## Texto a inserir

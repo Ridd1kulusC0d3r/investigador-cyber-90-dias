@@ -1,6 +1,6 @@
 # Delta da skill — Dia 75
 
-Tipo: acréscimo a "Procedimento: informe de inteligência ou relatório de caso"
+Tipo: acréscimo a "Procedimento: informe de inteligência ou relatório de caso" — **integrado**
 Linha do changelog: | 75 | Relatório de caso ganha a checagem prévia de documentação: eventos em UTC com carimbo original ao lado, "confirmado" só com item de evidência e hash, hashes da coleta nunca recalculados, achados que só "encaixam na história" rebaixados | Informe de inteligência ou relatório de caso |
 
 ## Texto a inserir

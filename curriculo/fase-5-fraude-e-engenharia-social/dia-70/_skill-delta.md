@@ -1,6 +1,6 @@
 # Delta da skill — Dia 70
 
-Tipo: acréscimo a "Escopo e ética — Parada obrigatória"
+Tipo: acréscimo a "Escopo e ética — Parada obrigatória" — **integrado**
 Linha do changelog: | 70 | Parada obrigatória em ordem de cartão (perigo imediato primeiro; não copiar antes de qualquer evidência; tráfico sem confronto), recusa a guardar/pedir/descrever material, "indicador levanta pergunta, não identifica ninguém", nada de grupos de "flagrante" ou mensagens automáticas | Escopo e ética (parada obrigatória) |
 
 ## Texto a inserir

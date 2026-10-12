@@ -1,6 +1,6 @@
 # Delta da skill — Dia 22
 
-Tipo: acréscimo a "Procedimento: grafo de vínculos (link analysis)" e a "Procedimento: ciclo de reconhecimento OSINT"
+Tipo: acréscimo a "Procedimento: grafo de vínculos (link analysis)" e a "Procedimento: ciclo de reconhecimento OSINT" — **integrado**
 Linha do changelog: | 22 | Teste de remoção (hub × ponte, grau × intermediação), confirmação de ponte na fonte primária, conciliação entre ferramentas pela fonte primária e palavra de confiança copiada da tabela de análise | Grafo de vínculos; Ciclo de reconhecimento OSINT |
 
 ## Texto a inserir

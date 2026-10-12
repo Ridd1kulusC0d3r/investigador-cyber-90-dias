@@ -1,6 +1,6 @@
 # Delta da skill — Dia 60
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Dia 60 — novo procedimento "Da investigação à regra de detecção" (comportamento antes de indicador, teste onde a resposta é conhecida, "não testada" declarado, custo em falsos positivos).
 
 ## Texto a inserir

@@ -1,6 +1,6 @@
 # Delta da skill — Dia 57
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Dia 57 — novo procedimento "Super-linha do tempo: cobertura, fuso e ano antes de confiar" (Plaso/pinfo, fontes não interpretadas, fuso único por execução, ano inferido no syslog).
 
 ## Texto a inserir

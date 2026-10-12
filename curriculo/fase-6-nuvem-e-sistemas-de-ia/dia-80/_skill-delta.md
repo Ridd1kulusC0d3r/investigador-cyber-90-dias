@@ -1,6 +1,6 @@
 # Delta da skill — Dia 80
 
-Tipo: acréscimo a "Grafo de vínculos (link analysis)"
+Tipo: acréscimo a "Grafo de vínculos (link analysis)" — **integrado**
 Linha do changelog: | 80 | Variante IAM do grafo de vínculos: arestas "pode chegar a" com força declarada, caminho e leitores do alvo, e todo corte testado no grafo antes de ser recomendado. |
 
 ## Texto a inserir

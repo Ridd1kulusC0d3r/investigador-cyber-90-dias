@@ -1,6 +1,6 @@
 # Delta da skill — Dia 79
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 79 | Procedimento novo "Inventário de IAM em nuvem": direta/herdada/indireta, expansão de grupos, recursos curinga em ações IAM de escrita, limites declarados, documentação conferida contra o export. |
 
 ## Texto a inserir

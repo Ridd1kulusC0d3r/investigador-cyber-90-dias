@@ -1,6 +1,6 @@
 # Delta da skill — Dia 11
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 11 | Procedimento **triagem de log de acesso web** (formato combined, ranquear formas, conferir proxy e fuso, Referer de domínio imitação como piso de alcance) | Triagem de log web |
 
 ## Texto a inserir

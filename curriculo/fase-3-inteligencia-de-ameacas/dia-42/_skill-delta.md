@@ -1,6 +1,6 @@
 # Delta da skill — Dia 42
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Procedimento **medição de atividade em sites de vazamento**: lista de permissão de campos, vocabulário "postagens", ressalvas obrigatórias e recusa de listar vítimas
 
 ## Texto a inserir

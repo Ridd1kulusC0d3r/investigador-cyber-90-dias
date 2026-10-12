@@ -1,6 +1,6 @@
 # Delta da skill — Dia 36
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Dia 36 — novo procedimento "Mapeamento de um relatório no ATT&CK" (tabela de evidências com citação literal; capacidade não é observação; parar no nível que o texto sustenta; comparação a + 2*b).
 
 ## Texto a inserir

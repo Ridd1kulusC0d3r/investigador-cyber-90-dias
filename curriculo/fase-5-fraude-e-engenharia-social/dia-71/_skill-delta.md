@@ -1,6 +1,6 @@
 # Delta da skill — Dia 71
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 71 | Procedimento **verificação de mídia suspeita e controle de processo**: checagens ordenadas por peso (procedência e contradição verificável antes de inspeção visual e detector), "sem credenciais" e "nenhuma manipulação detectada" não são evidência, e recomendação obrigatória de um controle de processo (retorno de ligação para número do cadastro, palavra-código, segundo aprovador) | Verificação de mídia suspeita |
 
 ## Texto a inserir

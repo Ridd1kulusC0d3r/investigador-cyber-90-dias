@@ -1,6 +1,6 @@
 # Delta da skill — Dia 87
 
-Tipo: acréscimo a "Triagem de padrão de fraude e golpe"
+Tipo: acréscimo a "Triagem de padrão de fraude e golpe" — **integrado**
 Linha do changelog: Triagem de fraude ganha o **mapa frase → controle contornado**, os **pontos de quebra** e a regra de **escrever controles, não culpas**
 
 ## Texto a inserir

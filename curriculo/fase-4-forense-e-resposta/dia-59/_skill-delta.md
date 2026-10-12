@@ -1,6 +1,6 @@
 # Delta da skill — Dia 59
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Dia 59 — novo procedimento "Análise de fluxo e beacon sem pacotes" (grau da evidência de rede, intervalos com dispersão, outliers, limite do que fluxo prova).
 
 ## Texto a inserir

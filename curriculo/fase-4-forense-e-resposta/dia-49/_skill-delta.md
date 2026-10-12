@@ -1,6 +1,6 @@
 # Delta da skill — Dia 49
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 49 | Procedimento novo "Recebimento de evidência e cadeia de custódia": hash no recebimento, cópia conferida, erro documentado, campos dos arts. 158-B e 158-D do CPP. |
 
 ## Texto a inserir

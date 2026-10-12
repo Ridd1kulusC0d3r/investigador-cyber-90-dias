@@ -1,6 +1,6 @@
 # Delta da skill — Dia 10
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 10 | Procedimento **ler datas e permissões de arquivo como evidência** (mtime falsificável, ctime não; quem podia escrever; explicação banal antes da maliciosa) | Datas e permissões de arquivo |
 
 ## Texto a inserir

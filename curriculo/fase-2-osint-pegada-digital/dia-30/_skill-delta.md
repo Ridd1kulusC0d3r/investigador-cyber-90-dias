@@ -1,6 +1,6 @@
 # Delta da skill — Dia 30
 
-Tipo: acréscimo a "Grafo de vínculos (link analysis)"
+Tipo: acréscimo a "Grafo de vínculos (link analysis)" — **integrado**
 Linha do changelog: | 30 | "Grafo de vínculos" ganha infraestrutura: aresta rotulada pelo registro DNS/CT com fonte reproduzível, nomes só vistos no CT como "observado, não visitado", fronteira passivo/ativo e leitura de DMARC como recomendação |
 
 ## Texto a inserir

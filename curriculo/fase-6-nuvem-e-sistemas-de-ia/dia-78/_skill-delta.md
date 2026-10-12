@@ -1,6 +1,6 @@
 # Delta da skill — Dia 78
 
-Tipo: acréscimo a "Linha do tempo de auditoria de nuvem"
+Tipo: acréscimo a "Linha do tempo de auditoria de nuvem" — **integrado**
 Linha do changelog: | 78 | Triagem sem pivô conhecido: cinco filtros (negadas, identidade/política/logging, origem nova, métodos raros, pares novos), tabela antes/depois e lista "revisado e excluído". |
 
 ## Texto a inserir

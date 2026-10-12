@@ -1,6 +1,6 @@
 # Delta da skill — Dia 33
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 33 | Procedimento novo "Legalidade de um método de coleta (árvore de 8 perguntas)", com ramo LGPD, pergunta disparadora nomeada e alternativa obrigatória para PARE/ESCALE |
 
 ## Texto a inserir

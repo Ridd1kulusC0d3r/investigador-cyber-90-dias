@@ -1,6 +1,6 @@
 # Delta da skill — Dia 15
 
-Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe"
+Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe" — **integrado**
 Linha do changelog: | 15 | Acréscimo à **triagem de padrão de fraude e golpe**: separar o vetor da isca do vetor de entrada, mapear no ATT&CK e dizer onde está a evidência de cada um, com quem e até quando | Triagem de fraude e golpe |
 
 ## Texto a inserir

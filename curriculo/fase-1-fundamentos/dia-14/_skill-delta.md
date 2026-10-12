@@ -1,6 +1,6 @@
 # Delta da skill — Dia 14
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 14 | Procedimento **classificar o incidente pela tríade CID** (uma propriedade por etapa, registro que prova, log que precisava existir, o que não prova; integridade por conteúdo, não por nome) | Tríade CID |
 
 ## Texto a inserir

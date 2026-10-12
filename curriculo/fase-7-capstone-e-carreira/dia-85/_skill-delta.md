@@ -1,6 +1,6 @@
 # Delta da skill — Dia 85
 
-Tipo: procedimento novo — "Recebimento do caso e matriz de hipóteses (ACH)"
+Tipo: procedimento novo — "Recebimento do caso e matriz de hipóteses (ACH)" — **integrado**
 Linha do changelog: Procedimento **recebimento e ACH**: pergunta do cliente vira pergunta investigativa com resposta esperada; hipóteses antes da análise; liderança pela menor contagem de evidência contra; linha sensível vira pedido de dados
 
 ## Texto a inserir

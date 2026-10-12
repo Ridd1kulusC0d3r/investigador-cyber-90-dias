@@ -1,6 +1,6 @@
 # Delta da skill — Dia 69
 
-Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe"
+Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe" — **integrado**
 Linha do changelog: | 69 | Golpe do amor e de investimento por relacionamento: linha do tempo em 8 estágios, primeiro ponto de exposição, alerta de golpe da recuperação e linguagem não revitimizante | Triagem de padrão de fraude e golpe |
 
 ## Texto a inserir

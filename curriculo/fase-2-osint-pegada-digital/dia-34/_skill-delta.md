@@ -1,6 +1,6 @@
 # Delta da skill — Dia 34
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 34 | Procedimento novo "Fechamento de pacote de caso": registro de retenção (finalidade, base LGPD, guardar até, descarte, custódia), minimização com checagem por amostragem, cifragem, apagamento criptográfico e registro de descarte |
 
 ## Texto a inserir

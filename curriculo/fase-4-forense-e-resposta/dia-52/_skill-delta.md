@@ -1,6 +1,6 @@
 # Delta da skill — Dia 52
 
-Tipo: acréscimo a "Leitura de sistema de arquivos e linha do tempo MACB" (procedimento proposto no Dia 51)
+Tipo: acréscimo a "Leitura de sistema de arquivos e linha do tempo MACB" (procedimento proposto no Dia 51) — **integrado**
 Linha do changelog: | 52 | NTFS: comparar $SI e $FN, pesar sinais de timestomp com explicações inocentes, "precedeu" em vez de "continha". |
 
 ## Texto a inserir

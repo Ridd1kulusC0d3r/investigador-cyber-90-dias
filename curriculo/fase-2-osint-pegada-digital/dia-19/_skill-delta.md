@@ -1,6 +1,6 @@
 # Delta da skill — Dia 19
 
-Tipo: acréscimo a "Procedimento: ciclo de reconhecimento OSINT"
+Tipo: acréscimo a "Procedimento: ciclo de reconhecimento OSINT" — **integrado**
 Linha do changelog: | 19 | Matriz de fontes com condição de parada no passo Planejar; captura com qualidade de evidência (URL, hora UTC, cópia, SHA-256 + snapshot de terceiro) no passo Coletar | Ciclo de reconhecimento OSINT |
 
 ## Texto a inserir

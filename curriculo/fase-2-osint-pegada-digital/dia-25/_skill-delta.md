@@ -1,6 +1,6 @@
 # Delta da skill — Dia 25
 
-Tipo: acréscimo a "Procedimento: ciclo de reconhecimento OSINT"
+Tipo: acréscimo a "Procedimento: ciclo de reconhecimento OSINT" — **integrado**
 Linha do changelog: | 25 | Atribuição de contas pelo site oficial, postura só-leitura em plataformas e linha do tempo entre plataformas com a precisão de cada data | Ciclo de reconhecimento OSINT |
 
 ## Texto a inserir

@@ -1,6 +1,6 @@
 # Delta da skill — Dia 83
 
-Tipo: procedimento novo — "Abertura de caso: custódia e regras de engajamento"
+Tipo: procedimento novo — "Abertura de caso: custódia e regras de engajamento" — **integrado**
 Linha do changelog: Procedimento **abertura de caso**: registro de evidências com SHA-256 e limites conhecidos, lista Proibido escrita como ações, zona cinzenta resolvida por pedido escrito ao cliente
 
 ## Texto a inserir

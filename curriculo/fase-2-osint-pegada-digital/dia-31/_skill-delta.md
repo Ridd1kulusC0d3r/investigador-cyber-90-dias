@@ -1,6 +1,6 @@
 # Delta da skill — Dia 31
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 31 | Procedimento novo "Perfil de fachada (persona): decisão antes da técnica": política escrita → termos e risco aceito → só passivo; recusa sem política; alternativas sem login |
 
 ## Texto a inserir

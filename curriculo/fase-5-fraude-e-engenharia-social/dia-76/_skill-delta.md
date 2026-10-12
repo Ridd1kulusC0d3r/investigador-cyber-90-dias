@@ -1,6 +1,6 @@
 # Delta da skill — Dia 76
 
-Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe" (passo 4, comunicação à autoridade)
+Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe" (passo 4, comunicação à autoridade) — **integrado**
 Linha do changelog: | 76 | Comunicação à autoridade no Brasil ganha ordem das portas (instituição/MED no mesmo dia, BO estadual, plataforma, apoio), campos mínimos do pacote, sujeito de "recuperação" separado e proibição de registrar comunicação de treino | Triagem de padrão de fraude e golpe |
 
 ## Texto a inserir

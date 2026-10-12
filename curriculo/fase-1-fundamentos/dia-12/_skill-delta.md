@@ -1,6 +1,6 @@
 # Delta da skill — Dia 12
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 12 | Procedimento **triagem de log de autenticação e linha do tempo** (contar o ruído, sucesso contra linha de base, o que veio depois, UTC, hipótese concorrente e fato que derruba) | Log de autenticação |
 
 ## Texto a inserir

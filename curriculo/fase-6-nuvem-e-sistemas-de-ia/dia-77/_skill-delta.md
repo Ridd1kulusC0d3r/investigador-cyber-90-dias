@@ -1,6 +1,6 @@
 # Delta da skill — Dia 77
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 77 | Procedimento novo "Linha do tempo de auditoria de nuvem": custódia com hash, cobertura por camada antes de ler resultado vazio, pivô por origem e por ID de chave. |
 
 ## Texto a inserir

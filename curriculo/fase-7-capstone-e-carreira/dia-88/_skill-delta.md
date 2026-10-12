@@ -1,6 +1,6 @@
 # Delta da skill — Dia 88
 
-Tipo: acréscimo a "Grafo de vínculos (link analysis)"
+Tipo: acréscimo a "Grafo de vínculos (link analysis)" — **integrado**
 Linha do changelog: Grafo de vínculos ganha **aresta como afirmação** (rótulo + evidência + confiança confirmado/provável/possível/excluído), **grupo de excluídos visível** e a **aresta mais consequente**
 
 ## Texto a inserir

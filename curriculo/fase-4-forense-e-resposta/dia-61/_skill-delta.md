@@ -1,6 +1,6 @@
 # Delta da skill — Dia 61
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Dia 61 — novo procedimento "Cartão de triagem estática (sem executar, sem enviar)" (tipo por magic bytes, três hashes, reputação só por hash e datada, strings como contexto, nada sobre comportamento sem observação).
 
 ## Texto a inserir

@@ -1,6 +1,6 @@
 # Delta da skill — Dia 02
 
-Tipo: procedimento novo — "Coleta e custódia de evidência"
+Tipo: procedimento novo — "Coleta e custódia de evidência" — **integrado**
 Linha do changelog: Procedimento **coleta e custódia de evidência** (SHA-256 + UTC + fonte + cópia de trabalho verificada + terceiro independente), com a frase obrigatória sobre o que o hash não prova
 
 ## Texto a inserir

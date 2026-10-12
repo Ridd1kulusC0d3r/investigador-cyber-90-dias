@@ -1,6 +1,6 @@
 # Delta da skill — Dia 04
 
-Tipo: procedimento novo — "Leitura de log de conexão (Zeek e similares)"
+Tipo: procedimento novo — "Leitura de log de conexão (Zeek e similares)" — **integrado**
 Linha do changelog: Procedimento **leitura de log de conexão**: `conn_state`, `history`, bytes e duração; tabela de sockets para ligar conexão a processo; endereços e horários, nunca pessoas
 
 ## Texto a inserir

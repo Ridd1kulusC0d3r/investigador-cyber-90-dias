@@ -1,6 +1,6 @@
 # Delta da skill — Dia 03
 
-Tipo: procedimento novo — "Leitura de uma conexão (quíntupla e flags TCP)"
+Tipo: procedimento novo — "Leitura de uma conexão (quíntupla e flags TCP)" — **integrado**
 Linha do changelog: Procedimento **leitura de uma conexão**: quíntupla, flags TCP, TTL como inferência e a regra das três hipóteses para "sem resposta"
 
 ## Texto a inserir

@@ -1,6 +1,6 @@
 # Delta da skill — Dia 37
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Dia 37 — novo procedimento "Perfil de cluster de atividade" (cluster, não pessoa; crosswalk com "afirmado por"; Admiralty por fonte; ferramenta comercial não identifica; Diamante com "não informado").
 
 ## Texto a inserir

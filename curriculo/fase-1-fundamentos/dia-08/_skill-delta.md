@@ -1,6 +1,6 @@
 # Delta da skill — Dia 08
 
-Tipo: procedimento novo — "Ler um certificado e montar a linha do tempo de emissão"
+Tipo: procedimento novo — "Ler um certificado e montar a linha do tempo de emissão" — **integrado**
 Linha do changelog: Procedimento **certificado e Certificate Transparency**: SNI, SAN/emissor/validade/OID/serial/impressão digital, CT deduplicado por serial, DV de AC gratuita não prova malícia nem legitimidade
 
 ## Texto a inserir

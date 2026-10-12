@@ -1,6 +1,6 @@
 # Delta da skill — Dia 84
 
-Tipo: acréscimo a "Grafo de vínculos (link analysis)"
+Tipo: acréscimo a "Grafo de vínculos (link analysis)" — **integrado**
 Linha do changelog: Grafo de vínculos ganha a **nota de pivô de quatro partes**, a regra de **dois tipos de pivô independentes** para pontes e a lista **"Considerado e rejeitado"**
 
 ## Texto a inserir

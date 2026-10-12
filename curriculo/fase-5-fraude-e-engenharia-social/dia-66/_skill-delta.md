@@ -1,6 +1,6 @@
 # Delta da skill — Dia 66
 
-Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe"
+Tipo: acréscimo a "Procedimento: triagem de padrão de fraude e golpe" — **integrado**
 Linha do changelog: | 66 | Classificação de BEC em três respostas (remetente falsificado, domínio imitação, caixa comprometida), domínio antes de SPF/DKIM/DMARC, verificação por número já cadastrado | Triagem de padrão de fraude e golpe |
 
 ## Texto a inserir

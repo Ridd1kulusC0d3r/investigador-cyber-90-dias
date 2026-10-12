@@ -1,6 +1,6 @@
 # Delta da skill — Dia 43
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Procedimento **codificação em STIX 2.1**: julgamento em `indicator`, fato em observável, confiança por mapeamento escrito, origem em toda descrição, sem `threat-actor`/`attributed-to` por padrão
 
 ## Texto a inserir

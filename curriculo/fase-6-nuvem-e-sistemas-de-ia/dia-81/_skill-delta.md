@@ -1,6 +1,6 @@
 # Delta da skill — Dia 81
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 81 | Procedimento novo "Investigação de abuso em aplicação com LLM": direta/indireta, o que o modelo fez pelas chamadas de ferramenta, autor da carga, separação de tentativas não relacionadas, busca por efeito. Enquadramento defensivo. |
 
 ## Texto a inserir

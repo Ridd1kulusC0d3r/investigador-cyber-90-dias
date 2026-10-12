@@ -1,6 +1,6 @@
 # Delta da skill — Dia 13
 
-Tipo: acréscimo a "Procedimento: ciclo de reconhecimento OSINT"
+Tipo: acréscimo a "Procedimento: ciclo de reconhecimento OSINT" — **integrado**
 Linha do changelog: | 13 | Acréscimo ao **ciclo de reconhecimento OSINT**: coleta repetida pelo mesmo método, retrato com carimbo UTC e hash, mudança só afirmada entre dois retratos íntegros | Ciclo de reconhecimento OSINT |
 
 ## Texto a inserir

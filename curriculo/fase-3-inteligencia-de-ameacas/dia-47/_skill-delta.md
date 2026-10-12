@@ -1,6 +1,6 @@
 # Delta da skill — Dia 47
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: Procedimento **graduação de evidência de atribuição**: quatro níveis, custo de falsificar por item, colapso de itens do mesmo ato, falácia do ferramental compartilhado
 
 ## Texto a inserir

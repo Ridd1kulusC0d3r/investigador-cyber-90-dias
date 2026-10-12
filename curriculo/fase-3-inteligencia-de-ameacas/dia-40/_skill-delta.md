@@ -1,6 +1,6 @@
 # Delta da skill — Dia 40
 
-Tipo: acréscimo a "Grafo de vínculos (link analysis)"
+Tipo: acréscimo a "Grafo de vínculos (link analysis)" — **integrado**
 Linha do changelog: Dia 40 — "Grafo de vínculos" ganha contagem antes de busca, regra de pertencimento por pivôs independentes e o estilo "não confirmado".
 
 ## Texto a inserir

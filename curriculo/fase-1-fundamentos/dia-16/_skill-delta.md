@@ -1,6 +1,6 @@
 # Delta da skill — Dia 16
 
-Tipo: procedimento novo
+Tipo: procedimento novo — **integrado**
 Linha do changelog: | 16 | Procedimento **modelagem de ameaças com STRIDE** (DFD com fronteiras, STRIDE por elemento, ameaça específica com mitigação, repúdio que aponta o log que falta, minimização antes de proteger) | Modelagem de ameaças |
 
 ## Texto a inserir

@@ -58,7 +58,9 @@ def verificar(dia, fase):
         except ValueError as e:
             problemas.append(f"notebook inválido: {e}")
 
-    for link in re.findall(r"\]\(([^)#\s]+)", texto):
+    # Links dentro de blocos de código (``` ... ```) são exemplo, não link de verdade.
+    sem_codigo = re.sub(r"```.*?```", "", texto, flags=re.S)
+    for link in re.findall(r"\]\(([^)#\s]+)", sem_codigo):
         if link.startswith(("http", "mailto")):
             continue
         if not (pasta / link).exists():

@@ -1,0 +1,91 @@
+dia,fase,titulo_original,titulo_ptbr,status
+1,1,"What an investigator does, and the line you don't cross","O que faz um investigador, e a linha que você não cruza",estudado
+2,1,"Evidence discipline, from collection to custody log","Disciplina de evidência, da coleta ao registro de custódia",pendente
+3,1,"TCP/IP for investigators, reading one connection in Wireshark","TCP/IP para investigadores: lendo uma conexão no Wireshark",pendente
+4,1,"Reading connection logs with Zeek and live socket tables","Lendo logs de conexão com Zeek e tabelas de sockets ao vivo",pendente
+5,1,"DNS resolution chains, following a name to an address","Cadeias de resolução DNS: seguindo um nome até um endereço",pendente
+6,1,"DNS records as evidence, building a domain footprint graph","Registros DNS como evidência: o grafo de pegada de um domínio",pendente
+7,1,"HTTP for investigators, headers, status codes, and redirect chains","HTTP para investigadores: cabeçalhos, códigos de status e cadeias de redirecionamento",pendente
+8,1,"TLS and certificates, what an investigator reads in a cert","TLS e certificados: o que o investigador lê num certificado",pendente
+9,1,"Subnetting and CIDR for reading firewall logs","Sub-redes e CIDR para ler logs de firewall",pendente
+10,1,"The Linux shell, filesystem, and permissions model","O shell Linux, o sistema de arquivos e o modelo de permissões",pendente
+11,1,"Web log triage with grep, awk, and sed","Triagem de logs web com grep, awk e sed",pendente
+12,1,"Authentication log triage and an SSH intrusion timeline","Triagem de logs de autenticação e a linha do tempo de uma intrusão SSH",pendente
+13,1,"Bash scripting to automate one recon step","Script Bash para automatizar uma etapa de reconhecimento",pendente
+14,1,"The CIA triad as it shows up in evidence","A tríade CID (confidencialidade, integridade, disponibilidade) como aparece na evidência",pendente
+15,1,"Common attack vectors and the evidence each one leaves","Vetores de ataque comuns e a evidência que cada um deixa",pendente
+16,1,"Threat modeling with STRIDE","Modelagem de ameaças com STRIDE",pendente
+17,1,"From threat model to evidence map, which record proves what","Do modelo de ameaças ao mapa de evidências: qual registro prova o quê",pendente
+18,1,"Build your investigation lab and map its topology","Monte seu laboratório de investigação e mapeie a topologia",pendente
+19,2,"The OSINT cycle, part 1: planning and evidence-grade collection","O ciclo OSINT, parte 1: planejamento e coleta com qualidade de evidência",pendente
+20,2,"The OSINT cycle, part 2: automated passive collection with SpiderFoot","O ciclo OSINT, parte 2: coleta passiva automatizada com SpiderFoot",pendente
+21,2,"The OSINT cycle, part 3: processing into a Maltego graph","O ciclo OSINT, parte 3: processamento em um grafo no Maltego",pendente
+22,2,"The OSINT cycle, part 4: analyzing a link graph and reporting it","O ciclo OSINT, parte 4: analisando um grafo de vínculos e relatando",pendente
+23,2,"Search operators for organizational footprinting","Operadores de busca para mapear a pegada de uma organização",pendente
+24,2,"Username enumeration and digital-footprint mapping (your own)","Enumeração de username e mapeamento da pegada digital (a sua)",pendente
+25,2,"Social media investigation, part 1: platform-specific recon","Investigação em redes sociais, parte 1: reconhecimento por plataforma",pendente
+26,2,"Social media investigation, part 2: archived and deleted content","Investigação em redes sociais, parte 2: conteúdo arquivado e apagado",pendente
+27,2,"Metadata forensics, part 1: images and geolocation","Forense de metadados, parte 1: imagens e geolocalização",pendente
+28,2,"Metadata forensics, part 2: PDFs and Office documents","Forense de metadados, parte 2: PDFs e documentos Office",pendente
+29,2,"Domain registration: WHOIS, RDAP, and registration history","Registro de domínios: WHOIS, RDAP e histórico de registro",pendente
+30,2,"DNS reconnaissance with dig, nslookup, and certificate transparency","Reconhecimento DNS com dig, nslookup e Certificate Transparency",pendente
+31,2,"Sock puppets: when they are allowed, and how to keep them clean","Perfis de fachada (sock puppets): quando são permitidos e como mantê-los limpos",pendente
+32,2,"Investigator OPSEC: VPN, Tor, isolation, and leak testing","OPSEC do investigador: VPN, Tor, isolamento e teste de vazamentos",pendente
+33,2,"OSINT law, part 1: access, scraping, and terms of service","Direito e OSINT, parte 1: acesso, raspagem e termos de uso",pendente
+34,2,"OSINT law, part 2: storing, retaining, and disposing of what you collect","Direito e OSINT, parte 2: armazenar, reter e descartar o que você coleta",pendente
+35,3,"How ATT&CK is built, from tactic to procedure","Como o ATT&CK é construído, da tática ao procedimento",pendente
+36,3,"Mapping a published advisory to ATT&CK","Mapeando um alerta publicado no ATT&CK",pendente
+37,3,"What a threat actor profile contains","O que contém um perfil de ator de ameaça",pendente
+38,3,"Tracking actors by what is distinctive about them","Rastreando atores pelo que é distintivo neles",pendente
+39,3,"Collecting and enriching IOCs without touching the adversary","Coletando e enriquecendo IOCs sem tocar no adversário",pendente
+40,3,"Pivoting threat infrastructure into a graph","Pivotando infraestrutura de ameaça em um grafo",pendente
+41,3,"Dark web monitoring, what is realistic, and a safe Tor setup","Monitoramento de dark web: o que é realista, e um setup seguro de Tor",pendente
+42,3,"Measuring ransomware leak-site activity without collecting victims","Medindo atividade de sites de vazamento de ransomware sem coletar vítimas",pendente
+43,3,"Writing threat intelligence in STIX 2.1","Escrevendo inteligência de ameaças em STIX 2.1",pendente
+44,3,"Moving intelligence with TAXII and marking it with TLP","Trafegando inteligência com TAXII e marcando com TLP",pendente
+45,3,"Structured analysis with competing hypotheses","Análise estruturada com hipóteses concorrentes (ACH)",pendente
+46,3,"Writing an intelligence brief with calibrated language","Escrevendo um informe de inteligência com linguagem calibrada",pendente
+47,3,"Attribution methodology and the shared-tooling trap","Metodologia de atribuição e a armadilha do ferramental compartilhado",pendente
+48,3,"False flags, and writing an attribution statement you can defend","Falsas bandeiras, e uma declaração de atribuição que você consegue defender",pendente
+49,4,"Evidence handling, hashing and chain of custody","Manuseio de evidência: hash e cadeia de custódia",pendente
+50,4,"Bit-for-bit disk imaging","Imagem de disco bit a bit",pendente
+51,4,"File system forensics with The Sleuth Kit","Forense de sistema de arquivos com The Sleuth Kit",pendente
+52,4,"NTFS artifacts, the MFT and timestamp manipulation","Artefatos NTFS: a MFT e a manipulação de timestamps",pendente
+53,4,"Memory forensics, acquisition and the process tree","Forense de memória: aquisição e árvore de processos",pendente
+54,4,"Memory forensics, network connections and injected code","Forense de memória: conexões de rede e código injetado",pendente
+55,4,"Reading Windows and Linux authentication logs","Lendo logs de autenticação Windows e Linux",pendente
+56,4,"Normalising time and correlating logs across hosts","Normalizando o tempo e correlacionando logs entre hosts",pendente
+57,4,"Super-timelines with Plaso (log2timeline, pinfo, psort)","Super-linhas do tempo com Plaso (log2timeline, pinfo, psort)",pendente
+58,4,"From Plaso storage to a Timesketch investigation story","Do armazenamento Plaso a uma história investigativa no Timesketch",pendente
+59,4,"Network forensics with Wireshark and tshark","Forense de rede com Wireshark e tshark",pendente
+60,4,"Detection rules with Suricata","Regras de detecção com Suricata",pendente
+61,4,"Static triage of a suspicious file","Triagem estática de um arquivo suspeito",pendente
+62,4,"Reading sandbox reports without fooling yourself","Lendo relatórios de sandbox sem se enganar",pendente
+63,4,"Correlating across sources in Elasticsearch and Kibana","Correlacionando fontes no Elasticsearch e Kibana",pendente
+64,4,"Writing the forensic findings report","Escrevendo o relatório de achados forenses",pendente
+65,5,"Phishing red flags and inspecting a link without clicking it","Sinais de phishing e como inspecionar um link sem clicar",pendente
+66,5,"Business email compromise and how spoofed domains are detected","Comprometimento de e-mail corporativo (BEC) e detecção de domínios falsificados",pendente
+67,5,"Recruitment fraud, the mechanisms and an evidence-scored checklist","Fraude de recrutamento: os mecanismos e um checklist pontuado por evidência",pendente
+68,5,"Mapping a fraud ring, a relationship graph built from shared indicators","Mapeando uma quadrilha de fraude: grafo de relações a partir de indicadores compartilhados",pendente
+69,5,"Romance and relationship-investment scams","Golpes românticos e de investimento por relacionamento",pendente
+70,5,"Recognizing grooming and trafficking indicators from published sources","Reconhecendo indicadores de aliciamento e tráfico em fontes publicadas",pendente
+71,5,"Deepfake voice, video, and images in fraud","Deepfake de voz, vídeo e imagem em fraudes",pendente
+72,5,"AI-written phishing and scam text","Phishing e textos de golpe escritos por IA",pendente
+73,5,"Using AI defensively, a taxonomy-driven screening test","Usando IA de forma defensiva: um teste de triagem guiado por taxonomia",pendente
+74,5,"Interviewing fraud victims without re-harming them","Entrevistando vítimas de fraude sem revitimizá-las",pendente
+75,5,"Case documentation, from preserved evidence to a timeline","Documentação do caso: da evidência preservada à linha do tempo",pendente
+76,5,"Reporting a fraud case to IC3 or a national anti-fraud centre","Comunicando um caso de fraude ao IC3 ou a um centro nacional antifraude",pendente
+77,6,"Reading cloud audit logs in GCP and AWS","Lendo logs de auditoria de nuvem no GCP e na AWS",pendente
+78,6,"Filtering cloud logs to the signal, plus Azure","Filtrando logs de nuvem até o sinal, mais Azure",pendente
+79,6,"Auditing cloud IAM: who has what","Auditando IAM na nuvem: quem tem o quê",pendente
+80,6,"Building a who-can-reach-what access graph","Construindo um grafo de acesso quem-alcança-o-quê",pendente
+81,6,"Investigating AI system abuse: prompt injection and AI-generated content","Investigando abuso de sistemas de IA: prompt injection e conteúdo gerado por IA",pendente
+82,6,"Data exfiltration signals, and closing the Blue Harbor case","Sinais de exfiltração de dados, e o encerramento do caso Blue Harbor",pendente
+83,7,"Capstone briefing and rules of engagement","Briefing do capstone e regras de engajamento",pendente
+84,7,"Recon on the case's external infrastructure","Reconhecimento da infraestrutura externa do caso",pendente
+85,7,"Intake and planning","Recebimento do caso e planejamento",pendente
+86,7,"Forensics, merging three logs into one timeline","Forense: fundindo três logs em uma linha do tempo",pendente
+87,7,"Fraud and social-engineering analysis","Análise de fraude e engenharia social",pendente
+88,7,"The final case graph","O grafo final do caso",pendente
+89,7,"The final report at calibrated confidence","O relatório final com confiança calibrada",pendente
+90,7,"Portfolio, resume and where to apply","Portfólio, currículo e onde se candidatar",pendente

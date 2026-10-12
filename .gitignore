@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Evidências reais de casos nunca entram no repositório público
+evidencias/
+*.pcap
+*.pcapng
+*.E01
+*.raw
+.DS_Store

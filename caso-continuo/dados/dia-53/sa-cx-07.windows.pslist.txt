@@ -1,0 +1,19 @@
+# DADOS SINTÉTICOS (Operação Isca). Texto escrito à mão no layout do Volatility 3 para o host
+# fictício SA-CX-07 (10.20.40.57). NÃO existe imagem de memória por trás. Separado por tabulação.
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime
+4	0	System	0xb2051c600080	148	-	N/A	False	2026-10-05 10:50:41.000000 UTC	N/A
+96	4	Registry	0xb2051c641080	4	-	N/A	False	2026-10-05 10:50:38.000000 UTC	N/A
+380	4	smss.exe	0xb2051c682080	2	-	N/A	False	2026-10-05 10:50:41.000000 UTC	N/A
+492	480	csrss.exe	0xb2051c6c3080	11	-	0	False	2026-10-05 10:50:43.000000 UTC	N/A
+568	480	wininit.exe	0xb2051c704080	1	-	0	False	2026-10-05 10:50:43.000000 UTC	N/A
+700	568	services.exe	0xb2051c745080	6	-	0	False	2026-10-05 10:50:43.000000 UTC	N/A
+812	700	svchost.exe	0xb2051c786080	20	-	0	False	2026-10-05 10:50:44.000000 UTC	N/A
+868	700	svchost.exe	0xb2051c7c7080	12	-	0	False	2026-10-05 10:50:44.000000 UTC	N/A
+1204	700	svchost.exe	0xb2051c808080	36	-	0	False	2026-10-05 10:50:45.000000 UTC	N/A
+716	568	lsass.exe	0xb2051c849080	9	-	0	False	2026-10-05 10:50:43.000000 UTC	N/A
+580	560	csrss.exe	0xb2051c88a080	13	-	1	False	2026-10-05 10:50:43.000000 UTC	N/A
+612	560	winlogon.exe	0xb2051c8cb080	5	-	1	False	2026-10-05 10:50:43.000000 UTC	N/A
+3988	3940	explorer.exe	0xb2051c90c080	70	-	1	False	2026-10-05 10:52:31.000000 UTC	N/A
+5216	3988	msedge.exe	0xb2051c94d080	40	-	1	False	2026-10-05 10:53:40.000000 UTC	N/A
+6120	3988	caixa-sa.exe	0xb2051c98e080	22	-	1	False	2026-10-05 10:55:01.000000 UTC	N/A
+7712	3988	msa-atualizado	0xb2051c9cf080	6	-	1	False	2026-10-05 11:24:31.000000 UTC	N/A

@@ -1,0 +1,7 @@
+# DADOS SINTÉTICOS (Operação Isca). Texto escrito à mão no layout do Volatility 3 para o host
+# fictício SA-CX-07 (10.20.40.57). NÃO existe imagem de memória por trás. Separado por tabulação.
+PID	Process	Args
+3988	explorer.exe	C:\Windows\Explorer.EXE
+5216	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+6120	caixa-sa.exe	"C:\Program Files\SerraAzul\Caixa\caixa-sa.exe" --agencia 0001
+7712	msa-atualizado	"C:\Users\cx.centro07\AppData\Roaming\MSA\msa-atualizador.exe" --canal YQB0AHUAYQBsAGkAegBhAC0AbQBvAGQAdQBsAG8ALgBlAHgAYQBtAHAAbABlAA==

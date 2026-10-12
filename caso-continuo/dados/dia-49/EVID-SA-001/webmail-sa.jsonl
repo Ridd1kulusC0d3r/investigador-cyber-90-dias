@@ -1,0 +1,9 @@
+{"ts": "2026-10-05T10:53:02Z", "event": "auth.login", "user": "cx.centro07", "src_ip": "10.20.40.57", "result": "success"}
+{"ts": "2026-10-05T10:54:41Z", "event": "auth.login", "user": "ger.centro01", "src_ip": "10.20.40.52", "result": "success"}
+{"ts": "2026-10-05T12:31:02Z", "event": "auth.login", "user": "cx.centro07", "src_ip": "203.0.113.91", "result": "failure"}
+{"ts": "2026-10-05T12:31:15Z", "event": "auth.login", "user": "cx.centro07", "src_ip": "203.0.113.91", "result": "failure"}
+{"ts": "2026-10-05T12:31:40Z", "event": "auth.login", "user": "cx.centro07", "src_ip": "203.0.113.91", "result": "failure"}
+{"ts": "2026-10-05T12:32:05Z", "event": "auth.login", "user": "cx.centro07", "src_ip": "203.0.113.91", "result": "success"}
+{"ts": "2026-10-05T12:33:50Z", "event": "mailbox.rule_create", "user": "cx.centro07", "src_ip": "203.0.113.91", "result": "success"}
+{"ts": "2026-10-05T13:05:01Z", "event": "auth.login", "user": "ger.centro01", "src_ip": "10.20.40.52", "result": "failure"}
+{"ts": "2026-10-05T13:05:19Z", "event": "auth.login", "user": "ger.centro01", "src_ip": "10.20.40.52", "result": "success"}

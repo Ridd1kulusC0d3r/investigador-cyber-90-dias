@@ -1,0 +1,6 @@
+# Coletado em 2026-10-05T17:12:40Z na VM de análise da Vigia (vigia-lab01), comando: sudo ss -tunap state established
+Netid Recv-Q Send-Q  Local Address:Port    Peer Address:Port  Process
+tcp   0      0       192.168.56.10:52044   203.0.113.77:443   users:(("firefox-esr",pid=4182,fd=91))
+tcp   0      0       192.168.56.10:52046   203.0.113.77:443   users:(("firefox-esr",pid=4182,fd=97))
+tcp   0      0       192.168.56.10:39810   198.51.100.60:443  users:(("python3",pid=5530,fd=6))
+tcp   0      0       192.168.56.10:22      192.168.56.1:60122 users:(("sshd",pid=1203,fd=4))

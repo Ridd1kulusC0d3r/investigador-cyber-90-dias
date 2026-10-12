@@ -1,0 +1,17 @@
+== A
+serraazul.example.      3600    IN      A       198.51.100.20
+== AAAA
+== NS
+serraazul.example.      86400   IN      NS      ns1.provedor-mg.example.
+serraazul.example.      86400   IN      NS      ns2.provedor-mg.example.
+== SOA
+serraazul.example.      3600    IN      SOA     ns1.provedor-mg.example. ti.serraazul.example. 2026081401 7200 3600 1209600 3600
+== MX
+serraazul.example.      3600    IN      MX      10 mx1.correio-coop.example.
+serraazul.example.      3600    IN      MX      20 mx2.correio-coop.example.
+== TXT
+serraazul.example.      3600    IN      TXT     "v=spf1 ip4:198.51.100.25 include:_spf.correio-coop.example ~all"
+== CAA
+serraazul.example.      3600    IN      CAA     0 issue "ac-exemplo.example"
+_dmarc.serraazul.example. 3600  IN      TXT     "v=DMARC1; p=none; rua=mailto:dmarc@serraazul.example"
+2026-10-05T19:30:12Z

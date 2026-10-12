@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 05 Oct 2026 14:41:09 GMT
+Server: nginx
+Location: https://serraazul-pix.example/
+Content-Length: 162
+
+HTTP/1.1 200 OK
+Date: Mon, 05 Oct 2026 14:41:10 GMT
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Content-Length: 406
+Set-Cookie: isk_sess=7f3a91c2e0; Path=/; HttpOnly
+

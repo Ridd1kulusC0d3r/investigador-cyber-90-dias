@@ -1,0 +1,14 @@
+; <<>> DiG 9.18.28 <<>> +trace +nodnssec www.serraazul-pix.example
+.                       518400  IN      NS      a.root-servers.net.
+;; Received 239 bytes from 192.168.56.1#53(192.168.56.1) in 9 ms
+
+example.                172800  IN      NS      a.tld-exemplo.example.
+;; Received 412 bytes from 198.41.0.4#53(a.root-servers.net) in 24 ms
+
+serraazul-pix.example.  86400   IN      NS      ns1.dnsbarato.example.
+serraazul-pix.example.  86400   IN      NS      ns2.dnsbarato.example.
+;; Received 301 bytes from 192.0.2.10#53(a.tld-exemplo.example) in 31 ms
+
+www.serraazul-pix.example. 3600 IN      CNAME   serraazul-pix.example.
+serraazul-pix.example.  300     IN      A       203.0.113.77
+;; Received 102 bytes from 198.51.100.53#53(ns1.dnsbarato.example) in 88 ms

@@ -1,0 +1,14 @@
+== A
+serraazul-pix.example.  300     IN      A       203.0.113.77
+== AAAA
+== NS
+serraazul-pix.example.  86400   IN      NS      ns1.dnsbarato.example.
+serraazul-pix.example.  86400   IN      NS      ns2.dnsbarato.example.
+== SOA
+serraazul-pix.example.  3600    IN      SOA     ns1.dnsbarato.example. hostmaster.dnsbarato.example. 2026100401 10800 3600 604800 300
+== MX
+== TXT
+serraazul-pix.example.  300     IN      TXT     "v=spf1 -all"
+serraazul-pix.example.  300     IN      TXT     "painel-verificacao=ik-77c1e9a04b"
+== CAA
+2026-10-05T19:31:40Z

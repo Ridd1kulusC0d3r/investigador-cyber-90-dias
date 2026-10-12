@@ -1,0 +1,6 @@
+segmento,cidr,interface,conteudo
+Servidores da sede,10.20.32.0/22,eth1,"internet banking interno, arquivos, resolvedor DNS 10.20.32.53"
+Atendimento da sede,10.20.36.0/24,eth1,estações de atendimento e ouvidoria
+Agência Centro (caixas),10.20.40.0/24,eth2,"notebooks dos caixas, ex.: SA-CX-07 = 10.20.40.57"
+Wi-Fi de visitantes (agências),172.16.5.0/24,eth3,"celulares de cooperados em espera, só internet"
+Internet,(todo o resto),eth0,

@@ -1,0 +1,8 @@
+# Extrato do log do internet banking (fictício) entregue pela Serra Azul — 3 transferências Pix contestadas
+# horario_brt;conta_cooperado;ip_origem;porta_origem;evento
+2026-10-05 08:03:51;coop-A (fictício);198.51.100.230;40112;login ok
+2026-10-05 08:05:10;coop-A (fictício);198.51.100.230;40130;pix enviado
+2026-10-05 08:22:07;coop-B (fictício);198.51.100.230;51877;login ok
+2026-10-05 08:24:40;coop-B (fictício);198.51.100.230;51902;pix enviado
+2026-10-05 09:01:33;coop-C (fictício);203.0.113.150;-;login ok
+2026-10-05 09:02:58;coop-C (fictício);203.0.113.150;-;pix enviado

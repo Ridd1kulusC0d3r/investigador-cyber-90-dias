@@ -118,6 +118,7 @@ Tudo fictício. Domínios só em `.example`; IPs só nas faixas de documentaçã
 - SMS: *"Serra Azul: sua chave Pix foi bloqueada por segurança. Regularize em serraazul-pix.example"*, também via encurtador `lnk.example/sa7`. Remetentes `+55 00 00000-0001` a `-0004`.
 - Site falso: `serraazul-pix.example`, hospedado em `203.0.113.77`; certificado TLS gratuito emitido no dia anterior ao disparo; kit apelidado internamente de **IscaKit**. Outros domínios imitação aparecem ao longo do caso: `serraazul-seguranca.example`, `coopserra-azul.example`.
 - 37 reclamações nas duas primeiras horas; 3 cooperados com transferências Pix não reconhecidas.
+- Linha do tempo de DNS: `serraazul-pix.example` registrado em 2/out (`serraazul-seguranca.example` 3 minutos depois), ambos com `ns1.dnsbarato.example`. Até 9/out, `serraazul-seguranca.example` e `coopserra-azul.example` resolvem para `203.0.113.78` (vizinho no mesmo AS64501, sem resposta); depois de 9/out, `serraazul-seguranca.example` migra para `203.0.113.77`. Certificado de 4/out cobre `serraazul-pix.example`, `serraazul-seguranca.example` e `painel.serraazul-pix.example`. Campo de CPF entra no site falso em 6/out; hospedagem suspensa em 9/out. O ID de analytics `G-ISCA7K2Q9P` liga `coopserra-azul.example` ao caso.
 
 **Arcos por fase**
 | Fase | Dias | Arco |

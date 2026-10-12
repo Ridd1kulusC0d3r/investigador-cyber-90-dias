@@ -1,0 +1,74 @@
+{
+ "coletado_utc": "2026-10-05T21:18:44Z",
+ "coletor": "VM de análise vigia-lab01, saída por VPN de pesquisa (IP de saída 198.51.100.40)",
+ "visitas": [
+  {
+   "ferramenta": "curl -sIL (User-Agent padrão do curl)",
+   "saltos": [
+    {
+     "url": "http://lnk.example/sa7",
+     "ip": "192.0.2.44",
+     "status": 302,
+     "mecanismo": "Location",
+     "location": "http://serraazul-pix.example/",
+     "server": "lnk-shortener"
+    },
+    {
+     "url": "http://serraazul-pix.example/",
+     "ip": "203.0.113.77",
+     "status": 301,
+     "mecanismo": "Location",
+     "location": "https://serraazul-pix.example/",
+     "server": "nginx"
+    },
+    {
+     "url": "https://serraazul-pix.example/",
+     "ip": "203.0.113.77",
+     "status": 200,
+     "mecanismo": "fim",
+     "location": null,
+     "server": "nginx",
+     "titulo": "Cooperativa Serra Azul (Sistema em manutenção)"
+    }
+   ]
+  },
+  {
+   "ferramenta": "navegador da VM, User-Agent de Android, Accept-Language pt-BR",
+   "saltos": [
+    {
+     "url": "http://lnk.example/sa7",
+     "ip": "192.0.2.44",
+     "status": 302,
+     "mecanismo": "Location",
+     "location": "http://serraazul-pix.example/",
+     "server": "lnk-shortener"
+    },
+    {
+     "url": "http://serraazul-pix.example/",
+     "ip": "203.0.113.77",
+     "status": 301,
+     "mecanismo": "Location",
+     "location": "https://serraazul-pix.example/",
+     "server": "nginx"
+    },
+    {
+     "url": "https://serraazul-pix.example/",
+     "ip": "203.0.113.77",
+     "status": 200,
+     "mecanismo": "JavaScript (window.location)",
+     "location": "https://serraazul-pix.example/pix/regularizar",
+     "server": "nginx"
+    },
+    {
+     "url": "https://serraazul-pix.example/pix/regularizar",
+     "ip": "203.0.113.77",
+     "status": 200,
+     "mecanismo": "fim",
+     "location": null,
+     "server": "nginx",
+     "titulo": "Regularize sua chave Pix (formulário de CPF e senha)"
+    }
+   ]
+  }
+ ]
+}

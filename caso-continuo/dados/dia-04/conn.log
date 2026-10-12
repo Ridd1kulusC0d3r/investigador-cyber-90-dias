@@ -1,0 +1,18 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	conn
+#open	2026-10-05-15-10-00
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	history
+#types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	string
+1791198842.118000	CsA1kq3	10.20.36.21	53110	10.20.32.53	53	udp	dns	0.002	39	55	SF	Dd
+1791198842.131000	CsA1kq4	10.20.36.21	50214	203.0.113.77	443	tcp	ssl	48.912	1873	41250	SF	ShADadFf
+1791199905.402000	CsA1kq9	10.20.36.44	50388	203.0.113.77	443	tcp	ssl	61.004	2290	41377	SF	ShADadFf
+1791201737.006000	CsA1kr2	10.20.36.44	50412	203.0.113.77	443	tcp	ssl	0.611	517	0	RSTR	ShADr
+1791205791.550000	CsA1kt0	198.51.100.14	41022	10.20.32.10	3389	tcp	-	0.000	0	0	S0	S
+1791205791.601000	CsA1kt1	198.51.100.14	41024	10.20.32.11	3389	tcp	-	0.000	0	0	S0	S
+1791211653.200000	CsA1ku5	10.20.36.21	50990	203.0.113.77	443	tcp	-	9.012	0	0	S0	S
+1791211928.900000	CsA1ku8	10.20.36.30	51007	203.0.113.77	443	tcp	-	9.008	0	0	S0	S
+1791212620.000000	CsA1kv0	10.20.36.30	51102	10.20.32.80	443	tcp	ssl	0.402	1210	5320	SF	ShADadFf
+#close	2026-10-05-15-10-00

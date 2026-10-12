@@ -1,0 +1,12 @@
+data,quem_alegou,alegacao,nivel,classe_evidencia,falsificavel,faixa,fonte
+2026-10-05,(evento),Primeira onda de SMS 'Pix bloqueado' contra a Serra Azul,n/a,n/a,n/a,Sem atribuição / evidência de falsificação,Reclamações da ouvidoria (caso VIGIA-2026-001)
+2026-10-07,Vigia,Cinco domínios e dois servidores agrupados no cluster CA-ISCA-01,cluster,infraestrutura,"Médio: certificado com SAN compartilhado",Cluster CA-ISCA-01 (Vigia),Grafo de pivôs (Dia 40) e bundle STIX (Dia 43)
+2026-10-08,Print anônimo em grupo,Anúncio de venda do 'IscaKit cooperativas',grupo,fonte externa,"Sim: print não verificado",Apontou para o vendedor do kit,Print encaminhado por terceiro
+2026-10-10,Post de analista no LinkedIn,'Mesmo painel de um kit vendido no Telegram: caso resolvido',grupo,malware,"Sim: painel vem com o kit comprado",Apontou para o vendedor do kit,Post público (não reproduzido)
+2026-10-12,Vigia,Informe CA-ISCA-01: sem afirmação de autoria,cluster,infraestrutura; tradecraft,n/a,Cluster CA-ISCA-01 (Vigia),Informe de uma página (Dia 46)
+2026-10-14,(evento),Sexta onda com bloco de comentário 'assinando' em nome de um grupo de outro estado,n/a,n/a,n/a,Sem atribuição / evidência de falsificação,Captura da página em navegador isolado
+2026-10-14,Comentário no código da sexta onda,Autoria atribuída a 'o grupo nomeado no comentário',grupo,malware (string),"Sim: texto trivial de plantar",Apontou para o grupo do outro estado,Captura da página em navegador isolado
+2026-10-14,Vigia,"Bloco de 'assinatura' incoerente com cinco ondas anteriores: provável falsificação",cluster,malware (metadados e strings),Esta análise expôs provável falsificação,Sem atribuição / evidência de falsificação,Comparação das capturas das seis ondas
+2026-10-15,Página de notícias regional,'Grupo do outro estado ataca cooperativas mineiras',grupo,não divulgada,Não avaliável de fora; repete o comentário plantado,Apontou para o grupo do outro estado,Reportagem (não reproduzida)
+2026-10-16,Vigia,Declaração de atribuição CA-ISCA-01 (Dia 48),cluster,infraestrutura; tradecraft; malware,n/a,Cluster CA-ISCA-01 (Vigia),Declaração deste dia
+2026-10-16,Cooperativa Serra Azul (via jurídico),Comunicação de fatos e artefatos à delegacia especializada; sem imputação de autoria,n/a,n/a,n/a,Sem atribuição / evidência de falsificação,Ofício da cooperativa (fictício)

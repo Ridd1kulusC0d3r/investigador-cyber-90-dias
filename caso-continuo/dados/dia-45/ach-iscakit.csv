@@ -1,0 +1,13 @@
+id,evidencia,fonte,data,H1_um_operador,H2_varios_compradores,H3_original_e_imitadores,H4_interno_fornecedor
+E1,As cinco ondas usam o mesmo hash de corpo HTML do IscaKit,Varredura pública (urlscan) registrada no grafo do Dia 40,2026-10-07,C,C,C,C
+E2,A string '// pescador' aparece no JavaScript das cinco ondas,Captura das páginas em navegador isolado,2026-10-07,C,C,C,C
+E3,Os disparos das cinco ondas ocorreram em dias diferentes mas sempre entre 07h00 e 09h00 BRT,Reclamações das cooperativas (horário dos SMS),2026-10-08,CC,I,C,C
+E4,Ondas 1 a 3 usam o mesmo encurtador (lnk.example); ondas 4 e 5 usam encurtador diferente,Textos dos SMS encaminhados,2026-10-08,I,C,C,C
+E5,Ondas 4 e 5 têm erros de português no texto do SMS que as ondas 1 a 3 não têm,Textos dos SMS encaminhados,2026-10-08,I,C,CC,N
+E6,Print de anúncio de venda do 'IscaKit cooperativas' circulou num grupo (não verificado),Print encaminhado por terceiro,2026-10-08,I,CC,C,N
+E7,Os certificados TLS das ondas 1 a 3 compartilham SAN; os das ondas 4 e 5 não,crt.sh,2026-10-07,I,C,C,N
+E8,Ondas 4 e 5 hospedadas em 198.51.100.40; ondas 1 a 3 em 203.0.113.77,DNS passivo,2026-10-07,I,C,C,N
+E9,As cinco cooperativas não usam o mesmo fornecedor de envio de SMS,Questionário respondido pelas cooperativas,2026-10-09,C,C,C,II
+E10,Os SMS foram recebidos inclusive por números que nunca foram cadastrados em nenhuma das cooperativas,Reclamações de não cooperados repassadas às ouvidorias,2026-10-09,C,C,C,I
+E11,O primeiro domínio do kit (serraazul-pix.example) é o mais antigo; os das ondas 4 e 5 foram registrados 2 dias depois de um alerta público da Serra Azul,RDAP e data do alerta,2026-10-09,C,C,CC,N
+E12,As páginas de todas as ondas enviam as credenciais para o mesmo caminho /api/recebe,Captura das páginas em navegador isolado,2026-10-07,C,C,C,C

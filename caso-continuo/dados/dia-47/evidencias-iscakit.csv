@@ -1,0 +1,13 @@
+id,item,aponta_para,classe_odni,ato_de_origem,visivel_para
+I1,Painel de administração do IscaKit com o mesmo layout de um kit vendido em 2024,vendedor do kit,malware,compra-do-kit,Vigia
+I2,Comentário '// pescador' no JavaScript das páginas,vendedor do kit,malware,compra-do-kit,Vigia
+I3,Caminho /api/recebe para envio das credenciais,vendedor do kit,malware,compra-do-kit,Vigia
+I4,Anúncio do 'IscaKit cooperativas' em print de grupo de Telegram (não verificado),vendedor do kit,fonte externa,anuncio,Vigia
+I5,Certificado TLS com SAN compartilhado entre serraazul-pix.example e serraazul-seguranca.example,cluster CA-ISCA-01,infraestrutura,emissao-cert-1,Vigia
+I6,Mesmo servidor 203.0.113.77 para as ondas 1 a 3,cluster CA-ISCA-01,infraestrutura,contratacao-hospedagem-1,Vigia
+I7,Disparos sempre entre 07h00 e 09h00 BRT,cluster CA-ISCA-01,tradecraft,agendamento-sms,Vigia
+I8,Alvos exclusivamente cooperativas de crédito de Minas Gerais,ninguém em particular,intenção,escolha-de-alvo,Vigia
+I9,Erros de português no SMS das ondas 4 e 5,ninguém em particular,tradecraft,redacao-sms-2,Vigia
+I10,Dados cadastrais do registrante dos domínios,pessoa (não avaliado),fonte externa,registro-dominio,só com ordem judicial
+I11,Registros de conexão do provedor de hospedagem,pessoa (não avaliado),fonte externa,acesso-servidor,só com ordem judicial
+I12,Titularidade das contas que receberam os Pix,pessoa (não avaliado),fonte externa,recebimento-pix,só com ordem judicial

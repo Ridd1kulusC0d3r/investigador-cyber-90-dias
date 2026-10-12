@@ -1,0 +1,497 @@
+{"group": "grupo-alfa", "month": "2023-01", "attack_month": "2023-01", "sector": "Education", "country": "DE"}
+{"group": "grupo-alfa", "month": "2023-01", "attack_month": "", "sector": "Unknown", "country": "US"}
+{"group": "grupo-alfa", "month": "2023-01", "attack_month": "2022-12", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-alfa", "month": "2023-01", "attack_month": "2022-12", "sector": "Unknown", "country": "CA"}
+{"group": "grupo-bravo", "month": "2023-01", "attack_month": "2022-12", "sector": "Unknown", "country": "BR"}
+{"group": "grupo-bravo", "month": "2023-01", "attack_month": "", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-charlie", "month": "2023-01", "attack_month": "2023-01", "sector": "Retail", "country": "US"}
+{"group": "grupo-delta", "month": "2023-01", "attack_month": "", "sector": "Retail", "country": "BR"}
+{"group": "grupo-delta", "month": "2023-01", "attack_month": "2022-11", "sector": "Manufacturing", "country": "IT"}
+{"group": "grupo-delta", "month": "2023-01", "attack_month": "2022-12", "sector": "Technology", "country": "FR"}
+{"group": "grupo-delta", "month": "2023-01", "attack_month": "2022-12", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-delta", "month": "2023-01", "attack_month": "", "sector": "Education", "country": "US"}
+{"group": "grupo-alfa", "month": "2023-02", "attack_month": "", "sector": "Government", "country": ""}
+{"group": "grupo-alfa", "month": "2023-02", "attack_month": "2023-01", "sector": "Healthcare", "country": "BR"}
+{"group": "grupo-alfa", "month": "2023-02", "attack_month": "", "sector": "Technology", "country": "CA"}
+{"group": "grupo-alfa", "month": "2023-02", "attack_month": "2022-12", "sector": "Unknown", "country": "DE"}
+{"group": "grupo-bravo", "month": "2023-02", "attack_month": "", "sector": "Education", "country": ""}
+{"group": "grupo-charlie", "month": "2023-02", "attack_month": "", "sector": "Manufacturing", "country": "DE"}
+{"group": "grupo-charlie", "month": "2023-02", "attack_month": "2023-01", "sector": "Retail", "country": "BR"}
+{"group": "grupo-delta", "month": "2023-02", "attack_month": "", "sector": "Retail", "country": "DE"}
+{"group": "grupo-delta", "month": "2023-02", "attack_month": "2023-01", "sector": "Construction", "country": ""}
+{"group": "grupo-delta", "month": "2023-02", "attack_month": "", "sector": "Healthcare", "country": "DE"}
+{"group": "grupo-delta", "month": "2023-02", "attack_month": "", "sector": "Unknown", "country": "GB"}
+{"group": "grupo-delta", "month": "2023-02", "attack_month": "2023-01", "sector": "Construction", "country": "CA"}
+{"group": "grupo-delta", "month": "2023-02", "attack_month": "2023-02", "sector": "Healthcare", "country": "FR"}
+{"group": "grupo-alfa", "month": "2023-03", "attack_month": "2023-03", "sector": "Healthcare", "country": ""}
+{"group": "grupo-alfa", "month": "2023-03", "attack_month": "", "sector": "Construction", "country": "BR"}
+{"group": "grupo-alfa", "month": "2023-03", "attack_month": "2023-03", "sector": "Government", "country": "FR"}
+{"group": "grupo-alfa", "month": "2023-03", "attack_month": "", "sector": "Technology", "country": ""}
+{"group": "grupo-bravo", "month": "2023-03", "attack_month": "2023-02", "sector": "Education", "country": ""}
+{"group": "grupo-delta", "month": "2023-03", "attack_month": "", "sector": "Education", "country": "FR"}
+{"group": "grupo-delta", "month": "2023-03", "attack_month": "", "sector": "Unknown", "country": "US"}
+{"group": "grupo-delta", "month": "2023-03", "attack_month": "2023-02", "sector": "Education", "country": ""}
+{"group": "grupo-delta", "month": "2023-03", "attack_month": "", "sector": "Healthcare", "country": "BR"}
+{"group": "grupo-delta", "month": "2023-03", "attack_month": "", "sector": "Unknown", "country": "FR"}
+{"group": "grupo-alfa", "month": "2023-04", "attack_month": "", "sector": "Technology", "country": "BR"}
+{"group": "grupo-alfa", "month": "2023-04", "attack_month": "2023-04", "sector": "Education", "country": "DE"}
+{"group": "grupo-alfa", "month": "2023-04", "attack_month": "", "sector": "Technology", "country": "IT"}
+{"group": "grupo-bravo", "month": "2023-04", "attack_month": "2023-02", "sector": "Unknown", "country": "US"}
+{"group": "grupo-charlie", "month": "2023-04", "attack_month": "2023-03", "sector": "Unknown", "country": "CA"}
+{"group": "grupo-charlie", "month": "2023-04", "attack_month": "", "sector": "Unknown", "country": "DE"}
+{"group": "grupo-delta", "month": "2023-04", "attack_month": "", "sector": "Construction", "country": ""}
+{"group": "grupo-delta", "month": "2023-04", "attack_month": "2023-03", "sector": "Government", "country": "FR"}
+{"group": "grupo-delta", "month": "2023-04", "attack_month": "2023-03", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-delta", "month": "2023-04", "attack_month": "2023-04", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-delta", "month": "2023-04", "attack_month": "", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-alfa", "month": "2023-05", "attack_month": "", "sector": "Financial Services", "country": "GB"}
+{"group": "grupo-alfa", "month": "2023-05", "attack_month": "2023-03", "sector": "Financial Services", "country": "FR"}
+{"group": "grupo-alfa", "month": "2023-05", "attack_month": "", "sector": "Financial Services", "country": "IT"}
+{"group": "grupo-alfa", "month": "2023-05", "attack_month": "2023-03", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-bravo", "month": "2023-05", "attack_month": "2023-05", "sector": "Retail", "country": "BR"}
+{"group": "grupo-bravo", "month": "2023-05", "attack_month": "2023-04", "sector": "Technology", "country": "US"}
+{"group": "grupo-charlie", "month": "2023-05", "attack_month": "2023-04", "sector": "Financial Services", "country": "DE"}
+{"group": "grupo-delta", "month": "2023-05", "attack_month": "2023-04", "sector": "Construction", "country": "US"}
+{"group": "grupo-delta", "month": "2023-05", "attack_month": "", "sector": "Technology", "country": "IT"}
+{"group": "grupo-delta", "month": "2023-05", "attack_month": "2023-05", "sector": "Unknown", "country": "US"}
+{"group": "grupo-delta", "month": "2023-05", "attack_month": "2023-03", "sector": "Technology", "country": "DE"}
+{"group": "grupo-alfa", "month": "2023-06", "attack_month": "2023-04", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-bravo", "month": "2023-06", "attack_month": "2023-04", "sector": "Education", "country": "IT"}
+{"group": "grupo-bravo", "month": "2023-06", "attack_month": "2023-06", "sector": "Healthcare", "country": "DE"}
+{"group": "grupo-delta", "month": "2023-06", "attack_month": "2023-04", "sector": "Retail", "country": "US"}
+{"group": "grupo-delta", "month": "2023-06", "attack_month": "2023-06", "sector": "Unknown", "country": "FR"}
+{"group": "grupo-delta", "month": "2023-06", "attack_month": "", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-delta", "month": "2023-06", "attack_month": "2023-05", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-alfa", "month": "2023-07", "attack_month": "", "sector": "Technology", "country": "BR"}
+{"group": "grupo-alfa", "month": "2023-07", "attack_month": "", "sector": "Unknown", "country": "BR"}
+{"group": "grupo-alfa", "month": "2023-07", "attack_month": "", "sector": "Financial Services", "country": ""}
+{"group": "grupo-bravo", "month": "2023-07", "attack_month": "2023-06", "sector": "Financial Services", "country": "GB"}
+{"group": "grupo-bravo", "month": "2023-07", "attack_month": "", "sector": "Government", "country": "BR"}
+{"group": "grupo-charlie", "month": "2023-07", "attack_month": "2023-06", "sector": "Technology", "country": "US"}
+{"group": "grupo-delta", "month": "2023-07", "attack_month": "", "sector": "Healthcare", "country": "BR"}
+{"group": "grupo-delta", "month": "2023-07", "attack_month": "2023-05", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-delta", "month": "2023-07", "attack_month": "", "sector": "Unknown", "country": "GB"}
+{"group": "grupo-delta", "month": "2023-07", "attack_month": "", "sector": "Unknown", "country": "US"}
+{"group": "grupo-delta", "month": "2023-07", "attack_month": "", "sector": "Unknown", "country": "GB"}
+{"group": "grupo-alfa", "month": "2023-08", "attack_month": "", "sector": "Education", "country": "US"}
+{"group": "grupo-alfa", "month": "2023-08", "attack_month": "2023-07", "sector": "Unknown", "country": "US"}
+{"group": "grupo-alfa", "month": "2023-08", "attack_month": "", "sector": "Retail", "country": "DE"}
+{"group": "grupo-alfa", "month": "2023-08", "attack_month": "2023-08", "sector": "Education", "country": "FR"}
+{"group": "grupo-alfa", "month": "2023-08", "attack_month": "2023-07", "sector": "Technology", "country": ""}
+{"group": "grupo-alfa", "month": "2023-08", "attack_month": "2023-07", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-bravo", "month": "2023-08", "attack_month": "", "sector": "Education", "country": "US"}
+{"group": "grupo-bravo", "month": "2023-08", "attack_month": "", "sector": "Unknown", "country": "BR"}
+{"group": "grupo-bravo", "month": "2023-08", "attack_month": "", "sector": "Technology", "country": "US"}
+{"group": "grupo-charlie", "month": "2023-08", "attack_month": "", "sector": "Manufacturing", "country": "BR"}
+{"group": "grupo-delta", "month": "2023-08", "attack_month": "2023-07", "sector": "Healthcare", "country": "BR"}
+{"group": "grupo-delta", "month": "2023-08", "attack_month": "", "sector": "Retail", "country": "US"}
+{"group": "grupo-delta", "month": "2023-08", "attack_month": "2023-08", "sector": "Financial Services", "country": ""}
+{"group": "grupo-delta", "month": "2023-08", "attack_month": "", "sector": "Retail", "country": "FR"}
+{"group": "grupo-alfa", "month": "2023-09", "attack_month": "", "sector": "Healthcare", "country": "DE"}
+{"group": "grupo-alfa", "month": "2023-09", "attack_month": "2023-08", "sector": "Healthcare", "country": "BR"}
+{"group": "grupo-bravo", "month": "2023-09", "attack_month": "", "sector": "Construction", "country": ""}
+{"group": "grupo-bravo", "month": "2023-09", "attack_month": "2023-09", "sector": "Financial Services", "country": "GB"}
+{"group": "grupo-bravo", "month": "2023-09", "attack_month": "", "sector": "Construction", "country": "US"}
+{"group": "grupo-charlie", "month": "2023-09", "attack_month": "2023-08", "sector": "Government", "country": "BR"}
+{"group": "grupo-charlie", "month": "2023-09", "attack_month": "", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-delta", "month": "2023-09", "attack_month": "2023-09", "sector": "Construction", "country": "BR"}
+{"group": "grupo-delta", "month": "2023-09", "attack_month": "", "sector": "Education", "country": "BR"}
+{"group": "grupo-delta", "month": "2023-09", "attack_month": "", "sector": "Construction", "country": ""}
+{"group": "grupo-delta", "month": "2023-09", "attack_month": "", "sector": "Unknown", "country": "BR"}
+{"group": "grupo-delta", "month": "2023-09", "attack_month": "2023-08", "sector": "Technology", "country": "GB"}
+{"group": "grupo-delta", "month": "2023-09", "attack_month": "", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-delta", "month": "2023-09", "attack_month": "2023-09", "sector": "Retail", "country": "BR"}
+{"group": "grupo-alfa", "month": "2023-10", "attack_month": "", "sector": "Education", "country": "US"}
+{"group": "grupo-alfa", "month": "2023-10", "attack_month": "", "sector": "Manufacturing", "country": "FR"}
+{"group": "grupo-alfa", "month": "2023-10", "attack_month": "", "sector": "Unknown", "country": ""}
+{"group": "grupo-bravo", "month": "2023-10", "attack_month": "2023-09", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-bravo", "month": "2023-10", "attack_month": "", "sector": "Retail", "country": ""}
+{"group": "grupo-bravo", "month": "2023-10", "attack_month": "2023-08", "sector": "Education", "country": "FR"}
+{"group": "grupo-delta", "month": "2023-10", "attack_month": "2023-08", "sector": "Unknown", "country": "US"}
+{"group": "grupo-delta", "month": "2023-10", "attack_month": "", "sector": "Healthcare", "country": "CA"}
+{"group": "grupo-delta", "month": "2023-10", "attack_month": "", "sector": "Construction", "country": "FR"}
+{"group": "grupo-delta", "month": "2023-10", "attack_month": "2023-09", "sector": "Education", "country": "GB"}
+{"group": "grupo-delta", "month": "2023-10", "attack_month": "2023-09", "sector": "Government", "country": "IT"}
+{"group": "grupo-delta", "month": "2023-10", "attack_month": "", "sector": "Unknown", "country": "IT"}
+{"group": "grupo-delta", "month": "2023-10", "attack_month": "2023-09", "sector": "Healthcare", "country": ""}
+{"group": "grupo-alfa", "month": "2023-11", "attack_month": "2023-10", "sector": "Financial Services", "country": ""}
+{"group": "grupo-alfa", "month": "2023-11", "attack_month": "2023-09", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-alfa", "month": "2023-11", "attack_month": "2023-10", "sector": "Technology", "country": "IT"}
+{"group": "grupo-alfa", "month": "2023-11", "attack_month": "2023-10", "sector": "Construction", "country": "IT"}
+{"group": "grupo-alfa", "month": "2023-11", "attack_month": "", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-alfa", "month": "2023-11", "attack_month": "", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-bravo", "month": "2023-11", "attack_month": "2023-10", "sector": "Unknown", "country": "IT"}
+{"group": "grupo-bravo", "month": "2023-11", "attack_month": "2023-09", "sector": "Technology", "country": "IT"}
+{"group": "grupo-bravo", "month": "2023-11", "attack_month": "", "sector": "Unknown", "country": "FR"}
+{"group": "grupo-bravo", "month": "2023-11", "attack_month": "", "sector": "Government", "country": "CA"}
+{"group": "grupo-charlie", "month": "2023-11", "attack_month": "", "sector": "Unknown", "country": "IT"}
+{"group": "grupo-charlie", "month": "2023-11", "attack_month": "2023-10", "sector": "Government", "country": "IT"}
+{"group": "grupo-delta", "month": "2023-11", "attack_month": "2023-10", "sector": "Education", "country": "FR"}
+{"group": "grupo-delta", "month": "2023-11", "attack_month": "2023-10", "sector": "Education", "country": "IT"}
+{"group": "grupo-delta", "month": "2023-11", "attack_month": "2023-11", "sector": "Financial Services", "country": "GB"}
+{"group": "grupo-delta", "month": "2023-11", "attack_month": "2023-10", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-alfa", "month": "2023-12", "attack_month": "2023-10", "sector": "Construction", "country": "BR"}
+{"group": "grupo-alfa", "month": "2023-12", "attack_month": "", "sector": "Manufacturing", "country": "DE"}
+{"group": "grupo-alfa", "month": "2023-12", "attack_month": "", "sector": "Construction", "country": "CA"}
+{"group": "grupo-alfa", "month": "2023-12", "attack_month": "2023-12", "sector": "Manufacturing", "country": "CA"}
+{"group": "grupo-bravo", "month": "2023-12", "attack_month": "", "sector": "Retail", "country": "GB"}
+{"group": "grupo-charlie", "month": "2023-12", "attack_month": "", "sector": "Construction", "country": "FR"}
+{"group": "grupo-charlie", "month": "2023-12", "attack_month": "", "sector": "Unknown", "country": "CA"}
+{"group": "grupo-charlie", "month": "2023-12", "attack_month": "2023-10", "sector": "Government", "country": "DE"}
+{"group": "grupo-delta", "month": "2023-12", "attack_month": "2023-10", "sector": "Manufacturing", "country": "BR"}
+{"group": "grupo-delta", "month": "2023-12", "attack_month": "", "sector": "Healthcare", "country": "IT"}
+{"group": "grupo-delta", "month": "2023-12", "attack_month": "", "sector": "Unknown", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-01", "attack_month": "2023-11", "sector": "Technology", "country": ""}
+{"group": "grupo-alfa", "month": "2024-01", "attack_month": "2023-12", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-bravo", "month": "2024-01", "attack_month": "2023-11", "sector": "Financial Services", "country": "IT"}
+{"group": "grupo-charlie", "month": "2024-01", "attack_month": "", "sector": "Construction", "country": "GB"}
+{"group": "grupo-delta", "month": "2024-01", "attack_month": "", "sector": "Government", "country": "US"}
+{"group": "grupo-delta", "month": "2024-01", "attack_month": "2024-01", "sector": "Manufacturing", "country": "BR"}
+{"group": "grupo-delta", "month": "2024-01", "attack_month": "", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-delta", "month": "2024-01", "attack_month": "", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-delta", "month": "2024-01", "attack_month": "2024-01", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-delta", "month": "2024-01", "attack_month": "", "sector": "Financial Services", "country": "IT"}
+{"group": "grupo-delta", "month": "2024-01", "attack_month": "", "sector": "Retail", "country": "US"}
+{"group": "grupo-delta", "month": "2024-01", "attack_month": "", "sector": "Technology", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-02", "attack_month": "", "sector": "Education", "country": "CA"}
+{"group": "grupo-alfa", "month": "2024-02", "attack_month": "", "sector": "Construction", "country": "BR"}
+{"group": "grupo-alfa", "month": "2024-02", "attack_month": "", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-02", "attack_month": "", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-bravo", "month": "2024-02", "attack_month": "", "sector": "Education", "country": ""}
+{"group": "grupo-bravo", "month": "2024-02", "attack_month": "", "sector": "Technology", "country": "CA"}
+{"group": "grupo-charlie", "month": "2024-02", "attack_month": "2024-01", "sector": "Retail", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-03", "attack_month": "", "sector": "Manufacturing", "country": "BR"}
+{"group": "grupo-alfa", "month": "2024-03", "attack_month": "", "sector": "Technology", "country": "BR"}
+{"group": "grupo-alfa", "month": "2024-03", "attack_month": "2024-02", "sector": "Government", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-03", "attack_month": "2024-02", "sector": "Unknown", "country": "IT"}
+{"group": "grupo-alfa", "month": "2024-03", "attack_month": "", "sector": "Retail", "country": "DE"}
+{"group": "grupo-bravo", "month": "2024-03", "attack_month": "", "sector": "Financial Services", "country": "IT"}
+{"group": "grupo-bravo", "month": "2024-03", "attack_month": "2024-02", "sector": "Construction", "country": "BR"}
+{"group": "grupo-bravo", "month": "2024-03", "attack_month": "2024-02", "sector": "Healthcare", "country": "IT"}
+{"group": "grupo-bravo", "month": "2024-03", "attack_month": "", "sector": "Retail", "country": "GB"}
+{"group": "grupo-charlie", "month": "2024-03", "attack_month": "2024-02", "sector": "Education", "country": "FR"}
+{"group": "grupo-charlie", "month": "2024-03", "attack_month": "", "sector": "Technology", "country": "DE"}
+{"group": "grupo-charlie", "month": "2024-03", "attack_month": "", "sector": "Government", "country": "FR"}
+{"group": "grupo-alfa", "month": "2024-04", "attack_month": "", "sector": "Government", "country": "IT"}
+{"group": "grupo-alfa", "month": "2024-04", "attack_month": "2024-03", "sector": "Technology", "country": "GB"}
+{"group": "grupo-alfa", "month": "2024-04", "attack_month": "", "sector": "Education", "country": ""}
+{"group": "grupo-alfa", "month": "2024-05", "attack_month": "2024-03", "sector": "Construction", "country": "FR"}
+{"group": "grupo-alfa", "month": "2024-05", "attack_month": "2024-05", "sector": "Education", "country": "GB"}
+{"group": "grupo-alfa", "month": "2024-05", "attack_month": "2024-04", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-alfa", "month": "2024-05", "attack_month": "", "sector": "Financial Services", "country": "DE"}
+{"group": "grupo-bravo", "month": "2024-05", "attack_month": "2024-05", "sector": "Unknown", "country": "CA"}
+{"group": "grupo-bravo", "month": "2024-05", "attack_month": "2024-04", "sector": "Financial Services", "country": "GB"}
+{"group": "grupo-charlie", "month": "2024-05", "attack_month": "", "sector": "Education", "country": "US"}
+{"group": "grupo-charlie", "month": "2024-05", "attack_month": "2024-05", "sector": "Healthcare", "country": "GB"}
+{"group": "grupo-charlie", "month": "2024-05", "attack_month": "", "sector": "Unknown", "country": "GB"}
+{"group": "grupo-delta", "month": "2024-05", "attack_month": "", "sector": "Government", "country": "US"}
+{"group": "grupo-delta", "month": "2024-05", "attack_month": "2024-04", "sector": "Education", "country": "IT"}
+{"group": "grupo-alfa", "month": "2024-06", "attack_month": "2024-04", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-06", "attack_month": "2024-06", "sector": "Technology", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-06", "attack_month": "2024-05", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-06", "attack_month": "2024-04", "sector": "Technology", "country": "DE"}
+{"group": "grupo-alfa", "month": "2024-06", "attack_month": "2024-04", "sector": "Financial Services", "country": "FR"}
+{"group": "grupo-bravo", "month": "2024-06", "attack_month": "", "sector": "Construction", "country": "GB"}
+{"group": "grupo-charlie", "month": "2024-06", "attack_month": "", "sector": "Manufacturing", "country": "CA"}
+{"group": "grupo-charlie", "month": "2024-06", "attack_month": "", "sector": "Technology", "country": "DE"}
+{"group": "grupo-charlie", "month": "2024-06", "attack_month": "2024-05", "sector": "Education", "country": ""}
+{"group": "grupo-eco", "month": "2024-06", "attack_month": "2024-04", "sector": "Manufacturing", "country": "BR"}
+{"group": "grupo-eco", "month": "2024-06", "attack_month": "2024-05", "sector": "Education", "country": "US"}
+{"group": "grupo-eco", "month": "2024-06", "attack_month": "", "sector": "Government", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-07", "attack_month": "", "sector": "Education", "country": ""}
+{"group": "grupo-alfa", "month": "2024-07", "attack_month": "2024-06", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-alfa", "month": "2024-07", "attack_month": "", "sector": "Healthcare", "country": "GB"}
+{"group": "grupo-alfa", "month": "2024-07", "attack_month": "2024-06", "sector": "Technology", "country": "US"}
+{"group": "grupo-delta", "month": "2024-07", "attack_month": "", "sector": "Government", "country": "GB"}
+{"group": "grupo-eco", "month": "2024-07", "attack_month": "2024-05", "sector": "Education", "country": "FR"}
+{"group": "grupo-eco", "month": "2024-07", "attack_month": "2024-05", "sector": "Technology", "country": "CA"}
+{"group": "grupo-alfa", "month": "2024-08", "attack_month": "2024-08", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-08", "attack_month": "2024-07", "sector": "Education", "country": "CA"}
+{"group": "grupo-alfa", "month": "2024-08", "attack_month": "", "sector": "Government", "country": "FR"}
+{"group": "grupo-alfa", "month": "2024-08", "attack_month": "", "sector": "Education", "country": "US"}
+{"group": "grupo-eco", "month": "2024-08", "attack_month": "2024-07", "sector": "Technology", "country": "IT"}
+{"group": "grupo-eco", "month": "2024-08", "attack_month": "2024-07", "sector": "Retail", "country": ""}
+{"group": "grupo-eco", "month": "2024-08", "attack_month": "", "sector": "Retail", "country": "BR"}
+{"group": "grupo-eco", "month": "2024-08", "attack_month": "", "sector": "Education", "country": ""}
+{"group": "grupo-alfa", "month": "2024-09", "attack_month": "2024-08", "sector": "Government", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-09", "attack_month": "", "sector": "Technology", "country": "BR"}
+{"group": "grupo-alfa", "month": "2024-09", "attack_month": "", "sector": "Manufacturing", "country": ""}
+{"group": "grupo-alfa", "month": "2024-09", "attack_month": "2024-08", "sector": "Government", "country": "BR"}
+{"group": "grupo-bravo", "month": "2024-09", "attack_month": "2024-09", "sector": "Government", "country": ""}
+{"group": "grupo-charlie", "month": "2024-09", "attack_month": "", "sector": "Education", "country": "IT"}
+{"group": "grupo-charlie", "month": "2024-09", "attack_month": "2024-08", "sector": "Government", "country": "US"}
+{"group": "grupo-eco", "month": "2024-09", "attack_month": "", "sector": "Healthcare", "country": "GB"}
+{"group": "grupo-eco", "month": "2024-09", "attack_month": "2024-09", "sector": "Unknown", "country": "BR"}
+{"group": "grupo-eco", "month": "2024-09", "attack_month": "", "sector": "Government", "country": "US"}
+{"group": "grupo-eco", "month": "2024-09", "attack_month": "", "sector": "Healthcare", "country": "IT"}
+{"group": "grupo-eco", "month": "2024-09", "attack_month": "", "sector": "Education", "country": "FR"}
+{"group": "grupo-alfa", "month": "2024-10", "attack_month": "2024-09", "sector": "Government", "country": "DE"}
+{"group": "grupo-alfa", "month": "2024-10", "attack_month": "", "sector": "Construction", "country": "DE"}
+{"group": "grupo-alfa", "month": "2024-10", "attack_month": "", "sector": "Unknown", "country": "US"}
+{"group": "grupo-bravo", "month": "2024-10", "attack_month": "2024-09", "sector": "Education", "country": "BR"}
+{"group": "grupo-bravo", "month": "2024-10", "attack_month": "", "sector": "Manufacturing", "country": "GB"}
+{"group": "grupo-bravo", "month": "2024-10", "attack_month": "2024-08", "sector": "Government", "country": "US"}
+{"group": "grupo-eco", "month": "2024-10", "attack_month": "2024-09", "sector": "Unknown", "country": "BR"}
+{"group": "grupo-eco", "month": "2024-10", "attack_month": "", "sector": "Financial Services", "country": "DE"}
+{"group": "grupo-eco", "month": "2024-10", "attack_month": "2024-08", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-eco", "month": "2024-10", "attack_month": "", "sector": "Construction", "country": "BR"}
+{"group": "grupo-alfa", "month": "2024-11", "attack_month": "", "sector": "Healthcare", "country": "IT"}
+{"group": "grupo-alfa", "month": "2024-11", "attack_month": "", "sector": "Healthcare", "country": "FR"}
+{"group": "grupo-alfa", "month": "2024-11", "attack_month": "", "sector": "Retail", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-11", "attack_month": "2024-09", "sector": "Government", "country": "US"}
+{"group": "grupo-charlie", "month": "2024-11", "attack_month": "2024-10", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-charlie", "month": "2024-11", "attack_month": "", "sector": "Retail", "country": "CA"}
+{"group": "grupo-eco", "month": "2024-11", "attack_month": "", "sector": "Technology", "country": "BR"}
+{"group": "grupo-eco", "month": "2024-11", "attack_month": "", "sector": "Unknown", "country": "BR"}
+{"group": "grupo-eco", "month": "2024-11", "attack_month": "2024-11", "sector": "Government", "country": "FR"}
+{"group": "grupo-alfa", "month": "2024-12", "attack_month": "", "sector": "Education", "country": "DE"}
+{"group": "grupo-alfa", "month": "2024-12", "attack_month": "", "sector": "Construction", "country": "US"}
+{"group": "grupo-alfa", "month": "2024-12", "attack_month": "2024-11", "sector": "Technology", "country": "IT"}
+{"group": "grupo-alfa", "month": "2024-12", "attack_month": "2024-12", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-bravo", "month": "2024-12", "attack_month": "2024-11", "sector": "Education", "country": "BR"}
+{"group": "grupo-bravo", "month": "2024-12", "attack_month": "2024-11", "sector": "Financial Services", "country": "FR"}
+{"group": "grupo-bravo", "month": "2024-12", "attack_month": "2024-10", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-bravo", "month": "2024-12", "attack_month": "", "sector": "Financial Services", "country": "IT"}
+{"group": "grupo-charlie", "month": "2024-12", "attack_month": "2024-12", "sector": "Education", "country": "IT"}
+{"group": "grupo-charlie", "month": "2024-12", "attack_month": "", "sector": "Government", "country": "GB"}
+{"group": "grupo-eco", "month": "2024-12", "attack_month": "2024-11", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-eco", "month": "2024-12", "attack_month": "", "sector": "Education", "country": ""}
+{"group": "grupo-eco", "month": "2024-12", "attack_month": "", "sector": "Education", "country": "IT"}
+{"group": "grupo-eco", "month": "2024-12", "attack_month": "", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-alfa", "month": "2025-01", "attack_month": "2024-12", "sector": "Retail", "country": "CA"}
+{"group": "grupo-alfa", "month": "2025-01", "attack_month": "2025-01", "sector": "Manufacturing", "country": ""}
+{"group": "grupo-alfa", "month": "2025-01", "attack_month": "", "sector": "Manufacturing", "country": "CA"}
+{"group": "grupo-alfa", "month": "2025-01", "attack_month": "", "sector": "Education", "country": "DE"}
+{"group": "grupo-alfa", "month": "2025-01", "attack_month": "", "sector": "Retail", "country": "DE"}
+{"group": "grupo-bravo", "month": "2025-01", "attack_month": "", "sector": "Education", "country": ""}
+{"group": "grupo-bravo", "month": "2025-01", "attack_month": "2025-01", "sector": "Healthcare", "country": ""}
+{"group": "grupo-bravo", "month": "2025-01", "attack_month": "2024-12", "sector": "Education", "country": "IT"}
+{"group": "grupo-charlie", "month": "2025-01", "attack_month": "", "sector": "Education", "country": "BR"}
+{"group": "grupo-eco", "month": "2025-01", "attack_month": "2024-12", "sector": "Healthcare", "country": "DE"}
+{"group": "grupo-eco", "month": "2025-01", "attack_month": "", "sector": "Unknown", "country": "FR"}
+{"group": "grupo-eco", "month": "2025-01", "attack_month": "", "sector": "Healthcare", "country": "GB"}
+{"group": "grupo-alfa", "month": "2025-02", "attack_month": "", "sector": "Education", "country": "BR"}
+{"group": "grupo-alfa", "month": "2025-02", "attack_month": "2025-01", "sector": "Government", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-02", "attack_month": "2024-12", "sector": "Construction", "country": "FR"}
+{"group": "grupo-alfa", "month": "2025-02", "attack_month": "2024-12", "sector": "Manufacturing", "country": "GB"}
+{"group": "grupo-alfa", "month": "2025-02", "attack_month": "", "sector": "Retail", "country": ""}
+{"group": "grupo-alfa", "month": "2025-02", "attack_month": "2025-01", "sector": "Education", "country": "CA"}
+{"group": "grupo-alfa", "month": "2025-02", "attack_month": "2025-02", "sector": "Technology", "country": ""}
+{"group": "grupo-bravo", "month": "2025-02", "attack_month": "", "sector": "Unknown", "country": "BR"}
+{"group": "grupo-charlie", "month": "2025-02", "attack_month": "", "sector": "Government", "country": "GB"}
+{"group": "grupo-eco", "month": "2025-02", "attack_month": "2025-02", "sector": "Technology", "country": "US"}
+{"group": "grupo-eco", "month": "2025-02", "attack_month": "2025-01", "sector": "Education", "country": "IT"}
+{"group": "grupo-eco", "month": "2025-02", "attack_month": "2025-01", "sector": "Unknown", "country": "US"}
+{"group": "grupo-eco", "month": "2025-02", "attack_month": "", "sector": "Unknown", "country": "BR"}
+{"group": "grupo-alfa", "month": "2025-03", "attack_month": "", "sector": "Technology", "country": "IT"}
+{"group": "grupo-alfa", "month": "2025-03", "attack_month": "", "sector": "Education", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-03", "attack_month": "2025-02", "sector": "Financial Services", "country": "IT"}
+{"group": "grupo-bravo", "month": "2025-03", "attack_month": "", "sector": "Retail", "country": "US"}
+{"group": "grupo-bravo", "month": "2025-03", "attack_month": "", "sector": "Retail", "country": "FR"}
+{"group": "grupo-bravo", "month": "2025-03", "attack_month": "2025-02", "sector": "Retail", "country": "US"}
+{"group": "grupo-bravo", "month": "2025-03", "attack_month": "2025-02", "sector": "Technology", "country": "IT"}
+{"group": "grupo-bravo", "month": "2025-03", "attack_month": "", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-bravo", "month": "2025-03", "attack_month": "", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-charlie", "month": "2025-03", "attack_month": "", "sector": "Unknown", "country": "DE"}
+{"group": "grupo-charlie", "month": "2025-03", "attack_month": "", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-eco", "month": "2025-03", "attack_month": "", "sector": "Manufacturing", "country": "GB"}
+{"group": "grupo-eco", "month": "2025-03", "attack_month": "2025-02", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-eco", "month": "2025-03", "attack_month": "", "sector": "Technology", "country": ""}
+{"group": "grupo-eco", "month": "2025-03", "attack_month": "2025-02", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-eco", "month": "2025-03", "attack_month": "2025-03", "sector": "Retail", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-04", "attack_month": "2025-03", "sector": "Technology", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-04", "attack_month": "2025-03", "sector": "Unknown", "country": "CA"}
+{"group": "grupo-alfa", "month": "2025-04", "attack_month": "2025-02", "sector": "Manufacturing", "country": ""}
+{"group": "grupo-alfa", "month": "2025-04", "attack_month": "", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-04", "attack_month": "", "sector": "Construction", "country": "BR"}
+{"group": "grupo-bravo", "month": "2025-04", "attack_month": "2025-04", "sector": "Government", "country": "IT"}
+{"group": "grupo-bravo", "month": "2025-04", "attack_month": "2025-03", "sector": "Retail", "country": "CA"}
+{"group": "grupo-bravo", "month": "2025-04", "attack_month": "", "sector": "Education", "country": "CA"}
+{"group": "grupo-eco", "month": "2025-04", "attack_month": "2025-02", "sector": "Unknown", "country": "GB"}
+{"group": "grupo-eco", "month": "2025-04", "attack_month": "", "sector": "Technology", "country": "US"}
+{"group": "grupo-eco", "month": "2025-04", "attack_month": "2025-03", "sector": "Unknown", "country": "DE"}
+{"group": "grupo-alfa", "month": "2025-05", "attack_month": "", "sector": "Construction", "country": "BR"}
+{"group": "grupo-alfa", "month": "2025-05", "attack_month": "2025-04", "sector": "Retail", "country": "BR"}
+{"group": "grupo-bravo", "month": "2025-05", "attack_month": "", "sector": "Retail", "country": "US"}
+{"group": "grupo-bravo", "month": "2025-05", "attack_month": "2025-05", "sector": "Government", "country": "US"}
+{"group": "grupo-bravo", "month": "2025-05", "attack_month": "2025-04", "sector": "Technology", "country": "BR"}
+{"group": "grupo-charlie", "month": "2025-05", "attack_month": "2025-05", "sector": "Unknown", "country": "FR"}
+{"group": "grupo-charlie", "month": "2025-05", "attack_month": "", "sector": "Construction", "country": "BR"}
+{"group": "grupo-eco", "month": "2025-05", "attack_month": "", "sector": "Construction", "country": "US"}
+{"group": "grupo-eco", "month": "2025-05", "attack_month": "2025-04", "sector": "Education", "country": "BR"}
+{"group": "grupo-alfa", "month": "2025-06", "attack_month": "", "sector": "Technology", "country": "BR"}
+{"group": "grupo-alfa", "month": "2025-06", "attack_month": "", "sector": "Retail", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-06", "attack_month": "", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-alfa", "month": "2025-06", "attack_month": "", "sector": "Unknown", "country": "US"}
+{"group": "grupo-bravo", "month": "2025-06", "attack_month": "2025-05", "sector": "Education", "country": "US"}
+{"group": "grupo-bravo", "month": "2025-06", "attack_month": "2025-05", "sector": "Retail", "country": "BR"}
+{"group": "grupo-bravo", "month": "2025-06", "attack_month": "2025-06", "sector": "Construction", "country": "US"}
+{"group": "grupo-charlie", "month": "2025-06", "attack_month": "2025-05", "sector": "Construction", "country": "BR"}
+{"group": "grupo-charlie", "month": "2025-06", "attack_month": "", "sector": "Retail", "country": "GB"}
+{"group": "grupo-charlie", "month": "2025-06", "attack_month": "2025-06", "sector": "Technology", "country": "US"}
+{"group": "grupo-eco", "month": "2025-06", "attack_month": "2025-04", "sector": "Technology", "country": "GB"}
+{"group": "grupo-eco", "month": "2025-06", "attack_month": "2025-05", "sector": "Government", "country": "CA"}
+{"group": "grupo-eco", "month": "2025-06", "attack_month": "2025-04", "sector": "Financial Services", "country": "FR"}
+{"group": "grupo-eco", "month": "2025-06", "attack_month": "", "sector": "Technology", "country": "GB"}
+{"group": "grupo-alfa", "month": "2025-07", "attack_month": "2025-07", "sector": "Education", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-07", "attack_month": "2025-06", "sector": "Manufacturing", "country": "DE"}
+{"group": "grupo-bravo", "month": "2025-07", "attack_month": "2025-07", "sector": "Healthcare", "country": "GB"}
+{"group": "grupo-charlie", "month": "2025-07", "attack_month": "2025-06", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-charlie", "month": "2025-07", "attack_month": "", "sector": "Unknown", "country": "FR"}
+{"group": "grupo-charlie", "month": "2025-07", "attack_month": "2025-07", "sector": "Retail", "country": "US"}
+{"group": "grupo-eco", "month": "2025-07", "attack_month": "2025-07", "sector": "Construction", "country": "US"}
+{"group": "grupo-eco", "month": "2025-07", "attack_month": "2025-05", "sector": "Retail", "country": "CA"}
+{"group": "grupo-eco", "month": "2025-07", "attack_month": "2025-07", "sector": "Construction", "country": "GB"}
+{"group": "grupo-alfa", "month": "2025-08", "attack_month": "2025-08", "sector": "Government", "country": "BR"}
+{"group": "grupo-alfa", "month": "2025-08", "attack_month": "", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-alfa", "month": "2025-08", "attack_month": "2025-07", "sector": "Unknown", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-08", "attack_month": "2025-07", "sector": "Retail", "country": "DE"}
+{"group": "grupo-bravo", "month": "2025-08", "attack_month": "", "sector": "Technology", "country": "FR"}
+{"group": "grupo-bravo", "month": "2025-08", "attack_month": "2025-07", "sector": "Unknown", "country": "FR"}
+{"group": "grupo-eco", "month": "2025-08", "attack_month": "2025-07", "sector": "Healthcare", "country": "DE"}
+{"group": "grupo-eco", "month": "2025-08", "attack_month": "", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-eco", "month": "2025-08", "attack_month": "", "sector": "Technology", "country": "US"}
+{"group": "grupo-eco", "month": "2025-08", "attack_month": "", "sector": "Government", "country": "IT"}
+{"group": "grupo-eco", "month": "2025-08", "attack_month": "", "sector": "Government", "country": ""}
+{"group": "grupo-eco", "month": "2025-08", "attack_month": "2025-06", "sector": "Retail", "country": ""}
+{"group": "grupo-alfa", "month": "2025-09", "attack_month": "", "sector": "Education", "country": "GB"}
+{"group": "grupo-alfa", "month": "2025-09", "attack_month": "2025-07", "sector": "Retail", "country": "FR"}
+{"group": "grupo-alfa", "month": "2025-09", "attack_month": "2025-08", "sector": "Government", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-09", "attack_month": "", "sector": "Technology", "country": ""}
+{"group": "grupo-alfa", "month": "2025-09", "attack_month": "", "sector": "Technology", "country": "CA"}
+{"group": "grupo-bravo", "month": "2025-09", "attack_month": "", "sector": "Construction", "country": "IT"}
+{"group": "grupo-bravo", "month": "2025-09", "attack_month": "", "sector": "Manufacturing", "country": "IT"}
+{"group": "grupo-charlie", "month": "2025-09", "attack_month": "2025-09", "sector": "Government", "country": "FR"}
+{"group": "grupo-eco", "month": "2025-09", "attack_month": "", "sector": "Government", "country": "US"}
+{"group": "grupo-eco", "month": "2025-09", "attack_month": "2025-08", "sector": "Retail", "country": "US"}
+{"group": "grupo-eco", "month": "2025-09", "attack_month": "", "sector": "Manufacturing", "country": "DE"}
+{"group": "grupo-alfa", "month": "2025-10", "attack_month": "2025-08", "sector": "Healthcare", "country": "BR"}
+{"group": "grupo-alfa", "month": "2025-10", "attack_month": "", "sector": "Retail", "country": ""}
+{"group": "grupo-alfa", "month": "2025-10", "attack_month": "2025-08", "sector": "Retail", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-10", "attack_month": "", "sector": "Education", "country": "GB"}
+{"group": "grupo-alfa", "month": "2025-10", "attack_month": "", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-bravo", "month": "2025-10", "attack_month": "", "sector": "Retail", "country": "GB"}
+{"group": "grupo-bravo", "month": "2025-10", "attack_month": "", "sector": "Construction", "country": "US"}
+{"group": "grupo-charlie", "month": "2025-10", "attack_month": "", "sector": "Construction", "country": ""}
+{"group": "grupo-charlie", "month": "2025-10", "attack_month": "", "sector": "Healthcare", "country": ""}
+{"group": "grupo-eco", "month": "2025-10", "attack_month": "", "sector": "Unknown", "country": "US"}
+{"group": "grupo-eco", "month": "2025-10", "attack_month": "2025-09", "sector": "Construction", "country": "FR"}
+{"group": "grupo-eco", "month": "2025-10", "attack_month": "", "sector": "Education", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-11", "attack_month": "", "sector": "Financial Services", "country": "DE"}
+{"group": "grupo-alfa", "month": "2025-11", "attack_month": "2025-11", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-alfa", "month": "2025-11", "attack_month": "", "sector": "Unknown", "country": "FR"}
+{"group": "grupo-bravo", "month": "2025-11", "attack_month": "", "sector": "Unknown", "country": "US"}
+{"group": "grupo-bravo", "month": "2025-11", "attack_month": "2025-10", "sector": "Healthcare", "country": "CA"}
+{"group": "grupo-bravo", "month": "2025-11", "attack_month": "", "sector": "Healthcare", "country": "CA"}
+{"group": "grupo-bravo", "month": "2025-11", "attack_month": "2025-10", "sector": "Healthcare", "country": "IT"}
+{"group": "grupo-charlie", "month": "2025-11", "attack_month": "2025-09", "sector": "Government", "country": "CA"}
+{"group": "grupo-eco", "month": "2025-11", "attack_month": "2025-09", "sector": "Financial Services", "country": "FR"}
+{"group": "grupo-eco", "month": "2025-11", "attack_month": "", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-alfa", "month": "2025-12", "attack_month": "2025-11", "sector": "Construction", "country": "FR"}
+{"group": "grupo-alfa", "month": "2025-12", "attack_month": "2025-11", "sector": "Financial Services", "country": "CA"}
+{"group": "grupo-bravo", "month": "2025-12", "attack_month": "2025-11", "sector": "Manufacturing", "country": ""}
+{"group": "grupo-bravo", "month": "2025-12", "attack_month": "", "sector": "Unknown", "country": "US"}
+{"group": "grupo-bravo", "month": "2025-12", "attack_month": "2025-11", "sector": "Unknown", "country": "US"}
+{"group": "grupo-charlie", "month": "2025-12", "attack_month": "", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-eco", "month": "2025-12", "attack_month": "2025-10", "sector": "Government", "country": "BR"}
+{"group": "grupo-eco", "month": "2025-12", "attack_month": "", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-eco", "month": "2025-12", "attack_month": "2025-12", "sector": "Retail", "country": "DE"}
+{"group": "grupo-eco", "month": "2025-12", "attack_month": "2025-11", "sector": "Retail", "country": "US"}
+{"group": "grupo-eco", "month": "2025-12", "attack_month": "", "sector": "Government", "country": "US"}
+{"group": "grupo-eco", "month": "2025-12", "attack_month": "", "sector": "Government", "country": "IT"}
+{"group": "grupo-alfa", "month": "2026-01", "attack_month": "2025-11", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-alfa", "month": "2026-01", "attack_month": "2026-01", "sector": "Technology", "country": "GB"}
+{"group": "grupo-alfa", "month": "2026-01", "attack_month": "2025-11", "sector": "Manufacturing", "country": "DE"}
+{"group": "grupo-alfa", "month": "2026-01", "attack_month": "", "sector": "Technology", "country": "US"}
+{"group": "grupo-bravo", "month": "2026-01", "attack_month": "2025-12", "sector": "Government", "country": "CA"}
+{"group": "grupo-bravo", "month": "2026-01", "attack_month": "2025-12", "sector": "Healthcare", "country": "GB"}
+{"group": "grupo-charlie", "month": "2026-01", "attack_month": "", "sector": "Technology", "country": "FR"}
+{"group": "grupo-eco", "month": "2026-01", "attack_month": "2026-01", "sector": "Technology", "country": "FR"}
+{"group": "grupo-eco", "month": "2026-01", "attack_month": "2025-11", "sector": "Construction", "country": "IT"}
+{"group": "grupo-eco", "month": "2026-01", "attack_month": "", "sector": "Retail", "country": "GB"}
+{"group": "grupo-eco", "month": "2026-01", "attack_month": "2026-01", "sector": "Retail", "country": "US"}
+{"group": "grupo-alfa", "month": "2026-02", "attack_month": "2026-01", "sector": "Retail", "country": "US"}
+{"group": "grupo-alfa", "month": "2026-02", "attack_month": "2025-12", "sector": "Healthcare", "country": ""}
+{"group": "grupo-alfa", "month": "2026-02", "attack_month": "2025-12", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-alfa", "month": "2026-02", "attack_month": "2026-01", "sector": "Manufacturing", "country": "GB"}
+{"group": "grupo-charlie", "month": "2026-02", "attack_month": "2025-12", "sector": "Education", "country": "FR"}
+{"group": "grupo-charlie", "month": "2026-02", "attack_month": "", "sector": "Education", "country": "US"}
+{"group": "grupo-eco", "month": "2026-02", "attack_month": "2026-02", "sector": "Financial Services", "country": "GB"}
+{"group": "grupo-eco", "month": "2026-02", "attack_month": "2026-01", "sector": "Retail", "country": "GB"}
+{"group": "grupo-alfa", "month": "2026-03", "attack_month": "2026-01", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-alfa", "month": "2026-03", "attack_month": "2026-03", "sector": "Retail", "country": "FR"}
+{"group": "grupo-alfa", "month": "2026-03", "attack_month": "2026-02", "sector": "Construction", "country": "US"}
+{"group": "grupo-bravo", "month": "2026-03", "attack_month": "2026-03", "sector": "Unknown", "country": "GB"}
+{"group": "grupo-bravo", "month": "2026-03", "attack_month": "2026-01", "sector": "Retail", "country": ""}
+{"group": "grupo-eco", "month": "2026-03", "attack_month": "", "sector": "Government", "country": "BR"}
+{"group": "grupo-eco", "month": "2026-03", "attack_month": "", "sector": "Retail", "country": "CA"}
+{"group": "grupo-alfa", "month": "2026-04", "attack_month": "", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-alfa", "month": "2026-04", "attack_month": "", "sector": "Construction", "country": "BR"}
+{"group": "grupo-alfa", "month": "2026-04", "attack_month": "2026-02", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-bravo", "month": "2026-04", "attack_month": "2026-03", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-bravo", "month": "2026-04", "attack_month": "2026-03", "sector": "Retail", "country": "BR"}
+{"group": "grupo-bravo", "month": "2026-04", "attack_month": "", "sector": "Government", "country": "BR"}
+{"group": "grupo-bravo", "month": "2026-04", "attack_month": "2026-03", "sector": "Healthcare", "country": "FR"}
+{"group": "grupo-bravo", "month": "2026-04", "attack_month": "", "sector": "Education", "country": "DE"}
+{"group": "grupo-charlie", "month": "2026-04", "attack_month": "2026-03", "sector": "Unknown", "country": "BR"}
+{"group": "grupo-charlie", "month": "2026-04", "attack_month": "", "sector": "Government", "country": "DE"}
+{"group": "grupo-eco", "month": "2026-04", "attack_month": "2026-03", "sector": "Education", "country": "IT"}
+{"group": "grupo-eco", "month": "2026-04", "attack_month": "2026-02", "sector": "Technology", "country": "IT"}
+{"group": "grupo-eco", "month": "2026-04", "attack_month": "", "sector": "Technology", "country": ""}
+{"group": "grupo-alfa", "month": "2026-05", "attack_month": "2026-04", "sector": "Technology", "country": "FR"}
+{"group": "grupo-alfa", "month": "2026-05", "attack_month": "2026-04", "sector": "Healthcare", "country": ""}
+{"group": "grupo-alfa", "month": "2026-05", "attack_month": "2026-04", "sector": "Unknown", "country": "DE"}
+{"group": "grupo-alfa", "month": "2026-05", "attack_month": "", "sector": "Healthcare", "country": "DE"}
+{"group": "grupo-alfa", "month": "2026-05", "attack_month": "2026-04", "sector": "Manufacturing", "country": "BR"}
+{"group": "grupo-bravo", "month": "2026-05", "attack_month": "2026-03", "sector": "Technology", "country": "US"}
+{"group": "grupo-bravo", "month": "2026-05", "attack_month": "", "sector": "Unknown", "country": "BR"}
+{"group": "grupo-charlie", "month": "2026-05", "attack_month": "2026-04", "sector": "Technology", "country": "IT"}
+{"group": "grupo-charlie", "month": "2026-05", "attack_month": "", "sector": "Healthcare", "country": "FR"}
+{"group": "grupo-charlie", "month": "2026-05", "attack_month": "2026-05", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-charlie", "month": "2026-05", "attack_month": "2026-04", "sector": "Technology", "country": "FR"}
+{"group": "grupo-eco", "month": "2026-05", "attack_month": "2026-04", "sector": "Healthcare", "country": "BR"}
+{"group": "grupo-eco", "month": "2026-05", "attack_month": "2026-04", "sector": "Technology", "country": "GB"}
+{"group": "grupo-eco", "month": "2026-05", "attack_month": "2026-05", "sector": "Healthcare", "country": ""}
+{"group": "grupo-eco", "month": "2026-05", "attack_month": "2026-04", "sector": "Unknown", "country": ""}
+{"group": "grupo-eco", "month": "2026-05", "attack_month": "", "sector": "Healthcare", "country": ""}
+{"group": "grupo-alfa", "month": "2026-06", "attack_month": "2026-05", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-alfa", "month": "2026-06", "attack_month": "2026-06", "sector": "Financial Services", "country": "CA"}
+{"group": "grupo-alfa", "month": "2026-06", "attack_month": "2026-05", "sector": "Government", "country": ""}
+{"group": "grupo-alfa", "month": "2026-06", "attack_month": "", "sector": "Government", "country": "DE"}
+{"group": "grupo-alfa", "month": "2026-06", "attack_month": "2026-06", "sector": "Construction", "country": "GB"}
+{"group": "grupo-bravo", "month": "2026-06", "attack_month": "2026-04", "sector": "Healthcare", "country": "IT"}
+{"group": "grupo-charlie", "month": "2026-06", "attack_month": "", "sector": "Retail", "country": "BR"}
+{"group": "grupo-charlie", "month": "2026-06", "attack_month": "", "sector": "Construction", "country": "US"}
+{"group": "grupo-eco", "month": "2026-06", "attack_month": "2026-05", "sector": "Unknown", "country": "FR"}
+{"group": "grupo-eco", "month": "2026-06", "attack_month": "2026-05", "sector": "Government", "country": "US"}
+{"group": "grupo-eco", "month": "2026-06", "attack_month": "2026-04", "sector": "Healthcare", "country": "US"}
+{"group": "grupo-eco", "month": "2026-06", "attack_month": "", "sector": "Construction", "country": "DE"}
+{"group": "grupo-eco", "month": "2026-06", "attack_month": "", "sector": "Healthcare", "country": "BR"}
+{"group": "grupo-alfa", "month": "2026-07", "attack_month": "2026-06", "sector": "Unknown", "country": "IT"}
+{"group": "grupo-alfa", "month": "2026-07", "attack_month": "2026-05", "sector": "Government", "country": "US"}
+{"group": "grupo-alfa", "month": "2026-07", "attack_month": "", "sector": "Unknown", "country": "IT"}
+{"group": "grupo-alfa", "month": "2026-07", "attack_month": "2026-07", "sector": "Financial Services", "country": "CA"}
+{"group": "grupo-bravo", "month": "2026-07", "attack_month": "", "sector": "Education", "country": "IT"}
+{"group": "grupo-bravo", "month": "2026-07", "attack_month": "2026-07", "sector": "Government", "country": "GB"}
+{"group": "grupo-bravo", "month": "2026-07", "attack_month": "", "sector": "Construction", "country": "US"}
+{"group": "grupo-charlie", "month": "2026-07", "attack_month": "2026-06", "sector": "Retail", "country": "US"}
+{"group": "grupo-eco", "month": "2026-07", "attack_month": "2026-05", "sector": "Retail", "country": "FR"}
+{"group": "grupo-alfa", "month": "2026-08", "attack_month": "", "sector": "Education", "country": "CA"}
+{"group": "grupo-alfa", "month": "2026-08", "attack_month": "", "sector": "Technology", "country": "US"}
+{"group": "grupo-bravo", "month": "2026-08", "attack_month": "2026-07", "sector": "Construction", "country": "BR"}
+{"group": "grupo-bravo", "month": "2026-08", "attack_month": "", "sector": "Healthcare", "country": "DE"}
+{"group": "grupo-charlie", "month": "2026-08", "attack_month": "", "sector": "Manufacturing", "country": "US"}
+{"group": "grupo-eco", "month": "2026-08", "attack_month": "2026-07", "sector": "Government", "country": "FR"}
+{"group": "grupo-eco", "month": "2026-08", "attack_month": "2026-06", "sector": "Retail", "country": "CA"}
+{"group": "grupo-eco", "month": "2026-08", "attack_month": "2026-06", "sector": "Education", "country": "CA"}
+{"group": "grupo-alfa", "month": "2026-09", "attack_month": "2026-07", "sector": "Financial Services", "country": "BR"}
+{"group": "grupo-alfa", "month": "2026-09", "attack_month": "2026-07", "sector": "Education", "country": ""}
+{"group": "grupo-alfa", "month": "2026-09", "attack_month": "", "sector": "Education", "country": ""}
+{"group": "grupo-bravo", "month": "2026-09", "attack_month": "", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-charlie", "month": "2026-09", "attack_month": "", "sector": "Construction", "country": "US"}
+{"group": "grupo-charlie", "month": "2026-09", "attack_month": "", "sector": "Financial Services", "country": "US"}
+{"group": "grupo-eco", "month": "2026-09", "attack_month": "2026-08", "sector": "Technology", "country": "DE"}
+{"group": "grupo-eco", "month": "2026-09", "attack_month": "2026-08", "sector": "Construction", "country": "US"}
+{"group": "grupo-eco", "month": "2026-09", "attack_month": "", "sector": "Construction", "country": "FR"}
+{"group": "grupo-eco", "month": "2026-09", "attack_month": "", "sector": "Government", "country": "US"}
+{"group": "grupo-eco", "month": "2026-09", "attack_month": "", "sector": "Unknown", "country": "DE"}

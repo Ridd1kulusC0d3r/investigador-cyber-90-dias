@@ -1,0 +1,30 @@
+{
+  "_aviso": "Dados 100% fictícios da Operação Isca (Investigador Cyber 90 Dias, Dia 43). Domínios .example (RFC 2606), IPs de documentação (RFC 5737). Equivale ao nodes.csv/edges.csv do Dia 40 do original.",
+  "semente": {"relatorio": "Relatório interno Vigia VIGIA-2026-001, triagem do SMS 'Pix bloqueado'", "data": "2026-10-05"},
+  "mapa_confianca": {"forte": 70, "media": 40, "fraca": 20},
+  "nos": [
+    {"id": "N1", "tipo": "domain-name", "valor": "serraazul-pix.example", "status": "semente", "origem": "SMS recebidos pelos cooperados em 2026-10-05 (07h12-08h40 BRT)", "forca": "forte"},
+    {"id": "N2", "tipo": "ipv4-addr", "valor": "203.0.113.77", "status": "semente", "origem": "Resolução DNS de N1 em 2026-10-05", "forca": "forte"},
+    {"id": "N3", "tipo": "domain-name", "valor": "serraazul-seguranca.example", "status": "membro", "origem": "Mesmo certificado TLS de N1 (SAN lista os dois nomes), crt.sh", "forca": "forte"},
+    {"id": "N4", "tipo": "domain-name", "valor": "coopserra-azul.example", "status": "nao-confirmado", "origem": "Só semelhança de nome; registrado em 2026-10-03, página estacionada, sem kit", "forca": "fraca"},
+    {"id": "N5", "tipo": "domain-name", "valor": "coopvale-pix.example", "status": "membro", "origem": "Mesmo hash de corpo HTML do IscaKit (3 resultados) e mesmo IP 203.0.113.77 em DNS passivo", "forca": "media"},
+    {"id": "N6", "tipo": "domain-name", "valor": "credminas-seguranca.example", "status": "membro", "origem": "Mesmo favicon customizado (hash -1029384756, 9 resultados) e mesma string '// pescador' no JS em varredura pública", "forca": "media"},
+    {"id": "N7", "tipo": "ipv4-addr", "valor": "198.51.100.40", "status": "membro", "origem": "Resolução DNS de N6 e N8", "forca": "media"},
+    {"id": "N8", "tipo": "domain-name", "valor": "unicoop-sul-pix.example", "status": "membro", "origem": "Certificado TLS com SAN compartilhado com N6, crt.sh", "forca": "forte"},
+    {"id": "N9", "tipo": "domain-name", "valor": "cooperouro-regulariza.example", "status": "nao-confirmado", "origem": "Só o mesmo título de página 'Regularização de Chave Pix' (título genérico, 214 resultados)", "forca": "fraca"},
+    {"id": "N10", "tipo": "url", "valor": "https://lnk.example/sa7", "status": "semente", "origem": "Encurtador citado no SMS; redireciona para N1", "forca": "forte"}
+  ],
+  "arestas": [
+    {"de": "N1", "para": "N2", "pivo": "DNS A (resolução)", "resultados": 1, "forca": "forte"},
+    {"de": "N1", "para": "N3", "pivo": "SAN do mesmo certificado TLS (crt.sh)", "resultados": 2, "forca": "forte"},
+    {"de": "N1", "para": "N4", "pivo": "semelhança lexical do nome (sem pivô técnico)", "resultados": 0, "forca": "fraca"},
+    {"de": "N1", "para": "N5", "pivo": "hash do corpo HTML do IscaKit", "resultados": 3, "forca": "media"},
+    {"de": "N5", "para": "N2", "pivo": "DNS passivo: mesmo IP", "resultados": 41, "forca": "fraca"},
+    {"de": "N1", "para": "N6", "pivo": "hash de favicon customizado", "resultados": 9, "forca": "media"},
+    {"de": "N6", "para": "N7", "pivo": "DNS A (resolução)", "resultados": 1, "forca": "forte"},
+    {"de": "N6", "para": "N8", "pivo": "SAN do mesmo certificado TLS (crt.sh)", "resultados": 2, "forca": "forte"},
+    {"de": "N8", "para": "N7", "pivo": "DNS A (resolução)", "resultados": 1, "forca": "forte"},
+    {"de": "N1", "para": "N9", "pivo": "mesmo título de página", "resultados": 214, "forca": "fraca"},
+    {"de": "N10", "para": "N1", "pivo": "redirecionamento HTTP observado", "resultados": 1, "forca": "forte"}
+  ]
+}

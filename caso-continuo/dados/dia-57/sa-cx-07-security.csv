@@ -1,0 +1,10 @@
+TimeCreatedUtc,EventID,TargetUserName,LogonType,IpAddress,NewProcessName,ParentProcessName
+2026-10-05T10:51:02Z,4624,SYSTEM,5,-,"",""
+2026-10-05T10:52:10Z,4624,cx.centro07,2,-,"",""
+2026-10-05T10:52:31Z,4688,cx.centro07,,,"C:\Windows\explorer.exe","C:\Windows\System32\userinit.exe"
+2026-10-05T10:53:40Z,4688,cx.centro07,,,"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe","C:\Windows\explorer.exe"
+2026-10-05T11:24:31Z,4688,cx.centro07,,,"C:\Users\cx.centro07\AppData\Roaming\MSA\msa-atualizador.exe","C:\Windows\explorer.exe"
+2026-10-05T11:24:44Z,4688,cx.centro07,,,"C:\Windows\System32\schtasks.exe","C:\Users\cx.centro07\AppData\Roaming\MSA\msa-atualizador.exe"
+2026-10-05T13:15:12Z,4625,cx.centro07,2,-,"",""
+2026-10-05T13:15:20Z,4624,cx.centro07,2,-,"",""
+2026-10-05T13:42:00Z,4800,cx.centro07,,,"",""

@@ -12,7 +12,9 @@ Só stdlib.
 
 from comum import RAIZ, FASES, ler_mapa, pasta_do_dia, link_original
 
-ICONE = {"estudado": "✅", "em-andamento": "🟡", "pendente": "⬜"}
+# rascunho  = o dia já foi escrito (tradução + camadas + notebook), mas você ainda não estudou
+# estudado  = você fez a prática e o artefato existe
+ICONE = {"estudado": "✅", "em-andamento": "🟡", "rascunho": "📝", "pendente": "⬜"}
 
 
 def main():
@@ -28,9 +30,11 @@ def main():
         "",
         "<!-- Arquivo gerado por scripts/gerar_indice.py. Edite o mapa-dos-dias.csv, não este arquivo. -->",
         "",
-        f"**Progresso:** `{barra}` {feitos}/{len(dias)} dias",
+        f"**Estudado por você:** `{barra}` {feitos}/{len(dias)} dias",
         "",
-        "Legenda: ✅ estudado · 🟡 em andamento · ⬜ pendente. "
+        f"**Conteúdo escrito:** {sum(1 for d in dias if d['status'] != 'pendente')}/{len(dias)} dias",
+        "",
+        "Legenda: ✅ estudado (artefato feito) · 🟡 em andamento · 📝 conteúdo pronto, aguardando estudo · ⬜ pendente. "
         "Cada dia segue o [`_modelo-do-dia.md`](_modelo-do-dia.md).",
         "",
     ]

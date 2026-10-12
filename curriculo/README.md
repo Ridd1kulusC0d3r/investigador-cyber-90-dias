@@ -2,15 +2,17 @@
 
 <!-- Arquivo gerado por scripts/gerar_indice.py. Edite o mapa-dos-dias.csv, não este arquivo. -->
 
-**Progresso:** `░░░░░░░░░░░░░░░░░░░░` 1/90 dias
+**Estudado por você:** `░░░░░░░░░░░░░░░░░░░░` 0/90 dias
 
-Legenda: ✅ estudado · 🟡 em andamento · ⬜ pendente. Cada dia segue o [`_modelo-do-dia.md`](_modelo-do-dia.md).
+**Conteúdo escrito:** 1/90 dias
+
+Legenda: ✅ estudado (artefato feito) · 🟡 em andamento · 📝 conteúdo pronto, aguardando estudo · ⬜ pendente. Cada dia segue o [`_modelo-do-dia.md`](_modelo-do-dia.md).
 
 ## Fase 1. Fundamentos (dias 1 a 18)
 
 | | Dia | Tema | Original |
 |---|---|---|---|
-| ✅ | 01 | [O que faz um investigador, e a linha que você não cruza](fase-1-fundamentos/dia-01/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-01.md) |
+| 📝 | 01 | [O que faz um investigador, e a linha que você não cruza](fase-1-fundamentos/dia-01/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-01.md) |
 | ⬜ | 02 | Disciplina de evidência, da coleta ao registro de custódia | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-02.md) |
 | ⬜ | 03 | TCP/IP para investigadores: lendo uma conexão no Wireshark | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-03.md) |
 | ⬜ | 04 | Lendo logs de conexão com Zeek e tabelas de sockets ao vivo | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-04.md) |
@@ -19,15 +21,15 @@ Legenda: ✅ estudado · 🟡 em andamento · ⬜ pendente. Cada dia segue o [`_
 | ⬜ | 07 | HTTP para investigadores: cabeçalhos, códigos de status e cadeias de redirecionamento | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-07.md) |
 | ⬜ | 08 | TLS e certificados: o que o investigador lê num certificado | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-08.md) |
 | ⬜ | 09 | Sub-redes e CIDR para ler logs de firewall | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-09.md) |
-| ⬜ | 10 | O shell Linux, o sistema de arquivos e o modelo de permissões | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-10.md) |
-| ⬜ | 11 | Triagem de logs web com grep, awk e sed | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-11.md) |
-| ⬜ | 12 | Triagem de logs de autenticação e a linha do tempo de uma intrusão SSH | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-12.md) |
-| ⬜ | 13 | Script Bash para automatizar uma etapa de reconhecimento | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-13.md) |
-| ⬜ | 14 | A tríade CID (confidencialidade, integridade, disponibilidade) como aparece na evidência | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-14.md) |
-| ⬜ | 15 | Vetores de ataque comuns e a evidência que cada um deixa | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-15.md) |
-| ⬜ | 16 | Modelagem de ameaças com STRIDE | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-16.md) |
-| ⬜ | 17 | Do modelo de ameaças ao mapa de evidências: qual registro prova o quê | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-17.md) |
-| ⬜ | 18 | Monte seu laboratório de investigação e mapeie a topologia | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-18.md) |
+| ⬜ | 10 | [O shell Linux, o sistema de arquivos e o modelo de permissões](fase-1-fundamentos/dia-10/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-10.md) |
+| ⬜ | 11 | [Triagem de logs web com grep, awk e sed](fase-1-fundamentos/dia-11/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-11.md) |
+| ⬜ | 12 | [Triagem de logs de autenticação e a linha do tempo de uma intrusão SSH](fase-1-fundamentos/dia-12/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-12.md) |
+| ⬜ | 13 | [Script Bash para automatizar uma etapa de reconhecimento](fase-1-fundamentos/dia-13/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-13.md) |
+| ⬜ | 14 | [A tríade CID (confidencialidade, integridade, disponibilidade) como aparece na evidência](fase-1-fundamentos/dia-14/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-14.md) |
+| ⬜ | 15 | [Vetores de ataque comuns e a evidência que cada um deixa](fase-1-fundamentos/dia-15/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-15.md) |
+| ⬜ | 16 | [Modelagem de ameaças com STRIDE](fase-1-fundamentos/dia-16/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-16.md) |
+| ⬜ | 17 | [Do modelo de ameaças ao mapa de evidências: qual registro prova o quê](fase-1-fundamentos/dia-17/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-17.md) |
+| ⬜ | 18 | [Monte seu laboratório de investigação e mapeie a topologia](fase-1-fundamentos/dia-18/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-1-foundations/day-18.md) |
 
 ## Fase 2. OSINT e pegada digital (dias 19 a 34)
 
@@ -41,26 +43,26 @@ Legenda: ✅ estudado · 🟡 em andamento · ⬜ pendente. Cada dia segue o [`_
 | ⬜ | 24 | Enumeração de username e mapeamento da pegada digital (a sua) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-24.md) |
 | ⬜ | 25 | Investigação em redes sociais, parte 1: reconhecimento por plataforma | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-25.md) |
 | ⬜ | 26 | Investigação em redes sociais, parte 2: conteúdo arquivado e apagado | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-26.md) |
-| ⬜ | 27 | Forense de metadados, parte 1: imagens e geolocalização | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-27.md) |
-| ⬜ | 28 | Forense de metadados, parte 2: PDFs e documentos Office | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-28.md) |
-| ⬜ | 29 | Registro de domínios: WHOIS, RDAP e histórico de registro | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-29.md) |
-| ⬜ | 30 | Reconhecimento DNS com dig, nslookup e Certificate Transparency | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-30.md) |
-| ⬜ | 31 | Perfis de fachada (sock puppets): quando são permitidos e como mantê-los limpos | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-31.md) |
-| ⬜ | 32 | OPSEC do investigador: VPN, Tor, isolamento e teste de vazamentos | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-32.md) |
-| ⬜ | 33 | Direito e OSINT, parte 1: acesso, raspagem e termos de uso | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-33.md) |
-| ⬜ | 34 | Direito e OSINT, parte 2: armazenar, reter e descartar o que você coleta | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-34.md) |
+| ⬜ | 27 | [Forense de metadados, parte 1: imagens e geolocalização](fase-2-osint-pegada-digital/dia-27/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-27.md) |
+| ⬜ | 28 | [Forense de metadados, parte 2: PDFs e documentos Office](fase-2-osint-pegada-digital/dia-28/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-28.md) |
+| ⬜ | 29 | [Registro de domínios: WHOIS, RDAP e histórico de registro](fase-2-osint-pegada-digital/dia-29/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-29.md) |
+| ⬜ | 30 | [Reconhecimento DNS com dig, nslookup e Certificate Transparency](fase-2-osint-pegada-digital/dia-30/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-30.md) |
+| ⬜ | 31 | [Perfis de fachada (sock puppets): quando são permitidos e como mantê-los limpos](fase-2-osint-pegada-digital/dia-31/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-31.md) |
+| ⬜ | 32 | [OPSEC do investigador: VPN, Tor, isolamento e teste de vazamentos](fase-2-osint-pegada-digital/dia-32/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-32.md) |
+| ⬜ | 33 | [Direito e OSINT, parte 1: acesso, raspagem e termos de uso](fase-2-osint-pegada-digital/dia-33/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-33.md) |
+| ⬜ | 34 | [Direito e OSINT, parte 2: armazenar, reter e descartar o que você coleta](fase-2-osint-pegada-digital/dia-34/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-2-osint-digital-footprint/day-34.md) |
 
 ## Fase 3. Inteligência de ameaças cibernéticas (dias 35 a 48)
 
 | | Dia | Tema | Original |
 |---|---|---|---|
-| ⬜ | 35 | Como o ATT&CK é construído, da tática ao procedimento | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-35.md) |
-| ⬜ | 36 | Mapeando um alerta publicado no ATT&CK | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-36.md) |
-| ⬜ | 37 | O que contém um perfil de ator de ameaça | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-37.md) |
-| ⬜ | 38 | Rastreando atores pelo que é distintivo neles | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-38.md) |
-| ⬜ | 39 | Coletando e enriquecendo IOCs sem tocar no adversário | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-39.md) |
-| ⬜ | 40 | Pivotando infraestrutura de ameaça em um grafo | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-40.md) |
-| ⬜ | 41 | Monitoramento de dark web: o que é realista, e um setup seguro de Tor | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-41.md) |
+| ⬜ | 35 | [Como o ATT&CK é construído, da tática ao procedimento](fase-3-inteligencia-de-ameacas/dia-35/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-35.md) |
+| ⬜ | 36 | [Mapeando um alerta publicado no ATT&CK](fase-3-inteligencia-de-ameacas/dia-36/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-36.md) |
+| ⬜ | 37 | [O que contém um perfil de ator de ameaça](fase-3-inteligencia-de-ameacas/dia-37/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-37.md) |
+| ⬜ | 38 | [Rastreando atores pelo que é distintivo neles](fase-3-inteligencia-de-ameacas/dia-38/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-38.md) |
+| ⬜ | 39 | [Coletando e enriquecendo IOCs sem tocar no adversário](fase-3-inteligencia-de-ameacas/dia-39/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-39.md) |
+| ⬜ | 40 | [Pivotando infraestrutura de ameaça em um grafo](fase-3-inteligencia-de-ameacas/dia-40/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-40.md) |
+| ⬜ | 41 | [Monitoramento de dark web: o que é realista, e um setup seguro de Tor](fase-3-inteligencia-de-ameacas/dia-41/) | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-41.md) |
 | ⬜ | 42 | Medindo atividade de sites de vazamento de ransomware sem coletar vítimas | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-42.md) |
 | ⬜ | 43 | Escrevendo inteligência de ameaças em STIX 2.1 | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-43.md) |
 | ⬜ | 44 | Trafegando inteligência com TAXII e marcando com TLP | [EN](https://github.com/thiefdroppers/cyber-investigator-skills/blob/main/curriculum/phase-3-cyber-threat-intelligence/day-44.md) |

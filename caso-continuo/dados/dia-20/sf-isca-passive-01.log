@@ -1,0 +1,10 @@
+2026-10-06 10:10:00 INFO  sfp__stor_db: Scan P2-ISCA-passive-01 started, use case Passive
+2026-10-06 10:10:01 INFO  sfp_dnsresolve: Resolving serraazul-pix.example via public resolver 9.9.9.9
+2026-10-06 10:10:03 INFO  sfp_crt: Querying crt.sh for %.serraazul-pix.example
+2026-10-06 10:10:07 INFO  sfp_robtex: Querying third-party API for co-hosted sites on 203.0.113.77
+2026-10-06 10:10:09 INFO  sfp_similar: Generating look-alike candidates for serraazul-pix.example
+2026-10-06 10:10:12 INFO  sfp_whois: Querying RDAP for serraazul-pix.example
+2026-10-06 10:10:15 INFO  sfp_spider: Fetching https://serraazul-pix.example/ (module enabled manually after use-case selection)
+2026-10-06 10:10:16 INFO  sfp_webanalytics: Parsing web content from https://serraazul-pix.example/
+2026-10-06 10:10:20 INFO  sfp_bgpview: Querying third-party API for 203.0.113.77
+2026-10-06 10:40:02 INFO  sfp__stor_db: Scan P2-ISCA-passive-01 finished, 485 elements

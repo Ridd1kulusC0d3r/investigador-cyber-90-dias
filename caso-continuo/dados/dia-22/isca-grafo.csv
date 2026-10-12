@@ -1,0 +1,20 @@
+origem,destino,rotulo,fonte
+serraazul-pix.example,www.serraazul-pix.example,nome DNS,"Maltego, tabela D21 linha 2"
+serraazul-pix.example,admin.serraazul-pix.example,nome DNS,"Maltego, tabela D21 linha 3"
+serraazul-pix.example,cdn.serraazul-pix.example,nome DNS,"Maltego, tabela D21 linha 4"
+serraazul-pix.example,ns1.dnsbarato.example,NS,"Maltego, tabela D21 linha 1"
+www.serraazul-pix.example,203.0.113.77,resolve para,tabela D21 linha 6
+admin.serraazul-pix.example,203.0.113.77,resolve para,tabela D21 linha 7
+cdn.serraazul-pix.example,192.0.2.80,resolve para,tabela D21 linha 8
+ns1.dnsbarato.example,198.51.100.53,resolve para,tabela D21 linha 5
+203.0.113.77,AS64501,bloco/AS,tabela D21 linhas 12 e 17
+192.0.2.80,AS64500,bloco/AS,tabela D21 linhas 13 e 18
+198.51.100.53,AS64502,bloco/AS,tabela D21 linhas 14 e 19
+serraazul-seguranca.example,203.0.113.77,resolve para,tabela D21 linha 9
+serraazul-seguranca.example,ns1.dnsbarato.example,NS,"dig NS, registro ISCA linha 31"
+coopserra-azul.example,198.51.100.140,resolve para,tabela D21 linha 10
+198.51.100.140,AS64503,bloco/AS,tabela D21 linhas 15 e 20
+www.serraazul-pix.example,G-ISCA7K2Q9P,mesmo ID de analytics,"captura, registro ISCA linha 32"
+coopserra-azul.example,G-ISCA7K2Q9P,mesmo ID de analytics,"captura, registro ISCA linha 33"
+serraazull.example,198.51.100.200,resolve para,tabela D21 linha 11
+198.51.100.200,AS64504,bloco/AS,tabela D21 linhas 16 e 21

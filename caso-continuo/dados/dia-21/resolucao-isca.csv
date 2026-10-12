@@ -1,0 +1,46 @@
+linha,transform,entrada,tipo_entrada,saida,tipo_saida
+1,To DNS Name - NS (name server),serraazul-pix.example,Domain,ns1.dnsbarato.example,NS Record
+2,To DNS Name [Find common DNS names],serraazul-pix.example,Domain,www.serraazul-pix.example,DNS Name
+3,To DNS Name [Find common DNS names],serraazul-pix.example,Domain,admin.serraazul-pix.example,DNS Name
+4,To DNS Name [Find common DNS names],serraazul-pix.example,Domain,cdn.serraazul-pix.example,DNS Name
+5,To IP Address [DNS],ns1.dnsbarato.example,NS Record,198.51.100.53,IP Address
+6,To IP Address [DNS],www.serraazul-pix.example,DNS Name,203.0.113.77,IP Address
+7,To IP Address [DNS],admin.serraazul-pix.example,DNS Name,203.0.113.77,IP Address
+8,To IP Address [DNS],cdn.serraazul-pix.example,DNS Name,192.0.2.80,IP Address
+9,To IP Address [DNS],serraazul-seguranca.example,Domain,203.0.113.77,IP Address
+10,To IP Address [DNS],coopserra-azul.example,Domain,198.51.100.140,IP Address
+11,To IP Address [DNS],serraazull.example,Domain,198.51.100.200,IP Address
+12,To Netblocks [Using routing info],203.0.113.77,IP Address,203.0.113.64/26,Netblock
+13,To Netblocks [Using routing info],192.0.2.80,IP Address,192.0.2.64/26,Netblock
+14,To Netblocks [Using routing info],198.51.100.53,IP Address,198.51.100.0/26,Netblock
+15,To Netblocks [Using routing info],198.51.100.140,IP Address,198.51.100.128/26,Netblock
+16,To Netblocks [Using routing info],198.51.100.200,IP Address,198.51.100.192/26,Netblock
+17,To AS Number,203.0.113.64/26,Netblock,AS64501 HOSTBARATO-EXEMPLO,AS
+18,To AS Number,192.0.2.64/26,Netblock,AS64500 CDN-EXEMPLO,AS
+19,To AS Number,198.51.100.0/26,Netblock,AS64502 DNSBARATO-EXEMPLO,AS
+20,To AS Number,198.51.100.128/26,Netblock,AS64503 NUVEM-EXEMPLO,AS
+21,To AS Number,198.51.100.192/26,Netblock,AS64504 ESTACIONAMENTO-EXEMPLO,AS
+22,To DNS Name [Reverse IP],203.0.113.77,IP Address,serraazul-pix.example,DNS Name
+23,To DNS Name [Reverse IP],203.0.113.77,IP Address,serraazul-seguranca.example,DNS Name
+24,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente000-hostbarato.example,DNS Name
+25,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente001-hostbarato.example,DNS Name
+26,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente002-hostbarato.example,DNS Name
+27,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente003-hostbarato.example,DNS Name
+28,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente004-hostbarato.example,DNS Name
+29,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente005-hostbarato.example,DNS Name
+30,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente006-hostbarato.example,DNS Name
+31,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente007-hostbarato.example,DNS Name
+32,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente008-hostbarato.example,DNS Name
+33,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente009-hostbarato.example,DNS Name
+34,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente010-hostbarato.example,DNS Name
+35,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente011-hostbarato.example,DNS Name
+36,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente012-hostbarato.example,DNS Name
+37,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente013-hostbarato.example,DNS Name
+38,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente014-hostbarato.example,DNS Name
+39,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente015-hostbarato.example,DNS Name
+40,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente016-hostbarato.example,DNS Name
+41,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente017-hostbarato.example,DNS Name
+42,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente018-hostbarato.example,DNS Name
+43,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente019-hostbarato.example,DNS Name
+44,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente020-hostbarato.example,DNS Name
+45,To DNS Name [Reverse IP],203.0.113.77,IP Address,cliente021-hostbarato.example,DNS Name

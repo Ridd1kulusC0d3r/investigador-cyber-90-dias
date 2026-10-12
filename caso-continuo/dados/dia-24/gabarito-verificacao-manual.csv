@@ -1,0 +1,11 @@
+site,handle,categoria,evidencia
+Instagram,serraazul,oficial,Na lista oficial; bio linka serraazul.example; mesmo logotipo
+YouTube,serraazulcoop,oficial,Na lista oficial; descrição linka serraazul.example
+Facebook,serraazulcoop,oficial,Na lista oficial; mesmo CNPJ fictício 00.000.000/0001-00 na página
+Pinterest,serraazul,falso_positivo,Página genérica 'usuário não encontrado' com HTTP 200
+Pinterest,serraazulcoop,falso_positivo,Página genérica 'usuário não encontrado' com HTTP 200
+TikTok,serraazul,mesmo_handle_nao_oficial,Perfil real de loja de tintas 'Serra Azul' em outro estado; não está na lista
+Etsy,serraazul,mesmo_handle_nao_oficial,Perfil real de artesanato; não está na lista
+Instagram,serraazul.oficial,mesmo_handle_nao_oficial,NÃO está na lista oficial; usa o logotipo; oferece 'desbloqueio de Pix' (ver Dia 25)
+Telegram,serraazulcoop,falso_positivo,Telegram responde 200 com página de convite genérica
+Kwai,serraazul,falso_positivo,Redireciona para a página inicial com HTTP 200

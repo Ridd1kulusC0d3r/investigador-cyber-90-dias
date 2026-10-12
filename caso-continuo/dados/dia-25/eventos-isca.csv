@@ -1,0 +1,17 @@
+data,precisao,titulo,texto_fonte,grupo
+1998,ano (autodeclarado),Fundação da cooperativa,"LinkedIn 'Sobre', autodeclarado; registro #40",Oficial
+2012-05-14,dia,Página no Facebook criada,Transparência da Página /serraazulcoop; registro #41,Oficial
+2015-03,mês,Instagram @serraazul criado,Instagram 'Sobre esta conta' (mês e ano); registro #42,Oficial
+2016-08-02,dia,Canal @serraazulcoop no YouTube,Data de entrada do canal; registro #43,Oficial
+2026-10-05,dia,Alerta oficial no Instagram @serraazul,Post 'Não enviamos SMS com links'; registro #52,Oficial
+2025-03,mês,Conta 'Achadinhos BH' criada,Instagram 'Sobre esta conta' do perfil hoje @serraazul.oficial; registro #44,Instagram falso
+2025-11-20,dia,Renomeada para 'Promoções Mineiras',Histórico de nomes de usuário; registro #44,Instagram falso
+2026-10-04,dia,Renomeada para @serraazul.oficial,Histórico de nomes de usuário; registro #44,Instagram falso
+2026-10-04,dia,Anúncio impulsionado 'Desbloqueie seu Pix',"Biblioteca de Anúncios (ativo 04 a 06/out), capturado 06/out; registro #45",Instagram falso
+2026-10-02,dia,serraazul-pix.example registrado,RDAP (Dia 29 confirma); registro #20,Domínio
+2026-10-04,dia,Certificado TLS de serraazul-pix.example,crt.sh; registro #21,Domínio
+2026-10-05T10:12:00Z,segundo,Disparo dos SMS (07h12 BRT),Logs da operadora entregues pela cooperativa; registro #3,Domínio
+2026-10-05,visto pela 1ª vez,WhatsApp 'Serra Azul Atendimento' visto,"Print enviado por cooperado à ouvidoria (a data é do print, não da criação); registro #47",WhatsApp falso
+2026-10-05,dia,37 reclamações na ouvidoria,Relatório da ouvidoria; registro #4,Reclamações
+2026-10-06,dia,Primeira queixa pública no Reclame Aqui,Data da publicação da queixa; registro #48,Reclamações
+2026-10-07T14:03:11Z,segundo,Tópico em fórum público sobre o SMS,created_utc do tópico; registro #49,Reclamações

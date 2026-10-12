@@ -1,0 +1,28 @@
+n,falante,fala
+1,E,"Bom dia, seu Antônio. Meu nome é [analista], trabalho na Vigia, a empresa que a Serra Azul contratou para entender esse golpe. A Marta, da cooperativa, combinou esta conversa com o senhor."
+2,E,"Antes de começar: o que o senhor contar vai para o relatório do caso, que a cooperativa usa para tentar recuperar o dinheiro e para proteger outros cooperados. O senhor pode parar ou fazer uma pausa quando quiser."
+3,E,"E uma coisa importante: nem eu nem ninguém da cooperativa vai pedir dinheiro, taxa, senha ou código ao senhor. Se alguém pedir, é golpe. Tudo bem começarmos?"
+4,A,"Tudo bem. Eu tô com vergonha, viu. Minha filha nem sabe ainda."
+5,E,Por onde o senhor gostaria de começar?
+6,A,"Começou com um áudio do Cláudio, no domingo à noite. Era a voz dele, eu conheço o Cláudio há doze anos."
+7,E,Me conte como foi esse áudio.
+8,A,Ele disse que ia me ligar cedo por causa do Pix bloqueado. E ligou. Falou que tinha gente tentando tirar dinheiro da minha conta e que eu tinha que passar pra uma conta de segurança.
+9,E,E o que aconteceu depois disso?
+10,A,"Ele foi me guiando no aplicativo. Eu fiz um Pix, aí ele disse que não tinha ido tudo e eu fiz outro."
+11,E,O senhor não achou estranho transferir para uma conta que não era sua?
+12,A,"Achei... mas era o Cláudio, né. Ele falou que não podia desligar senão bloqueava tudo."
+13,E,Que nome aparecia como recebedor quando o senhor fez o Pix?
+14,A,"Era um nome de pessoa, não lembro. Ele disse que era o nome do 'responsável pela segurança'."
+15,E,"E ele pediu para o senhor não contar isso pra ninguém, não pediu?"
+16,A,"Pediu... acho que pediu, sim."
+17,E,"Quando foi, quanto foi e para qual chave?"
+18,A,"Ah, não sei... foi de manhã. Quase dez mil, nos dois."
+19,E,"Tudo bem não lembrar tudo. Podemos olhar juntos o extrato depois, um Pix de cada vez. O senhor tem o histórico de chamadas no celular?"
+20,A,"Tenho, ficou lá."
+21,E,Alguém ainda está entrando em contato com o senhor sobre isso? Alguém pediu mais dinheiro?
+22,A,"Ontem ligou um doutor, advogado, dizendo que recupera Pix. Queria oitocentos reais adiantado."
+23,E,"Obrigado por me contar. Esse tipo de ligação é comum depois de um golpe, e é outro golpe. Ele mandou nome, número ou site?"
+24,A,Mandou um número. Tá anotado num papel.
+25,E,"Deixa eu resumir o que entendi, e o senhor me corrige: áudio no domingo à noite, ligação na segunda cedo, dois Pix guiados por telefone, e ontem a ligação do 'advogado'. Está certo?"
+26,A,Tá certo.
+27,E,"Os próximos passos: a cooperativa já abriu o pedido de devolução pelo Pix, eu levo esses dados para o relatório, e a Marta liga para o senhor pelo número do seu cadastro. Não posso prometer que o dinheiro volta; quem decide isso é o processo entre as instituições. Como o senhor está se sentindo agora?"

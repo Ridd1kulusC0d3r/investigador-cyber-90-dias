@@ -1,0 +1,1 @@
+Print do histórico de chamadas: chamada recebida de +55 00 00000-0021 em 2026-10-26 08:05 America/Sao_Paulo, duração 23 min.
